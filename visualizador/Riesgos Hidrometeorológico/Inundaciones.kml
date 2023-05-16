@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="04_INUNDACIONES" id="04_INUNDACIONES">
+	<SimpleField name="FolderPath" type="string"></SimpleField>
+	<SimpleField name="SymbolID" type="float"></SimpleField>
+	<SimpleField name="AltMode" type="float"></SimpleField>
+	<SimpleField name="Base" type="float"></SimpleField>
+	<SimpleField name="Clamped" type="float"></SimpleField>
+	<SimpleField name="Extruded" type="float"></SimpleField>
+	<SimpleField name="PopupInfo" type="string"></SimpleField>
+	<SimpleField name="Shape_Leng" type="float"></SimpleField>
+	<SimpleField name="Shape_Area" type="float"></SimpleField>
+	<SimpleField name="TEMA" type="string"></SimpleField>
+</Schema>
+<Folder><name>04_INUNDACIONES</name>
+  <Placemark>
+	<name>ZU-01</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#04_INUNDACIONES">
+		<SimpleData name="FolderPath">ATLAS A ZARAGOZA 2019/Atlas de Atizapán de Zaragoza/Hidrometeorologicos/INUNDACIONES</SimpleData>
+		<SimpleData name="SymbolID">8</SimpleData>
+		<SimpleData name="AltMode">0</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="Clamped">-1</SimpleData>
+		<SimpleData name="Extruded">0</SimpleData>
+		<SimpleData name="PopupInfo">Colonia: ARBOLEDAS
+Población aproximada: 1,143
+Vivienda Total Habitada: 382
+Centros de Salud y hospitales: 0
+Centros de trabajo Educativos: 2
+Área en Hectáreas: 25,32</SimpleData>
+		<SimpleData name="Shape_Leng">0.01731492356</SimpleData>
+		<SimpleData name="Shape_Area">0.00001955245</SimpleData>
+		<SimpleData name="TEMA">INUNDACIONES</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2223639039999,19.565164392,0 -99.2191969619999,19.565681172,0 -99.217590988,19.564236442,0 -99.219288546,19.559756926,0 -99.2227056629999,19.562271739,0 -99.2223639039999,19.565164392,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>ZU-02</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#04_INUNDACIONES">
+		<SimpleData name="FolderPath">ATLAS A ZARAGOZA 2019/Atlas de Atizapán de Zaragoza/Hidrometeorologicos/INUNDACIONES</SimpleData>
+		<SimpleData name="SymbolID">8</SimpleData>
+		<SimpleData name="AltMode">0</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="Clamped">-1</SimpleData>
+		<SimpleData name="Extruded">0</SimpleData>
+		<SimpleData name="PopupInfo">COLONIA: CLUB DE GOLF LA HACIENDA
+Población Aproximada: 8,273
+Vivienda Total Habitada: 2,569
+Centros de Salud y Hospitales: 0
+Centros de Trabajo Educativos: 2</SimpleData>
+		<SimpleData name="Shape_Leng">0.06633565182</SimpleData>
+		<SimpleData name="Shape_Area">0.00015023829</SimpleData>
+		<SimpleData name="TEMA">INUNDACIONES</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.218719107,19.574952528,0 -99.219794671,19.570513635,0 -99.2273655819999,19.572294925,0 -99.2224967,19.565721239,0 -99.224024898,19.5628878790001,0 -99.2253348879999,19.564143781,0 -99.226091743,19.564474338,0 -99.226737853,19.5644474640001,0 -99.2277361659999,19.564303888,0 -99.228317217,19.564615516,0 -99.2293847059999,19.564435268,0 -99.2302360579999,19.564567356,0 -99.2307806199999,19.564545541,0 -99.2312539099999,19.564426544,0 -99.2316530769999,19.564756015,0 -99.2318011139999,19.564433801,0 -99.2319363189999,19.564620796,0 -99.2321035159999,19.5645587110001,0 -99.231832452,19.571001659,0 -99.2297755329999,19.572720707,0 -99.2330559009999,19.574051533,0 -99.233539057,19.574409249,0 -99.2329551919999,19.575714269,0 -99.2281228429999,19.580469382,0 -99.2245546089999,19.580457136,0 -99.223068143,19.579796573,0 -99.2217707829999,19.577167063,0 -99.218719107,19.574952528,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>ZU-03</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#04_INUNDACIONES">
+		<SimpleData name="FolderPath">ATLAS A ZARAGOZA 2019/Atlas de Atizapán de Zaragoza/Hidrometeorologicos/INUNDACIONES</SimpleData>
+		<SimpleData name="SymbolID">8</SimpleData>
+		<SimpleData name="AltMode">-1</SimpleData>
+		<SimpleData name="Base">10.00000000000</SimpleData>
+		<SimpleData name="Clamped">0</SimpleData>
+		<SimpleData name="Extruded">0</SimpleData>
+		<SimpleData name="PopupInfo">Colonia: FUENTES DE SATÉLITE
+Población Aproximada: 3,563 
+Vivienda Total Habitada: 1,193
+Centros de Salud y Hospitalarios: 0
+Centros de Trabajo Educativos: 0</SimpleData>
+		<SimpleData name="Shape_Leng">0.01846787568</SimpleData>
+		<SimpleData name="Shape_Area">0.00001418518</SimpleData>
+		<SimpleData name="TEMA">INUNDACIONES</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.255081423,19.5244541590001,0 -99.2549498639999,19.520834114,0 -99.255403152,19.520351244,0 -99.2573927119999,19.520993365,0 -99.2582080619999,19.521698367,0 -99.2592169119999,19.522077497,0 -99.259698169,19.522327567,0 -99.2603387629999,19.522830761,0 -99.2603184869999,19.523436292,0 -99.2611381559999,19.5241852610001,0 -99.2608452519999,19.524499092,0 -99.2601125519999,19.523905437,0 -99.259591291,19.524081932,0 -99.2587340199999,19.523548177,0 -99.2579928409999,19.523434778,0 -99.257178783,19.523871219,0 -99.2553894769999,19.5245806450001,0 -99.255081423,19.5244541590001,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>ZU-04</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#04_INUNDACIONES">
+		<SimpleData name="FolderPath">ATLAS A ZARAGOZA 2019/Atlas de Atizapán de Zaragoza/Hidrometeorologicos/INUNDACIONES</SimpleData>
+		<SimpleData name="SymbolID">8</SimpleData>
+		<SimpleData name="AltMode">0</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="Clamped">-1</SimpleData>
+		<SimpleData name="Extruded">0</SimpleData>
+		<SimpleData name="PopupInfo">Colonia: VILLAS DE LA HACIENDA
+Población aproximada: 9,897
+Vivienda Total Habitada: 3,621
+Centros de Salud y Hospitales: 0
+Centros de Trabajo y Educativos: 2</SimpleData>
+		<SimpleData name="Shape_Leng">0.04059854178</SimpleData>
+		<SimpleData name="Shape_Area">0.00004694499</SimpleData>
+		<SimpleData name="TEMA">INUNDACIONES</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2318407049999,19.608552089,0 -99.2216345529999,19.604111732,0 -99.2218413249999,19.601150687,0 -99.22247478,19.598519605,0 -99.222890733,19.598644849,0 -99.222920292,19.59834948,0 -99.225249278,19.598998824,0 -99.224616853,19.6009493380001,0 -99.2237763849999,19.602266415,0 -99.2246921559999,19.602746916,0 -99.225817013,19.6012842910001,0 -99.226837892,19.602156945,0 -99.2280460639999,19.603848062,0 -99.230669907,19.605116936,0 -99.2315921319999,19.60471482,0 -99.232980872,19.6041034510001,0 -99.2333982739999,19.607480087,0 -99.2318407049999,19.608552089,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>ZU-05</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#04_INUNDACIONES">
+		<SimpleData name="FolderPath">ATLAS A ZARAGOZA 2019/Atlas de Atizapán de Zaragoza/Hidrometeorologicos/INUNDACIONES</SimpleData>
+		<SimpleData name="SymbolID">8</SimpleData>
+		<SimpleData name="AltMode">-1</SimpleData>
+		<SimpleData name="Base">100.00000000000</SimpleData>
+		<SimpleData name="Clamped">0</SimpleData>
+		<SimpleData name="Extruded">0</SimpleData>
+		<SimpleData name="PopupInfo">Colonia: ALAMEDAS, EL POTRERO, LOMAS DE ATÍZAPAN, JARÍNES DE ATÍZAPAN
+Población aproximada: 68,825
+Vivienda total habitada: 20,719
+Centros de salud y hospitales: 2
+Centros de trabajo y educativo: 58</SimpleData>
+		<SimpleData name="Shape_Leng">0.11624519698</SimpleData>
+		<SimpleData name="Shape_Area">0.00033668278</SimpleData>
+		<SimpleData name="TEMA">INUNDACIONES</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2422601279999,19.545992583,0 -99.2575113549999,19.5516011920001,0 -99.256484947,19.555281037,0 -99.2514026159999,19.557611878,0 -99.2495185499999,19.557521046,0 -99.24895294,19.5593356250001,0 -99.2442148269999,19.557612126,0 -99.2403888629999,19.551943255,0 -99.235626762,19.553644693,0 -99.2351458509999,19.551698102,0 -99.233957086,19.551346765,0 -99.2330487509999,19.545273285,0 -99.230622397,19.542369837,0 -99.2295366129999,19.541501021,0 -99.2397329619999,19.527779971,0 -99.244292569,19.528284471,0 -99.245397183,19.5313349350001,0 -99.2463624649999,19.533318392,0 -99.245469615,19.534545893,0 -99.244297236,19.535929328,0 -99.2422855709999,19.536297711,0 -99.2416221009999,19.5387962340001,0 -99.2405213279999,19.542988982,0 -99.2387201419999,19.5425830990001,0 -99.2381742759999,19.544388335,0 -99.238155637,19.5453916970001,0 -99.239152206,19.546537159,0 -99.240556284,19.5484488700001,0 -99.2408589289999,19.548640263,0 -99.241006531,19.548710659,0 -99.240689101,19.548563838,0 -99.2399103339999,19.550053411,0 -99.2422601279999,19.545992583,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>ZU-06</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#04_INUNDACIONES">
+		<SimpleData name="FolderPath">ATLAS A ZARAGOZA 2019/Atlas de Atizapán de Zaragoza/Hidrometeorologicos/INUNDACIONES</SimpleData>
+		<SimpleData name="SymbolID">8</SimpleData>
+		<SimpleData name="AltMode">-1</SimpleData>
+		<SimpleData name="Base">25.00000000000</SimpleData>
+		<SimpleData name="Clamped">0</SimpleData>
+		<SimpleData name="Extruded">0</SimpleData>
+		<SimpleData name="PopupInfo">Colonia: Lomas de Bellavista
+Población aproximada: 5,654
+Vivienda total habitada: 1.931
+Centros de salud y hospitalarios: 0
+Centros de trabajo y educativos: 1</SimpleData>
+		<SimpleData name="Shape_Leng">0.01475028564</SimpleData>
+		<SimpleData name="Shape_Area">0.00001205837</SimpleData>
+		<SimpleData name="TEMA">INUNDACIONES</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2500265179999,19.518085481,0 -99.2501406589999,19.518289691,0 -99.2538678809999,19.519736751,0 -99.25365837,19.521254086,0 -99.2532602129999,19.5218106450001,0 -99.2531641289999,19.521780557,0 -99.252987637,19.521709236,0 -99.2527148449999,19.521630164,0 -99.2523614019999,19.5216544560001,0 -99.2520229089999,19.522063442,0 -99.2518122869999,19.522444763,0 -99.251667566,19.522697864,0 -99.2515190909999,19.522747843,0 -99.2511734399999,19.522727386,0 -99.2508673449999,19.5226966110001,0 -99.2504352459999,19.5225268450001,0 -99.2502348519999,19.522411589,0 -99.250130035,19.5222141450001,0 -99.2501300049999,19.521889342,0 -99.250130003,19.521562874,0 -99.2502137589999,19.521215842,0 -99.250265751,19.520920361,0 -99.2502861,19.520666083,0 -99.250171853,19.520438884,0 -99.250015478,19.520212988,0 -99.2499111289999,19.519966903,0 -99.2497961279999,19.519621752,0 -99.2497542399999,19.519414598,0 -99.2497018339999,19.519167739,0 -99.2496703099999,19.518970035,0 -99.2496807349999,19.5187729240001,0 -99.249733387,19.518607794,0 -99.2497861409999,19.518375625,0 -99.249838712,19.518251874,0 -99.249932195,19.5181412580001,0 -99.2500265179999,19.518085481,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>ZU-07</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#04_INUNDACIONES">
+		<SimpleData name="FolderPath">ATLAS A ZARAGOZA 2019/Atlas de Atizapán de Zaragoza/Hidrometeorologicos/INUNDACIONES</SimpleData>
+		<SimpleData name="SymbolID">8</SimpleData>
+		<SimpleData name="AltMode">0</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="Clamped">-1</SimpleData>
+		<SimpleData name="Extruded">0</SimpleData>
+		<SimpleData name="PopupInfo">Colonia: SAN JUAN BOSCO
+Población aproximada: 5,927
+Vivienda total habitada: 1,694
+Centros de salud y hospitales: 0
+Centros de trabajo educativos: 5</SimpleData>
+		<SimpleData name="Shape_Leng">0.02121951796</SimpleData>
+		<SimpleData name="Shape_Area">0.00002803497</SimpleData>
+		<SimpleData name="TEMA">INUNDACIONES</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2436294109999,19.568892894,0 -99.2401617189999,19.5721088280001,0 -99.2366268909999,19.57192122,0 -99.2378732419999,19.56713231,0 -99.2397831909999,19.565233671,0 -99.2436294109999,19.568892894,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>ZU-08</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#04_INUNDACIONES">
+		<SimpleData name="FolderPath">ATLAS A ZARAGOZA 2019/Atlas de Atizapán de Zaragoza/Hidrometeorologicos/INUNDACIONES</SimpleData>
+		<SimpleData name="SymbolID">8</SimpleData>
+		<SimpleData name="AltMode">0</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="Clamped">-1</SimpleData>
+		<SimpleData name="Extruded">0</SimpleData>
+		<SimpleData name="PopupInfo">Colonia: Condado de Sayavedra
+Población aproximada: 980
+Vivienda total habitada: 271
+Centros de salud y hospitales: 0
+Centros de trabajo y educativos: 0</SimpleData>
+		<SimpleData name="Shape_Leng">0.01510683787</SimpleData>
+		<SimpleData name="Shape_Area">0.00001380643</SimpleData>
+		<SimpleData name="TEMA">INUNDACIONES</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.3050293219999,19.582074339,0 -99.3058939739999,19.581548499,0 -99.3084335029999,19.583522413,0 -99.3086430719999,19.586187521,0 -99.307878101,19.5870744150001,0 -99.3061993209999,19.5865834140001,0 -99.3057057819999,19.586779591,0 -99.3050293219999,19.582074339,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>ZU-09</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#04_INUNDACIONES">
+		<SimpleData name="FolderPath">ATLAS A ZARAGOZA 2019/Atlas de Atizapán de Zaragoza/Hidrometeorologicos/INUNDACIONES</SimpleData>
+		<SimpleData name="SymbolID">8</SimpleData>
+		<SimpleData name="AltMode">0</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="Clamped">-1</SimpleData>
+		<SimpleData name="Extruded">0</SimpleData>
+		<SimpleData name="PopupInfo">Colonia: Club de Golf Vallescondido
+Población aproximada: 1,959
+Vivienda total aproximada: 568
+Centros de salud y hospitales: 0
+Centros de trabajo y educativos: 0</SimpleData>
+		<SimpleData name="Shape_Leng">0.05529115932</SimpleData>
+		<SimpleData name="Shape_Area">0.00007071952</SimpleData>
+		<SimpleData name="TEMA">INUNDACIONES</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.3025003919999,19.562379435,0 -99.296636526,19.566886247,0 -99.2958311309999,19.565369608,0 -99.3005409899999,19.557855616,0 -99.3050977979999,19.559117999,0 -99.3106947559999,19.555764393,0 -99.3137765809999,19.556484281,0 -99.316726535,19.556628885,0 -99.3187655879999,19.55777744,0 -99.3164715459999,19.558626383,0 -99.3115264389999,19.558292986,0 -99.3081698609999,19.561119618,0 -99.3025003919999,19.562379435,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>ZU-10</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#04_INUNDACIONES">
+		<SimpleData name="FolderPath">ATLAS A ZARAGOZA 2019/Atlas de Atizapán de Zaragoza/Hidrometeorologicos/INUNDACIONES</SimpleData>
+		<SimpleData name="SymbolID">0</SimpleData>
+		<SimpleData name="AltMode">0</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="Clamped">0</SimpleData>
+		<SimpleData name="Extruded">0</SimpleData>
+		<SimpleData name="PopupInfo">Colonia: Vergel Arboledas</SimpleData>
+		<SimpleData name="Shape_Leng">0.00000000000</SimpleData>
+		<SimpleData name="Shape_Area">0.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2397831909999,19.5652336710001,0 -99.2378732419999,19.5671323100001,0 -99.2379885240252,19.5661845763368,0 -99.237829196436,19.5663063044708,0 -99.2376021006366,19.5663423601468,0 -99.2374972694309,19.5662904791996,0 -99.2364746400058,19.5654067288512,0 -99.2367367175105,19.5653841422242,0 -99.2368813826137,19.5647872053379,0 -99.2373390681761,19.5641667786743,0 -99.237433614186,19.5641030726675,0 -99.2383654968482,19.5634717501035,0 -99.2386208411033,19.5632835271356,0 -99.2392262095034,19.5628286719314,0 -99.239559509102,19.5624975014441,0 -99.2399564799216,19.5621269202158,0 -99.240223247898,19.5630245406027,0 -99.2402841482668,19.5631141131716,0 -99.2403561250428,19.5633328910444,0 -99.240396364951,19.5635173144495,0 -99.2402553197589,19.5637446648143,0 -99.2405135669515,19.5640229435071,0 -99.2403995595331,19.5642580242058,0 -99.2403085811255,19.5643690992671,0 -99.2397831909999,19.5652336710001,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>
