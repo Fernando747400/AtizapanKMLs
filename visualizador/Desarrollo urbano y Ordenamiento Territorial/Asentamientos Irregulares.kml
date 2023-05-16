@@ -1,0 +1,1010 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Inventario_de_Asentamientos_Irregulares" id="Inventario_de_Asentamientos_Irregulares">
+	<SimpleField name="Area" type="float"></SimpleField>
+	<SimpleField name="Perimetro" type="float"></SimpleField>
+	<SimpleField name="Colonia" type="string"></SimpleField>
+	<SimpleField name="Status" type="string"></SimpleField>
+	<SimpleField name="Origen" type="string"></SimpleField>
+	<SimpleField name="Institucio" type="string"></SimpleField>
+	<SimpleField name="Poligono" type="string"></SimpleField>
+	<SimpleField name="No_Lotes" type="string"></SimpleField>
+	<SimpleField name="Via_de_Reg" type="string"></SimpleField>
+	<SimpleField name="Status_Gen" type="string"></SimpleField>
+</Schema>
+<Folder><name>Inventario_de_Asentamientos_Irregulares</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">1379.55000000000</SimpleData>
+		<SimpleData name="Perimetro">170.23500000000</SimpleData>
+		<SimpleData name="Colonia">Bosques de San Martin</SimpleData>
+		<SimpleData name="Status">Liberacion de dictamen de Proteccion Civil/ Comun</SimpleData>
+		<SimpleData name="Origen">Propiedad Privada</SimpleData>
+		<SimpleData name="Institucio">IMEVIS</SimpleData>
+		<SimpleData name="Poligono">La Cañada lote 06</SimpleData>
+		<SimpleData name="No_Lotes">9</SimpleData>
+		<SimpleData name="Via_de_Reg">Certificacion de vias publicas</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2485070709482,19.5436071015812,0 -99.2484519439816,19.5435881091568,0 -99.2483666502716,19.5435403298957,0 -99.2483690133494,19.5435272228772,0 -99.2482913256189,19.5434039734815,0 -99.2482774670465,19.5433801346282,0 -99.2482425991833,19.5433939189076,0 -99.2482250525176,19.5433894244752,0 -99.2482188921907,19.5433504831115,0 -99.2482090072956,19.543307028323,0 -99.2481929224329,19.5432610516678,0 -99.2481618130462,19.5431767784165,0 -99.248150993852,19.5431457057111,0 -99.2481209863831,19.5430963140792,0 -99.2482619069384,19.5430539173117,0 -99.2483115721462,19.543054572025,0 -99.2484400176228,19.5430826815132,0 -99.2485070709482,19.5436071015812,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">13710.00000000000</SimpleData>
+		<SimpleData name="Perimetro">499.32300000000</SimpleData>
+		<SimpleData name="Colonia">Bosques de San Martin</SimpleData>
+		<SimpleData name="Status">Liberacion de dictamen de Proteccion Civil/ Comun</SimpleData>
+		<SimpleData name="Origen">Propiedad Privada</SimpleData>
+		<SimpleData name="Institucio">IMEVIS</SimpleData>
+		<SimpleData name="Poligono">La Cañada lote 08</SimpleData>
+		<SimpleData name="No_Lotes">61</SimpleData>
+		<SimpleData name="Via_de_Reg">Certificacion de vias publicas</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2461336070123,19.5414935041355,2360 -99.2461348731208,19.5416367416557,2360 -99.2459082463536,19.5417971860346,2360 -99.2454264190941,19.5417584401628,2360 -99.2454414917895,19.5415757794274,2360 -99.2453019201719,19.5415651254617,2360 -99.245289540352,19.5415731843049,2360 -99.2450570333631,19.5415017453168,2360 -99.2449515928732,19.5414314895893,2360 -99.2446759163848,19.5413039886701,2360 -99.2445398894665,19.5411778334208,2360 -99.2444786930889,19.5410523021573,2360 -99.2444793511344,19.5410465179503,2360 -99.2445195905897,19.5408655386278,2360 -99.2446196111696,19.5408185029439,2360 -99.2448908933448,19.5406873679752,2360 -99.2450625334754,19.5406621917113,2360 -99.2453421218817,19.5406653374416,2360 -99.2457094853872,19.5406566152955,2360 -99.2456891762777,19.5409681515823,2360 -99.2461336070123,19.5414935041355,2360</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">10689.40000000000</SimpleData>
+		<SimpleData name="Perimetro">560.73900000000</SimpleData>
+		<SimpleData name="Colonia">Bosques de San Martin</SimpleData>
+		<SimpleData name="Status">Liberacion de dictamen de Proteccion Civil/ Comun</SimpleData>
+		<SimpleData name="Origen">Propiedad Privada</SimpleData>
+		<SimpleData name="Institucio">IMEVIS</SimpleData>
+		<SimpleData name="Poligono">La Cañada lote 07</SimpleData>
+		<SimpleData name="No_Lotes">53</SimpleData>
+		<SimpleData name="Via_de_Reg">Certificacion de vias publicas</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2483795398234,19.542806861963,0 -99.2482552482316,19.5428136313416,0 -99.2482412885963,19.5427869000054,0 -99.248103134425,19.5427668462461,0 -99.2480799707434,19.5426431609077,0 -99.2476754431495,19.54253716889,0 -99.2476610685945,19.5424870328884,0 -99.2475122413543,19.542470789276,0 -99.2474058210717,19.5424455402986,0 -99.2472870338722,19.5424363961148,0 -99.2469713397902,19.542387032402,0 -99.246538184081,19.5421989301591,0 -99.2464797053086,19.5421685550139,0 -99.246364369242,19.5421104235623,0 -99.2463820752749,19.5419679737629,0 -99.2464083785396,19.5419645936632,0 -99.2468539839267,19.5418795804302,0 -99.2480230743546,19.5418389396346,0 -99.2479316128935,19.5423712575398,0 -99.2483516920224,19.5426107066177,0 -99.2483795398234,19.542806861963,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">77750.39999989999</SimpleData>
+		<SimpleData name="Perimetro">1254.79000000000</SimpleData>
+		<SimpleData name="Colonia">Demetrio Vallejo</SimpleData>
+		<SimpleData name="Status">En espera de Centencias</SimpleData>
+		<SimpleData name="Origen">Propiedad Privada</SimpleData>
+		<SimpleData name="Institucio">IMEVIS</SimpleData>
+		<SimpleData name="Poligono">Demetrio Vallejo</SimpleData>
+		<SimpleData name="No_Lotes">318</SimpleData>
+		<SimpleData name="Via_de_Reg">Juicios de Usucapion</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2512222977336,19.5453393844145,2440 -99.2511395585228,19.5448734720974,2440 -99.2500981991165,19.5450396729814,2440 -99.2496465927554,19.5419925844427,2440 -99.2498276742302,19.5420287712805,2440 -99.251517447025,19.5425444984508,2440 -99.2515831635914,19.5426524886711,2440 -99.2531954616001,19.5451225525236,2440 -99.2520768755433,19.5451146724354,2440 -99.2512222977336,19.5453393844145,2440</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">6608.30000000000</SimpleData>
+		<SimpleData name="Perimetro">342.99300000000</SimpleData>
+		<SimpleData name="Colonia">Demetrio Vallejo Ampliación</SimpleData>
+		<SimpleData name="Status">En espera de Centencias</SimpleData>
+		<SimpleData name="Origen">Propiedad Privada</SimpleData>
+		<SimpleData name="Institucio">IMEVIS</SimpleData>
+		<SimpleData name="Poligono">Demetrio Vallejo Ampliación</SimpleData>
+		<SimpleData name="No_Lotes">8</SimpleData>
+		<SimpleData name="Via_de_Reg">Juicios de Usucapion</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2501831187618,19.5456126311566,0 -99.2500818371423,19.5450422843008,0 -99.2511395585228,19.5448734720974,0 -99.2512241632786,19.5453498894424,0 -99.2501831187618,19.5456126311566,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">13210.10000000000</SimpleData>
+		<SimpleData name="Perimetro">510.03900000000</SimpleData>
+		<SimpleData name="Colonia">Adolfo López Mateos</SimpleData>
+		<SimpleData name="Status">Asentamiento en minas</SimpleData>
+		<SimpleData name="Origen">Propiedad Privada</SimpleData>
+		<SimpleData name="Institucio">IMEVIS</SimpleData>
+		<SimpleData name="Poligono">Calle Hermosillo Manzana 61</SimpleData>
+		<SimpleData name="No_Lotes">60</SimpleData>
+		<SimpleData name="Via_de_Reg">Subdivision</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2684599351804,19.5905459286568,0 -99.2693975620379,19.5891840289206,0 -99.2697464106519,19.589284735756,0 -99.2699998454833,19.5894948106916,0 -99.2689966703874,19.5909009340985,0 -99.2689144643018,19.5908584233743,0 -99.2684599351804,19.5905459286568,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">9704.63000000000</SimpleData>
+		<SimpleData name="Perimetro">1288.34000000000</SimpleData>
+		<SimpleData name="Colonia">San Miguel Xochimanga</SimpleData>
+		<SimpleData name="Status">Fuera de Expropiacion y Limite Municipal</SimpleData>
+		<SimpleData name="Origen">Ejidal</SimpleData>
+		<SimpleData name="Institucio">INSUS</SimpleData>
+		<SimpleData name="Poligono">San Miguel Xochimanga</SimpleData>
+		<SimpleData name="No_Lotes">54</SimpleData>
+		<SimpleData name="Via_de_Reg">Expropiacion</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.214065562838,19.5715403027558,0 -99.2123493936631,19.566250456081,0 -99.2125024888306,19.5662393844081,0 -99.2142714911033,19.5716990648045,0 -99.214065562838,19.5715403027558,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">53104.70000000000</SimpleData>
+		<SimpleData name="Perimetro">1456.45000000000</SimpleData>
+		<SimpleData name="Colonia">Seis de Octubre</SimpleData>
+		<SimpleData name="Status">Visto bueno de IMEVIS y Ayuntamiento</SimpleData>
+		<SimpleData name="Origen">Propiedad Privada</SimpleData>
+		<SimpleData name="Institucio">IMEVIS</SimpleData>
+		<SimpleData name="Poligono">Seis de Octubre</SimpleData>
+		<SimpleData name="No_Lotes">308</SimpleData>
+		<SimpleData name="Via_de_Reg">Juicios Sumarios y Titulacion Notarial</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2596107458591,19.5853656278547,0 -99.2588929459921,19.5828813624151,0 -99.2589045134969,19.5811790766919,0 -99.259095066281,19.5811693082314,0 -99.2597732728491,19.5822033237079,0 -99.2593589321087,19.5823590984783,0 -99.2594575908247,19.5837646860764,0 -99.261218352457,19.5830876561429,0 -99.2612438227418,19.58307153235,0 -99.2614567992954,19.5836525172577,0 -99.2611985854684,19.5837616194521,0 -99.261049935925,19.5841586689201,0 -99.2612295974491,19.5851077940758,0 -99.2596107458591,19.5853656278547,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">21684.50000000000</SimpleData>
+		<SimpleData name="Perimetro">804.38100000000</SimpleData>
+		<SimpleData name="Colonia">U.A.M (Universidad Autónoma Metropolitana)</SimpleData>
+		<SimpleData name="Status">Certificacion de Vias Publicas Existentes</SimpleData>
+		<SimpleData name="Origen">Ejidal</SimpleData>
+		<SimpleData name="Institucio">INSUS</SimpleData>
+		<SimpleData name="Poligono">La Magueyera I</SimpleData>
+		<SimpleData name="No_Lotes">77</SimpleData>
+		<SimpleData name="Via_de_Reg">Liberación de Zona Verde</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2533184776954,19.6029826059053,0 -99.2521052026903,19.6033209735379,0 -99.2520471489343,19.6031708300945,0 -99.2518208185652,19.6025244653827,0 -99.2516010798609,19.6019757034549,0 -99.2526821887566,19.6016935557586,0 -99.2531126409853,19.6028862309602,0 -99.2539237636672,19.6026800982811,0 -99.2541079664534,19.6033485516486,0 -99.2533184776954,19.6029826059053,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">33702.90000000000</SimpleData>
+		<SimpleData name="Perimetro">888.21100000000</SimpleData>
+		<SimpleData name="Colonia">Revolución</SimpleData>
+		<SimpleData name="Status">Certificacion de Vias Publicas Existentes</SimpleData>
+		<SimpleData name="Origen">Ejidal</SimpleData>
+		<SimpleData name="Institucio">INSUS</SimpleData>
+		<SimpleData name="Poligono">La Magueyera II</SimpleData>
+		<SimpleData name="No_Lotes">132</SimpleData>
+		<SimpleData name="Via_de_Reg">Liberación de Zona Verde</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2486575590535,19.6009759692446,0 -99.2500226704498,19.6005849379513,0 -99.249672831237,19.5997515083294,0 -99.250118858411,19.5995698735819,0 -99.2509897858592,19.6018153290091,0 -99.2500600401986,19.6020005319443,0 -99.2489563495433,19.6019096425597,0 -99.2486575590535,19.6009759692446,0 -99.2486575590535,19.6009759692446,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">19190.20000000000</SimpleData>
+		<SimpleData name="Perimetro">558.60500000000</SimpleData>
+		<SimpleData name="Colonia">El Capilín Ampliación</SimpleData>
+		<SimpleData name="Status">Elaboracion de lotificación</SimpleData>
+		<SimpleData name="Origen">Ejidal</SimpleData>
+		<SimpleData name="Institucio">INSUS</SimpleData>
+		<SimpleData name="Poligono">El Capulín Ampliación</SimpleData>
+		<SimpleData name="No_Lotes">87</SimpleData>
+		<SimpleData name="Via_de_Reg">Expropiación</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2463347910115,19.5990922441681,0 -99.2458224992498,19.5978998908386,0 -99.2469856928846,19.5972591134255,0 -99.2474258835108,19.5984655653341,0 -99.2463347910115,19.5990922441681,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">79812.39999989999</SimpleData>
+		<SimpleData name="Perimetro">1191.83000000000</SimpleData>
+		<SimpleData name="Colonia">El Potrero</SimpleData>
+		<SimpleData name="Status">En Jucio</SimpleData>
+		<SimpleData name="Origen">Ejidal</SimpleData>
+		<SimpleData name="Institucio">INSUS</SimpleData>
+		<SimpleData name="Poligono">Palacio Municipal</SimpleData>
+		<SimpleData name="No_Lotes">1</SimpleData>
+		<SimpleData name="Via_de_Reg">Juicio</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2376808185028,19.5442029783559,0 -99.2349914977808,19.5442999579872,0 -99.2336795141943,19.5425350274317,0 -99.2343712942324,19.5423907195311,0 -99.2342478825329,19.5418610989379,0 -99.2344561596059,19.5418746675658,0 -99.2345490850219,19.5418356796713,0 -99.2354474584897,19.5419508284493,0 -99.2354687739771,19.5420136013891,0 -99.2360722048896,19.5420537632733,0 -99.2360736500587,19.5420744478525,0 -99.2366521559197,19.5421301728538,0 -99.2370955605487,19.5422306233712,0 -99.2376808185028,19.5442029783559,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">178781.00000000000</SimpleData>
+		<SimpleData name="Perimetro">2753.94000000000</SimpleData>
+		<SimpleData name="Colonia">Villa Jardín</SimpleData>
+		<SimpleData name="Status">En Expropiación</SimpleData>
+		<SimpleData name="Origen">Ejidal</SimpleData>
+		<SimpleData name="Institucio">INSUS</SimpleData>
+		<SimpleData name="Poligono">Villa Jardín</SimpleData>
+		<SimpleData name="No_Lotes">SIN DATO</SimpleData>
+		<SimpleData name="Via_de_Reg">Expropiación</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2206232135028,19.5900286776061,0 -99.223269583485,19.5882455933853,0 -99.224745135204,19.5864062731469,0 -99.2250153329332,19.5863853926855,0 -99.2250830296696,19.585891125309,0 -99.2253927839244,19.585661329463,0 -99.2258118952867,19.5855331220468,0 -99.2264667107294,19.5845550747675,0 -99.2269227860524,19.5846816142723,0 -99.2268302378779,19.5848883170348,0 -99.2267474800242,19.585062251433,0 -99.2267247066465,19.5852532462596,0 -99.2264741470058,19.5857614203519,0 -99.2259645198955,19.5856868216562,0 -99.2254069740165,19.586045222073,0 -99.2252459740831,19.5863763445903,0 -99.2245708737313,19.5878278655099,0 -99.2245119154873,19.5910439535066,0 -99.220493835835,19.5919847806511,0 -99.2189254788699,19.5915233032058,0 -99.2182174181934,19.5914232592676,0 -99.2182671685701,19.5912501464872,0 -99.2206232135028,19.5900286776061,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">36669.50000000000</SimpleData>
+		<SimpleData name="Perimetro">1127.64000000000</SimpleData>
+		<SimpleData name="Colonia">Lomas de Tepalcapa</SimpleData>
+		<SimpleData name="Status">Certificacion de Vias Publicas</SimpleData>
+		<SimpleData name="Origen">Sin Antecedente Registral</SimpleData>
+		<SimpleData name="Institucio">IMEVIS</SimpleData>
+		<SimpleData name="Poligono">Lomas de Tepalcapa (Vico, Hegel. 110 Lotes)</SimpleData>
+		<SimpleData name="No_Lotes">35</SimpleData>
+		<SimpleData name="Via_de_Reg">Inmatriculación</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2407518379006,19.5872025287256,0 -99.2389969781804,19.5869438704377,0 -99.2374729213609,19.5836121778096,0 -99.2407882280882,19.5869777239535,0 -99.2407909710904,19.5870843186805,0 -99.2407496359034,19.5870773594614,0 -99.2407518379006,19.5872025287256,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">11042.20000000000</SimpleData>
+		<SimpleData name="Perimetro">428.75900000000</SimpleData>
+		<SimpleData name="Colonia">Sagitario II</SimpleData>
+		<SimpleData name="Status">En proceso de regularizacion</SimpleData>
+		<SimpleData name="Origen">Propiedad Privada</SimpleData>
+		<SimpleData name="Institucio">IMEVIS</SimpleData>
+		<SimpleData name="Poligono">Pozo CAEM</SimpleData>
+		<SimpleData name="No_Lotes">1</SimpleData>
+		<SimpleData name="Via_de_Reg">SIN DATO</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2658992337033,19.5957704104846,0 -99.2653870146895,19.5951620158538,0 -99.2656815937507,19.5949346803923,0 -99.2660343676111,19.5946664112408,0 -99.266215945939,19.5945263314179,0 -99.2663076046428,19.5944560145246,0 -99.2664207422414,19.5945672647969,0 -99.2665943347285,19.5947379524613,0 -99.266791756872,19.5949347036029,0 -99.2668777510353,19.5950203286058,0 -99.2658992337033,19.5957704104846,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">3971.11000000000</SimpleData>
+		<SimpleData name="Perimetro">365.43500000000</SimpleData>
+		<SimpleData name="Colonia">Lazaro Cardenas</SimpleData>
+		<SimpleData name="Status">Integracion de expedientes</SimpleData>
+		<SimpleData name="Origen">Sin Antecedente Registral</SimpleData>
+		<SimpleData name="Institucio">IMEVIS</SimpleData>
+		<SimpleData name="Poligono">Lazaro Cardenas</SimpleData>
+		<SimpleData name="No_Lotes">32</SimpleData>
+		<SimpleData name="Via_de_Reg">Inmatriculación</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2330888395058,19.5549128097881,0 -99.2319810967518,19.5539830093833,0 -99.2320501937506,19.5539609374005,0 -99.2320624857668,19.5540311393468,0 -99.2321592075005,19.5540261120352,0 -99.2321617991064,19.554103400453,0 -99.2326298509398,19.5540125955353,0 -99.2328069165897,19.5539833062754,0 -99.2330888395058,19.5549128097881,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">12981.40000000000</SimpleData>
+		<SimpleData name="Perimetro">793.51900000000</SimpleData>
+		<SimpleData name="Colonia">Lazaro Cardenas</SimpleData>
+		<SimpleData name="Status">Integracion de expedientes</SimpleData>
+		<SimpleData name="Origen">Ejidal</SimpleData>
+		<SimpleData name="Institucio">INSUS</SimpleData>
+		<SimpleData name="Poligono">Lazaro Cardenas EQUIPAMIENTO</SimpleData>
+		<SimpleData name="No_Lotes">51</SimpleData>
+		<SimpleData name="Via_de_Reg">Programa Programa de Mejoramiento Urbano (PMU)</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2317853252366,19.5541783666206,0 -99.2320998762863,19.5540827097696,0 -99.2330888395058,19.5549128097881,0 -99.2328069165897,19.5539833062754,0 -99.2328983212455,19.5539762357532,0 -99.2329287760353,19.5541062699751,0 -99.2328793592886,19.5541206802951,0 -99.2330664050353,19.5545419125249,0 -99.2330405651229,19.5545515086086,0 -99.2331203331472,19.5547701907843,0 -99.233312605925,19.5547328790757,0 -99.2333758398067,19.5548553395851,0 -99.2333629155534,19.5548565532154,0 -99.2333813703921,19.5551790042694,0 -99.233070874312,19.5553553872983,0 -99.2330301588265,19.5551067690418,0 -99.2323425590584,19.5554500552465,0 -99.2321828189745,19.5552207181274,0 -99.2323078282889,19.5551516953975,0 -99.2321157148438,19.5548611883097,0 -99.2319765658173,19.5549187534594,0 -99.2318616423392,19.5546325705775,0 -99.2318551799109,19.5545219915773,0 -99.2317853252366,19.5541783666206,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">21272.50000000000</SimpleData>
+		<SimpleData name="Perimetro">657.55500000000</SimpleData>
+		<SimpleData name="Colonia">Las Águilas</SimpleData>
+		<SimpleData name="Status">Zona de Riesgo</SimpleData>
+		<SimpleData name="Origen">Ejidal</SimpleData>
+		<SimpleData name="Institucio">INSUS</SimpleData>
+		<SimpleData name="Poligono">Las Aguilas (Primavera, cotorro, etc)</SimpleData>
+		<SimpleData name="No_Lotes">114</SimpleData>
+		<SimpleData name="Via_de_Reg">SIN DATO</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2538965667213,19.584881231157,0 -99.253240348547,19.5852950456398,0 -99.252355788493,19.5841524770188,0 -99.252723315645,19.5839400472657,0 -99.2527945572185,19.5840507677608,0 -99.2529211344624,19.5839829068219,0 -99.2530154978992,19.5841410172238,0 -99.253109772543,19.584087604896,0 -99.2538068588296,19.5836868964878,0 -99.2539309993635,19.5838291309497,0 -99.2540690191469,19.5840380681255,0 -99.2543869454691,19.5845193490077,0 -99.2545387757844,19.5846966682558,0 -99.2540466752989,19.5850579807864,0 -99.2538965667213,19.584881231157,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">10747.40000000000</SimpleData>
+		<SimpleData name="Perimetro">420.53700000000</SimpleData>
+		<SimpleData name="Colonia">Las Águilas</SimpleData>
+		<SimpleData name="Status">Zona de Riesgo</SimpleData>
+		<SimpleData name="Origen">Ejidal</SimpleData>
+		<SimpleData name="Institucio">INSUS</SimpleData>
+		<SimpleData name="Poligono">Las Aguilas (Primavera, cotorro, etc)</SimpleData>
+		<SimpleData name="No_Lotes">37</SimpleData>
+		<SimpleData name="Via_de_Reg">SIN DATO</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2513523499352,19.582440992226,0 -99.2513971363469,19.5828056424084,0 -99.2513521274361,19.5831928788097,0 -99.2504259085673,19.5831116287011,0 -99.2504173504927,19.5831279001604,0 -99.2502592653409,19.5831143912421,0 -99.250239305376,19.5822026377259,0 -99.2513523499352,19.582440992226,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">80042.80000000000</SimpleData>
+		<SimpleData name="Perimetro">1139.06000000000</SimpleData>
+		<SimpleData name="Colonia">Tierra de Enmedio</SimpleData>
+		<SimpleData name="Status">En busca de dueños registrales</SimpleData>
+		<SimpleData name="Origen">Propiedad Privada</SimpleData>
+		<SimpleData name="Institucio">IMEVIS</SimpleData>
+		<SimpleData name="Poligono">Tierra de Enmedio</SimpleData>
+		<SimpleData name="No_Lotes">343</SimpleData>
+		<SimpleData name="Via_de_Reg">SIN DATO</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2759607090741,19.5950836418533,0 -99.2757186597368,19.5949392461536,0 -99.2753913411598,19.5942861281303,0 -99.2746518630144,19.5932003733142,0 -99.2752311161952,19.5928422622084,0 -99.2756164390944,19.59251221252,0 -99.2759452662927,19.5921849956485,0 -99.2763243509857,19.5919109678413,0 -99.2769624081624,19.5913670665581,0 -99.2770556694944,19.5914814966431,0 -99.2771004230185,19.5915826668145,0 -99.2775161307282,19.5920183530386,0 -99.2775369674052,19.5920676084657,0 -99.27764451235,19.5921943816942,0 -99.277636927712,19.5921998582484,0 -99.2777078165129,19.5922878442258,0 -99.2777646705079,19.5922938636709,0 -99.278195064265,19.5931002701312,0 -99.2782605868034,19.5932287449946,0 -99.2767245392281,19.5945426754227,0 -99.2759607090741,19.5950836418533,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">44262.10000000000</SimpleData>
+		<SimpleData name="Perimetro">1083.00000000000</SimpleData>
+		<SimpleData name="Colonia">Emiliano Zapata Ampliación</SimpleData>
+		<SimpleData name="Status">Poligono Ejidal</SimpleData>
+		<SimpleData name="Origen">Ejidal</SimpleData>
+		<SimpleData name="Institucio">INSUS</SimpleData>
+		<SimpleData name="Poligono">La Lumbrera</SimpleData>
+		<SimpleData name="No_Lotes">205</SimpleData>
+		<SimpleData name="Via_de_Reg">SIN DATO</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2652102810515,19.6047606435367,0 -99.2662491137819,19.6045218884251,0 -99.2663738077505,19.6044197426589,0 -99.2665968678276,19.6043305734707,0 -99.2665959205403,19.603755547824,0 -99.2665673340613,19.6035809511135,0 -99.2666122399396,19.6029324685751,0 -99.2678855734514,19.6028302695897,0 -99.2670642519828,19.6049413132864,0 -99.2670467921816,19.6049360254007,0 -99.2669282713184,19.6052965156756,0 -99.2665816236299,19.6061648349091,0 -99.2665662120836,19.6062040771253,0 -99.2657149225191,19.6060001892648,0 -99.2652102810515,19.6047606435367,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">52920.80000000000</SimpleData>
+		<SimpleData name="Perimetro">978.78300000000</SimpleData>
+		<SimpleData name="Colonia">La Nueva Era</SimpleData>
+		<SimpleData name="Status">Para expropiación</SimpleData>
+		<SimpleData name="Origen">Ejidal</SimpleData>
+		<SimpleData name="Institucio">INSUS</SimpleData>
+		<SimpleData name="Poligono">La Nueva Era</SimpleData>
+		<SimpleData name="No_Lotes">126</SimpleData>
+		<SimpleData name="Via_de_Reg">SIN DATO</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2454625346256,19.594054593178,0 -99.2448995909154,19.5954347198704,0 -99.2429856996872,19.5961803979041,0 -99.2423722918813,19.5947432779483,0 -99.2436574349629,19.5942448742944,0 -99.2436998260388,19.5934756883218,0 -99.2454625346256,19.594054593178,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">22394.10000000000</SimpleData>
+		<SimpleData name="Perimetro">601.94300000000</SimpleData>
+		<SimpleData name="Colonia">Emiliano Zapata</SimpleData>
+		<SimpleData name="Status">En proceso de expropiación</SimpleData>
+		<SimpleData name="Origen">Ejidal</SimpleData>
+		<SimpleData name="Institucio">INSUS</SimpleData>
+		<SimpleData name="Poligono">Campo de Futbol</SimpleData>
+		<SimpleData name="No_Lotes">2</SimpleData>
+		<SimpleData name="Via_de_Reg">SIN DATO</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2538902170744,19.6081356539868,0 -99.2534323074522,19.6070351573081,0 -99.2550603118535,19.6067066028254,0 -99.2551475891405,19.6073503453857,0 -99.2550960287792,19.6082315673591,0 -99.255039291898,19.6082255435766,0 -99.2548874154209,19.6082065909993,0 -99.2546943833498,19.6081895852148,0 -99.2542458724513,19.6081414278599,0 -99.2538902170744,19.6081356539868,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">24413.80000000000</SimpleData>
+		<SimpleData name="Perimetro">634.39000000000</SimpleData>
+		<SimpleData name="Colonia">Cinco de Mayo</SimpleData>
+		<SimpleData name="Status">Zona de Riesgo</SimpleData>
+		<SimpleData name="Origen">Ejidal</SimpleData>
+		<SimpleData name="Institucio">INSUS</SimpleData>
+		<SimpleData name="Poligono">Cinco de Mayo Ampliación</SimpleData>
+		<SimpleData name="No_Lotes">SIN DATO</SimpleData>
+		<SimpleData name="Via_de_Reg">SIN DATO</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2484253848213,19.5873937882315,0 -99.2492888805986,19.5865238968673,0 -99.2507072691809,19.587104623131,0 -99.2495090845554,19.5883398219019,0 -99.2484253848213,19.5873937882315,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">25037.90000000000</SimpleData>
+		<SimpleData name="Perimetro">636.54900000000</SimpleData>
+		<SimpleData name="Colonia">Lomas de Las Torres</SimpleData>
+		<SimpleData name="Status">Zons Verde</SimpleData>
+		<SimpleData name="Origen">Ejidal</SimpleData>
+		<SimpleData name="Institucio">INSUS</SimpleData>
+		<SimpleData name="Poligono">Lomas de Las Torres</SimpleData>
+		<SimpleData name="No_Lotes">SIN DATO</SimpleData>
+		<SimpleData name="Via_de_Reg">SIN DATO</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2583581316603,19.5971388683604,0 -99.2578570617182,19.5959694850182,0 -99.259392414868,19.5952978547697,0 -99.2598814263695,19.5965382939196,0 -99.2583581316603,19.5971388683604,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">96710.20000000000</SimpleData>
+		<SimpleData name="Perimetro">1667.99000000000</SimpleData>
+		<SimpleData name="Colonia">Emiliano Zapata Ampliación II</SimpleData>
+		<SimpleData name="Status">Pendiente para expropiar</SimpleData>
+		<SimpleData name="Origen">Ejidal</SimpleData>
+		<SimpleData name="Institucio">INSUS</SimpleData>
+		<SimpleData name="Poligono">Calles: Cinco de Mayo, Unidad Xochimilco, Guerrero</SimpleData>
+		<SimpleData name="No_Lotes">353</SimpleData>
+		<SimpleData name="Via_de_Reg">SIN DATO</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.253955074563,19.602797443706,0 -99.255742701978,19.6020388532613,0 -99.2553296448982,19.6010743867502,0 -99.257098456859,19.6003388491643,0 -99.2573539077052,19.6009760845965,0 -99.257731826068,19.6017191528412,0 -99.256936999205,19.6020055571802,0 -99.2559234428692,19.6023993195912,0 -99.2564115651015,19.6035510271935,0 -99.256553328181,19.6039516184623,0 -99.2562221012606,19.604951598824,0 -99.2560464182863,19.6048187902674,0 -99.254711018252,19.6053824793839,0 -99.2544914293613,19.6044776676015,0 -99.2541662471459,19.6035888611205,0 -99.253955074563,19.602797443706,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">395038.00000000000</SimpleData>
+		<SimpleData name="Perimetro">4494.65000000000</SimpleData>
+		<SimpleData name="Colonia">Rancho Blanco</SimpleData>
+		<SimpleData name="Status">En Zona de Comuneros</SimpleData>
+		<SimpleData name="Origen">Propiedad Privada</SimpleData>
+		<SimpleData name="Institucio">INSUS</SimpleData>
+		<SimpleData name="Poligono">Rancho Blanco &quot;B&quot;</SimpleData>
+		<SimpleData name="No_Lotes">SIN DATO</SimpleData>
+		<SimpleData name="Via_de_Reg">SIN DATO</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.3107998832835,19.5482391741661,0 -99.3093240963567,19.5424034751905,0 -99.3095128223248,19.5424642903816,0 -99.3096137398388,19.5425368258682,0 -99.3097991361057,19.5426433756693,0 -99.3098144776106,19.5433569278519,0 -99.3101489927731,19.5437117084275,0 -99.3100374610429,19.5438991162356,0 -99.3099756662468,19.544069211078,0 -99.3101093232955,19.5442241333352,0 -99.3102191328506,19.5443001829772,0 -99.3103354015383,19.5443402211359,0 -99.3103968085237,19.5443939997146,0 -99.3104758841221,19.5445669372637,0 -99.3117037334474,19.5456137261528,0 -99.3118227779647,19.5454390898043,0 -99.3118212711318,19.5452008885672,0 -99.3116866245913,19.5451370851015,0 -99.3115816839395,19.5447211533839,0 -99.311531863411,19.5444907946927,0 -99.3115061125484,19.5442852463497,0 -99.3115336958806,19.5440547541634,0 -99.3115657984579,19.5438942912676,0 -99.3116881815604,19.5435393761739,0 -99.3117814080817,19.5432409928388,0 -99.3118672986602,19.5429448813745,0 -99.3120057462817,19.5424763273583,0 -99.3112272713118,19.5408550718252,0 -99.3094400354441,19.5415155681145,0 -99.3093111906013,19.541202210396,0 -99.3110340998374,19.5404527663552,0 -99.3111910323833,19.5404468735266,0 -99.3114114844926,19.5409107291891,0 -99.3121653105756,19.5405833050943,0 -99.3122018104649,19.5403716398982,0 -99.3122714026623,19.5403886394934,0 -99.3118515590048,19.5395445648589,0 -99.3119166301805,19.5395029946343,0 -99.3130957068064,19.5418789007632,0 -99.314278925951,19.544443579019,0 -99.3165338011317,19.5503493863985,0 -99.3165267401062,19.5503502758366,0 -99.3161195931528,19.5503509889164,0 -99.3158040276195,19.5503088460914,0 -99.3155843668303,19.5505106006386,0 -99.3155788592583,19.5505119347209,0 -99.3155706028455,19.5505232425896,0 -99.314904868128,19.5511347033216,0 -99.3107998832835,19.5482391741661,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">854715.00000000000</SimpleData>
+		<SimpleData name="Perimetro">8517.21000000000</SimpleData>
+		<SimpleData name="Colonia">Rancho Blanco</SimpleData>
+		<SimpleData name="Status">En Zona de Comuneros</SimpleData>
+		<SimpleData name="Origen">Propiedad Privada</SimpleData>
+		<SimpleData name="Institucio">INSUS</SimpleData>
+		<SimpleData name="Poligono">Rancho Blanco &quot;A&quot;</SimpleData>
+		<SimpleData name="No_Lotes">SIN DATO</SimpleData>
+		<SimpleData name="Via_de_Reg">SIN DATO</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.3184364628126,19.5411077247597,0 -99.3188753435024,19.540451009632,0 -99.3185789820958,19.5402316075396,0 -99.3189509732508,19.5398400710391,0 -99.3191678062505,19.5395636286709,0 -99.3193349632364,19.5395675055486,0 -99.3199273864829,19.5397811703771,0 -99.3201726329053,19.5398420824904,0 -99.3206236955643,19.540065266321,0 -99.3208995641556,19.5402483089868,0 -99.3209985715802,19.5402724923191,0 -99.3207480185604,19.5411944467883,0 -99.3208290831939,19.5412699478214,0 -99.3210191548726,19.5414469741408,0 -99.3213130200835,19.5417206690668,0 -99.3214210296435,19.5419099641662,0 -99.3215900191127,19.5422061302296,0 -99.3220224366695,19.541893689821,0 -99.3223289776002,19.5413107005853,0 -99.3224745379675,19.5413371230379,0 -99.3226506392659,19.5410410697607,0 -99.322797047646,19.5406223100343,0 -99.3226612429452,19.5404495732207,0 -99.3225666438371,19.5402656028216,0 -99.3226432804008,19.5402033244675,0 -99.3229253032561,19.5398624420563,0 -99.3229399383321,19.5397072299092,0 -99.3235955783554,19.5398583572525,0 -99.3238852097967,19.5389278995462,0 -99.3245525372849,19.5390597766389,0 -99.3238003140628,19.5415440527441,0 -99.3236196443567,19.5418547064803,0 -99.3236564114167,19.5419793512719,0 -99.3236515466893,19.5419880562999,0 -99.3236431606254,19.5420027212077,0 -99.3236373067268,19.5420174521812,0 -99.3236325787622,19.5420366290547,0 -99.3236278441129,19.5420524523519,0 -99.3236207353836,19.5420727984202,0 -99.3236123606389,19.5420931467558,0 -99.3236017495694,19.5421124047677,0 -99.323585112996,19.5421350271588,0 -99.3235552949766,19.5421576731545,0 -99.3235327593242,19.542172363396,0 -99.3235184901376,19.5421871094346,0 -99.3235100973704,19.5421984207599,0 -99.3234958438619,19.5422210388758,0 -99.3234791982616,19.5422391427545,0 -99.3234519212386,19.5422663027028,0 -99.3234221031764,19.5422889486768,0 -99.3233935331238,19.5423025553743,0 -99.3233697292419,19.5423161535369,0 -99.323343542268,19.5423297559613,0 -99.3233149788786,19.5423467162228,0 -99.3232852940531,19.5423614898289,0 -99.3232554579601,19.5423750987701,0 -99.3232292709669,19.5423887011781,0 -99.323210224243,19.5423977722902,0 -99.3231864113385,19.542406851926,0 -99.3231602063497,19.5424114173185,0 -99.3231363844486,19.542415978445,0 -99.3231090713745,19.5424250643308,0 -99.3230744802425,19.5424442945938,0 -99.3230459124502,19.5424590661635,0 -99.3230268723788,19.5424714908327,0 -99.3230078324449,19.5424839861016,0 -99.3229887767095,19.5424885386877,0 -99.3229744916477,19.5424953420031,0 -99.322959087194,19.5425009823877,0 -99.3229447954602,19.5425044321244,0 -99.3229257442135,19.5425112439553,0 -99.3229078055463,19.5425157945363,0 -99.3228911260863,19.542516918675,0 -99.3228768320333,19.5425192034798,0 -99.322850629333,19.5425249337542,0 -99.3228291882513,19.5425283609563,0 -99.3228361383061,19.5428670934451,0 -99.3223193516058,19.5432025305573,0 -99.3223253295399,19.5432126865596,0 -99.3223349023087,19.5432330028152,0 -99.322344470595,19.5432510598189,0 -99.3223516534687,19.5432679561475,0 -99.3223636116592,19.5432894330759,0 -99.3223707833933,19.543300716576,0 -99.3223792390937,19.5433210348222,0 -99.3223935735963,19.5433390833181,0 -99.3224161990949,19.5433695076423,0 -99.3224329256823,19.5433920703845,0 -99.32244375784,19.543409030798,0 -99.322452046665,19.5434203123008,0 -99.3224592228977,19.5434338550485,0 -99.3224663968182,19.5434462328693,0 -99.3224735775401,19.5434620348676,0 -99.322482033262,19.5434823531083,0 -99.3224903378686,19.5435015772896,0 -99.3224964060018,19.5435196405321,0 -99.322508366404,19.5435422117746,0 -99.3225203424458,19.5435726550948,0 -99.3225310391438,19.5435963935221,0 -99.3225453871516,19.5436212197585,0 -99.3225514508076,19.5436370237475,0 -99.3225645349702,19.5436629465674,0 -99.3225801445269,19.5436855112891,0 -99.3225884446672,19.5437024762139,0 -99.3225969004165,19.5437227944483,0 -99.3226075903325,19.5437431086927,0 -99.3226160617274,19.5437712990045,0 -99.3226256503483,19.5437995579225,0 -99.3226352456363,19.5438311704158,0 -99.3226364569932,19.5438786126955,0 -99.3226436937981,19.5439226200244,0 -99.3226473991254,19.5439508894476,0 -99.3226522169083,19.5439768270227,0 -99.3226557463567,19.5439915412046,0 -99.3226605484987,19.5440096067012,0 -99.3226677382446,19.5440299271924,0 -99.3226796919042,19.5440490742439,0 -99.3226868839695,19.5440705596606,0 -99.3226916927824,19.544091978732,0 -99.3226988938316,19.5441179826502,0 -99.3227108609724,19.5441439074526,0 -99.3227193122703,19.5441619664287,0 -99.3227264953649,19.5441789333412,0 -99.3227348043875,19.5442003461583,0 -99.3227396043696,19.5442173173274,0 -99.322744406528,19.5442353828211,0 -99.322750474718,19.5442534460528,0 -99.3227611691802,19.5442760195373,0 -99.3227683454774,19.5442895622704,0 -99.322773136343,19.5443019443348,0 -99.3227744361286,19.5443189217563,0 -99.322773208203,19.5443380923512,0 -99.3227684823885,19.544358434126,0 -99.3228942579188,19.5447627030144,0 -99.3228763441162,19.5449688830615,0 -99.3229185332913,19.5452233090701,0 -99.3228743023749,19.5458813328454,0 -99.3228549125028,19.5460806726278,0 -99.3222568484926,19.5460228076958,0 -99.3216054246333,19.5459597776948,0 -99.3212387626416,19.546185599036,0 -99.3209756534107,19.5465850073816,0 -99.3207505982068,19.5469266466285,0 -99.3207177549254,19.5473233401224,0 -99.3213700561436,19.5472824770765,0 -99.3215062850919,19.5467855736259,0 -99.3218227093096,19.5466348975427,0 -99.3223552690377,19.5465793615395,0 -99.322751098606,19.5465786547412,0 -99.3228064829866,19.546578555777,0 -99.3227999386725,19.5466458348546,0 -99.322846327321,19.5470202967771,0 -99.3231553422339,19.5473435784986,0 -99.3232273896325,19.5473725443671,0 -99.32342239413,19.5473193707362,0 -99.3244586945716,19.5475048985054,0 -99.3248310882407,19.5476184468493,0 -99.3248484265836,19.5476581056695,0 -99.3248590411195,19.5476998397631,0 -99.324862673032,19.5477426315393,0 -99.3248592337594,19.5477854376173,0 -99.3248488071554,19.5478272142668,0 -99.3248316474442,19.5478669428571,0 -99.3248081730226,19.5479036546942,0 -99.3247789562592,19.5479364546401,0 -99.3247447095378,19.5479645429395,0 -99.3247062678886,19.5479872347198,0 -99.3246645686271,19.5480039766906,0 -99.3246206284997,19.5480143606346,0 -99.3245755188926,19.5480181333615,0 -99.3245303397074,19.5480152028812,0 -99.3240692685704,19.5479325609411,0 -99.3236044218273,19.5479525423573,0 -99.3227738094977,19.5484835797566,0 -99.3220547545212,19.5496218659273,0 -99.3214584583946,19.5492355734999,0 -99.3211666178697,19.5493001449639,0 -99.3209609715694,19.549709279342,0 -99.3209553271749,19.5499530615469,0 -99.3209250044261,19.5501098260072,0 -99.320464836594,19.5500832233161,0 -99.3200441333849,19.5498848737194,0 -99.3197292908512,19.5501842627558,0 -99.319544231603,19.5506207861602,0 -99.3196056779452,19.5506995694151,0 -99.3189711635513,19.5503430416397,0 -99.3191159479065,19.5501825147365,0 -99.3182550154732,19.5494047826684,0 -99.3186140593362,19.5489580077998,0 -99.3183422832197,19.548727542914,0 -99.3171800536948,19.5498956998871,0 -99.3171804051183,19.5500755384425,0 -99.3171969722013,19.5502750171282,0 -99.3169714461382,19.5502942581358,0 -99.3168239875735,19.5503128329806,0 -99.315636618561,19.5472030356697,0 -99.3156423533091,19.5471980662349,0 -99.3156603413773,19.5471837725253,0 -99.3156735035363,19.5471736181569,0 -99.3156972912105,19.5471509839891,0 -99.3161878946189,19.5468785696362,0 -99.3163054583586,19.5468132904051,0 -99.3163144246905,19.5468093033498,0 -99.3163233910221,19.546805316294,0 -99.3163411792765,19.5467996722955,0 -99.3163500208042,19.5467959931255,0 -99.3158116728866,19.5456222473554,0 -99.3154880987776,19.5459116848348,0 -99.3156770931699,19.5462238616719,0 -99.3153429035728,19.5464337566795,0 -99.314544663016,19.5443430170647,0 -99.3133561397847,19.5417668509673,0 -99.3122329690176,19.5395036073794,0 -99.3123042487543,19.5395011252512,0 -99.313157520173,19.5412163881542,0 -99.3132156338607,19.5412187784391,0 -99.3132609581128,19.5407417864499,0 -99.3132600252582,19.5402581769478,0 -99.3132596668289,19.5400723565741,0 -99.3131690218588,19.5396749115381,0 -99.3129951580952,19.5393415249957,0 -99.3129903462114,19.5393408545226,0 -99.3130289554271,19.5391203308558,0 -99.3125086593657,19.5391163740246,0 -99.3125381046026,19.538885416861,0 -99.3119540522817,19.5388581075118,0 -99.3119146929322,19.5388622525656,0 -99.3119133281848,19.538859502465,0 -99.3120296705629,19.5383682098493,0 -99.3116452022914,19.5383192002827,0 -99.3116361866523,19.5383010327403,0 -99.3144436925761,19.53862111005,0 -99.3146407121263,19.5386812708272,0 -99.3142889157251,19.5391552942802,0 -99.3141021798754,19.5399182335816,0 -99.3140176476125,19.5400162068957,0 -99.3138699401656,19.5403304574857,0 -99.3138048375237,19.5405419352954,0 -99.3147658985059,19.540703226941,0 -99.3163676285551,19.5411366411347,0 -99.3186503448065,19.5428789234276,0 -99.3187540964116,19.5426865344798,0 -99.3190764526275,19.5422335411453,0 -99.3192366280183,19.5419149572914,0 -99.3191360401116,19.5418199615362,0 -99.3190343082935,19.5416879817014,0 -99.3189274813102,19.5416108418412,0 -99.3188645911653,19.5415395728407,0 -99.3186820903772,19.5412722194368,0 -99.3184307751469,19.541112057134,0 -99.3183235748374,19.5408445702399,0 -99.3183043536158,19.5406423606127,0 -99.3181419164359,19.5404657555496,0 -99.3177679503135,19.5403523206509,0 -99.3175713777915,19.5402505830646,0 -99.3175393499703,19.5400759691109,0 -99.3175642866892,19.5399614414568,0 -99.317609379443,19.5398611886124,0 -99.3177369731458,19.5396573031825,0 -99.3177390501561,19.5396587403521,0 -99.3176150670877,19.5398568562637,0 -99.3175699743386,19.5399571091094,0 -99.3175450376244,19.5400716367643,0 -99.3175770654507,19.540246250717,0 -99.3177736379709,19.5403479882972,0 -99.3181476040871,19.5404614231842,0 -99.3183100412686,19.5406380282422,0 -99.3183292624968,19.5408402378689,0 -99.3184364628126,19.5411077247597,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">22989.10000000000</SimpleData>
+		<SimpleData name="Perimetro">791.31700000000</SimpleData>
+		<SimpleData name="Colonia">Rinconada Bonfil</SimpleData>
+		<SimpleData name="Status">Sin antecedentes registrales</SimpleData>
+		<SimpleData name="Origen">Ejidal</SimpleData>
+		<SimpleData name="Institucio">INSUS</SimpleData>
+		<SimpleData name="Poligono">Rinconada Bonfil</SimpleData>
+		<SimpleData name="No_Lotes">SIN DATO</SimpleData>
+		<SimpleData name="Via_de_Reg">SIN DATO</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2435700278461,19.583995901252,0 -99.2438432828518,19.584548148726,0 -99.2447160181022,19.5856858469051,0 -99.2450252508928,19.5862293475168,0 -99.245168872512,19.5865692081733,0 -99.2452187918285,19.5866873349481,0 -99.2452367557937,19.5867891002401,0 -99.2431174782653,19.5852794307125,0 -99.2431751791235,19.5845067031921,0 -99.2435700278461,19.583995901252,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">20147.80000000000</SimpleData>
+		<SimpleData name="Perimetro">830.99500000000</SimpleData>
+		<SimpleData name="Colonia">Sagitario II</SimpleData>
+		<SimpleData name="Status">Bajo Resguardo y Custodia (R.L.T)</SimpleData>
+		<SimpleData name="Origen">Propiedad Privada</SimpleData>
+		<SimpleData name="Institucio">IMEVIS</SimpleData>
+		<SimpleData name="Poligono">Sagitario II</SimpleData>
+		<SimpleData name="No_Lotes">SIN DATO</SimpleData>
+		<SimpleData name="Via_de_Reg">SIN DATO</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2658992337033,19.5957704104846,0 -99.2644504246911,19.5968633801859,0 -99.2638646356075,19.5961947446558,0 -99.2662444062101,19.5943846758515,0 -99.2663076046428,19.5944560145246,0 -99.2653870146895,19.5951620158538,0 -99.2658992337033,19.5957704104846,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">50108.80000000000</SimpleData>
+		<SimpleData name="Perimetro">961.76400000000</SimpleData>
+		<SimpleData name="Colonia">Ampliacion Las Agulas</SimpleData>
+		<SimpleData name="Status">Parado por Riesgo</SimpleData>
+		<SimpleData name="Origen">Ejidal</SimpleData>
+		<SimpleData name="Institucio">INSUS</SimpleData>
+		<SimpleData name="Poligono">Ampliación Las Aguilas</SimpleData>
+		<SimpleData name="No_Lotes">142</SimpleData>
+		<SimpleData name="Via_de_Reg">SIN DATO</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2547354210842,19.5882993878547,0 -99.2542477974142,19.5882188599402,0 -99.2539682446129,19.5875612359034,0 -99.253558141371,19.5873086004171,0 -99.2531497494075,19.5862129954249,0 -99.2530520467537,19.5862489983659,0 -99.2527759612558,19.5855446222757,0 -99.253240348547,19.5852950456398,0 -99.2538965667213,19.584881231157,0 -99.2540466752989,19.5850579807864,0 -99.2545924970406,19.5856209717399,0 -99.2550790992478,19.5870603362356,0 -99.2547354210842,19.5882993878547,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">205942.00000000000</SimpleData>
+		<SimpleData name="Perimetro">3174.43000000000</SimpleData>
+		<SimpleData name="Colonia">Viejo Madín</SimpleData>
+		<SimpleData name="Status">Restricción Federal por uso de suelo</SimpleData>
+		<SimpleData name="Origen">Propiedad Privada</SimpleData>
+		<SimpleData name="Institucio">IMEVIS</SimpleData>
+		<SimpleData name="Poligono">Viejo Madín</SimpleData>
+		<SimpleData name="No_Lotes">SIN DATO</SimpleData>
+		<SimpleData name="Via_de_Reg">SIN DATO</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2611915867064,19.5315290024589,0 -99.2611179660962,19.5312278346882,0 -99.2610391717872,19.5308453769551,0 -99.2608999427185,19.5305203928003,0 -99.2609943230112,19.5296164329061,0 -99.2611912733529,19.5297643938909,0 -99.2614741744365,19.5300413491961,0 -99.2617774833479,19.5304617377153,0 -99.2620948694115,19.5310088330051,0 -99.2623301053514,19.5314388841581,0 -99.262475287957,19.5318694259432,0 -99.2628099387379,19.53161731441,0 -99.2630462998254,19.5313962889603,0 -99.263308580545,19.531120306833,0 -99.2637719975805,19.5309271237064,0 -99.2638380148384,19.5309117601776,0 -99.2639053240572,19.5309027566624,0 -99.2639732476349,19.5309002084688,0 -99.2640410979633,19.5309041392154,0 -99.2641081890727,19.5309145068812,0 -99.2641738412977,19.5309312109694,0 -99.2642373940537,19.530954079251,0 -99.2642848164027,19.5309972107704,0 -99.2643295690049,19.5310428349097,0 -99.2643715026886,19.5310908057204,0 -99.2644093392401,19.531147880274,0 -99.26445145957,19.5312021906522,0 -99.2644976432991,19.5312534475949,0 -99.2645307700699,19.5313038405543,0 -99.264558750281,19.5313569630868,0 -99.2645813370736,19.53141234561,0 -99.2645983300941,19.5314694964098,0 -99.2646095766706,19.5315279099127,0 -99.2646149787966,19.5315870677779,0 -99.2646495453858,19.5317673628481,0 -99.2646894813806,19.5319466583039,0 -99.2647022673939,19.531989352825,0 -99.2647990614836,19.5321752970091,0 -99.2649242600924,19.5324113028149,0 -99.2649621108151,19.5324985177489,0 -99.2649955893045,19.5325345954959,0 -99.2650216959402,19.5325634429051,0 -99.26511227294,19.5326653959228,0 -99.2651759081023,19.5327100980292,0 -99.2653471670817,19.5328103401277,0 -99.2654129616593,19.5328327970734,0 -99.2655029174911,19.5328573597385,0 -99.2655580509492,19.5328851213898,0 -99.2656055689782,19.5329193151557,0 -99.2656452639447,19.5329478805029,0 -99.2657113008847,19.5330210012428,0 -99.265757805557,19.5330936261253,0 -99.2657757249445,19.5331412717158,0 -99.2657823068341,19.5331744743117,0 -99.2657681912179,19.533255989328,0 -99.2657332947435,19.5333636935678,0 -99.265724700124,19.5334142215352,0 -99.2657150625148,19.533470887912,0 -99.2657061612626,19.5335288720327,0 -99.265699052608,19.5335904955987,0 -99.265693614512,19.5336608206371,0 -99.2656951190424,19.5336960643727,0 -99.2657043053636,19.5337326928637,0 -99.2657296419788,19.5337611474676,0 -99.2657801113319,19.5338153961432,0 -99.2658240350204,19.5338930745076,0 -99.2658713067406,19.5340101075626,0 -99.2659323278353,19.5341200402956,0 -99.2659847153408,19.534287539195,0 -99.2660333097205,19.5344475780269,0 -99.266053666478,19.5345545721753,0 -99.2660591890963,19.5346652412703,0 -99.2660363125602,19.5348367434216,0 -99.2660005898478,19.5349906657735,0 -99.2659964053814,19.5350157362644,0 -99.2659958384789,19.5350294455084,0 -99.2659946034348,19.5350486869769,0 -99.2659958694939,19.5350636654659,0 -99.2660004319057,19.5351262222269,0 -99.2660032815372,19.5351951732135,0 -99.2660011329976,19.535232836029,0 -99.2659997164307,19.5353089230126,0 -99.2660283681328,19.5354022428674,0 -99.2660709083279,19.5354866850039,0 -99.2660920245334,19.5356153749527,0 -99.2661141985638,19.5357110959763,0 -99.2661401407562,19.53568281414,0 -99.2662742193916,19.5356122317727,0 -99.2662842220746,19.5356005108603,0 -99.2663037465408,19.5355882193732,0 -99.2664054832739,19.5355363632554,0 -99.2664166607357,19.5355300620803,0 -99.2664309690777,19.5355136425247,0 -99.2664413897634,19.535496072037,0 -99.2664502688298,19.5354729008757,0 -99.2664644848418,19.5354296371758,0 -99.2665394885475,19.53520137393,0 -99.2666191203158,19.5349590269575,0 -99.2666447868345,19.534880596384,0 -99.2666646048587,19.5348196694396,0 -99.2667013378524,19.5347067355614,0 -99.2667562106137,19.5345380250892,0 -99.2668094248268,19.5343744147463,0 -99.266837496122,19.5342881073437,0 -99.2668940044705,19.5341143717253,0 -99.2669458123694,19.5339550877991,0 -99.2670054185282,19.5337718228879,0 -99.267091759918,19.5335168230124,0 -99.2671507333587,19.533401486579,0 -99.2672649599993,19.5331682835419,0 -99.2673036209083,19.5330893521213,0 -99.2673547105728,19.5329988969062,0 -99.2674530234921,19.5328669167259,0 -99.2675120558927,19.5328018185205,0 -99.2675885815639,19.5327376690402,0 -99.2676441078102,19.5327119692574,0 -99.2677120142188,19.5326883487793,0 -99.267756810504,19.5326770092375,0 -99.2677938088187,19.5326700221708,0 -99.2678305328038,19.5326706120026,0 -99.2678707283387,19.532675836571,0 -99.267921882763,19.5326898370678,0 -99.2679706391515,19.5327119785613,0 -99.2680228871788,19.5327480996167,0 -99.268067889035,19.532795066636,0 -99.26809435026,19.5328353688281,0 -99.2681143817145,19.5328802774194,0 -99.2681236279712,19.532912382743,0 -99.2681301765051,19.5329564641059,0 -99.2681307730507,19.5329862099156,0 -99.2681278225451,19.5330195164701,0 -99.2681105456109,19.5330806119026,0 -99.2680775849633,19.5331733945809,0 -99.2679109670512,19.5335857251761,0 -99.2678187334327,19.5337930655396,0 -99.2677002827974,19.5341018013137,0 -99.2676071286365,19.5343884942801,0 -99.2674477374402,19.534883777914,0 -99.2674181974862,19.5349736960105,0 -99.2673440062179,19.5352066071242,0 -99.2672576610347,19.5354719613359,0 -99.2671990210496,19.5356517714311,0 -99.2671961559597,19.535661455889,0 -99.2672117782049,19.5357262069894,0 -99.2672285935182,19.5357943761172,0 -99.2672120812533,19.535943681134,0 -99.2671901510456,19.5361759362802,0 -99.2671705329318,19.536344235109,0 -99.2671546471653,19.536482934518,0 -99.2668281504186,19.536381106041,0 -99.2666393992501,19.5362996399842,0 -99.2658005041921,19.5359948445006,0 -99.2656797277997,19.5359509624645,0 -99.2652435676478,19.5354391850758,0 -99.2648724016153,19.5354048194052,0 -99.2638105134339,19.535309469949,0 -99.2634587362796,19.5353609832657,0 -99.2632915924236,19.5349344210428,0 -99.2632416394055,19.5344574771231,0 -99.2632937689041,19.5339433210728,0 -99.2623118021864,19.5333804573018,0 -99.2620747021216,19.5333592819101,0 -99.2618980709001,19.533302151561,0 -99.2617415432992,19.5331995626995,0 -99.2616001269654,19.533084996885,0 -99.2616955886196,19.5328529237373,0 -99.2615793509128,19.5327120204545,0 -99.2614604099711,19.5324587382354,0 -99.2614497273305,19.5320881388106,0 -99.2612953836312,19.5317751312797,0 -99.2611915867064,19.5315290024589,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">18643.90000000000</SimpleData>
+		<SimpleData name="Perimetro">626.11300000000</SimpleData>
+		<SimpleData name="Colonia">Rancho Castro</SimpleData>
+		<SimpleData name="Status">Riesgo y asentamiento en zona federal</SimpleData>
+		<SimpleData name="Origen">Propiedad Privada</SimpleData>
+		<SimpleData name="Institucio">IMEVIS</SimpleData>
+		<SimpleData name="Poligono">Rancho Castro</SimpleData>
+		<SimpleData name="No_Lotes">SIN DATO</SimpleData>
+		<SimpleData name="Via_de_Reg">SIN DATO</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2550492929275,19.5238897062704,0 -99.25543273914,19.52337007568,0 -99.2557334383098,19.5234278622782,0 -99.2557436457633,19.5237304202061,0 -99.2560914256537,19.5239682428349,0 -99.2560713518124,19.5241107489683,0 -99.2565326896587,19.5244196161707,0 -99.2559599343516,19.5245109168893,0 -99.2556526398881,19.5247684803416,0 -99.2556564356899,19.525082049675,0 -99.2554188132723,19.5252274457024,0 -99.2552110777074,19.524989199718,0 -99.2545888246744,19.5243862621216,0 -99.2547903268956,19.524084169317,0 -99.2550492929275,19.5238897062704,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">10210.50000000000</SimpleData>
+		<SimpleData name="Perimetro">391.15200000000</SimpleData>
+		<SimpleData name="Colonia">Rancho Castro</SimpleData>
+		<SimpleData name="Status">Riesgo por presa Madin</SimpleData>
+		<SimpleData name="Origen">Propiedad Privada</SimpleData>
+		<SimpleData name="Institucio">IMEVIS</SimpleData>
+		<SimpleData name="Poligono">Rancho Castro CERRITO</SimpleData>
+		<SimpleData name="No_Lotes">SIN DATO</SimpleData>
+		<SimpleData name="Via_de_Reg">SIN DATO</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2585050614076,19.5247775283258,0 -99.2580702326753,19.5245944089555,0 -99.257776834565,19.5244607443916,0 -99.2578340868826,19.5242471252996,0 -99.258090099158,19.5239190061652,0 -99.25836727476,19.5237299046555,0 -99.2585193044043,19.5238587991727,0 -99.2588727759996,19.5241118627169,0 -99.2591484051752,19.524394224821,0 -99.2588924892378,19.524781939131,0 -99.2585050614076,19.5247775283258,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">82104.80000000000</SimpleData>
+		<SimpleData name="Perimetro">1619.06000000000</SimpleData>
+		<SimpleData name="Colonia">Los Cajones</SimpleData>
+		<SimpleData name="Status">Poligono en zona de Comuneros</SimpleData>
+		<SimpleData name="Origen">Propiedad Privada</SimpleData>
+		<SimpleData name="Institucio">IMEVIS</SimpleData>
+		<SimpleData name="Poligono">Los Cajones</SimpleData>
+		<SimpleData name="No_Lotes">SIN DATO</SimpleData>
+		<SimpleData name="Via_de_Reg">SIN DATO</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2561288293443,19.5402155608752,0 -99.2567394172505,19.5416443126311,0 -99.2561116942125,19.5418245336298,0 -99.2554925542014,19.5402473060151,0 -99.2557837268763,19.5401644031147,0 -99.2554415510024,19.5390889061952,0 -99.2570701260791,19.5389868826177,0 -99.2571428486999,19.538390693519,0 -99.2590378725073,19.538197897141,0 -99.2596652473385,19.5401768002882,0 -99.2561288293443,19.5402155608752,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">27284.90000000000</SimpleData>
+		<SimpleData name="Perimetro">702.00100000000</SimpleData>
+		<SimpleData name="Colonia">Las Flores</SimpleData>
+		<SimpleData name="Status">Dentro de la poligonal de comuneros</SimpleData>
+		<SimpleData name="Origen">Propiedad Privada</SimpleData>
+		<SimpleData name="Institucio">IMEVIS</SimpleData>
+		<SimpleData name="Poligono">Las Flores y Ampl. Las Flores</SimpleData>
+		<SimpleData name="No_Lotes">SIN DATO</SimpleData>
+		<SimpleData name="Via_de_Reg">SIN DATO</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2487013660447,19.5438904290044,0 -99.248787127677,19.5438921537513,0 -99.2488445617896,19.5429763408538,0 -99.2495376420829,19.5429526267281,0 -99.2495405409127,19.5429133982332,0 -99.2498381012803,19.5428964098199,0 -99.2500432008651,19.5448593366066,0 -99.2498679922953,19.5448659845218,0 -99.249506732311,19.544879693059,0 -99.2492971993114,19.5448876432195,0 -99.2486038406469,19.5449139493051,0 -99.2487013660447,19.5438904290044,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">34663.90000000000</SimpleData>
+		<SimpleData name="Perimetro">825.40800000000</SimpleData>
+		<SimpleData name="Colonia">El chaparral Ampliación</SimpleData>
+		<SimpleData name="Status">Una parte en poligono de Comuneros</SimpleData>
+		<SimpleData name="Origen">Propiedad Privada</SimpleData>
+		<SimpleData name="Institucio">IMEVIS</SimpleData>
+		<SimpleData name="Poligono">Ampliación el Chaparral</SimpleData>
+		<SimpleData name="No_Lotes">SIN DATO</SimpleData>
+		<SimpleData name="Via_de_Reg">SIN DATO</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2454869648792,19.5403041722,0 -99.245218875502,19.5393408315932,0 -99.24633424158,19.5391088650576,0 -99.2481235467609,19.5401649397603,0 -99.2482206027393,19.5405479464675,0 -99.2482444468384,19.5406382477952,0 -99.2469108382216,19.540645718282,0 -99.2469197828921,19.5404891811222,0 -99.2460659599483,19.5406120911331,0 -99.2455649949913,19.5402823274962,0 -99.2454869648792,19.5403041722,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">18757.50000000000</SimpleData>
+		<SimpleData name="Perimetro">982.41700000000</SimpleData>
+		<SimpleData name="Colonia">San Martín de Porres Ampliación</SimpleData>
+		<SimpleData name="Status">Solicitud de Iforme a la DAS</SimpleData>
+		<SimpleData name="Origen">Propiedad Privada</SimpleData>
+		<SimpleData name="Institucio">IMEVIS</SimpleData>
+		<SimpleData name="Poligono">Calle Loma Larga</SimpleData>
+		<SimpleData name="No_Lotes">108</SimpleData>
+		<SimpleData name="Via_de_Reg">SIN DATO</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2485340026217,19.5387615836197,0 -99.2484985150604,19.5374465783622,0 -99.2485152402938,19.5374171401461,0 -99.2485227296223,19.5374026045356,0 -99.2485332455254,19.5373432494289,0 -99.2485430319354,19.5373223525942,0 -99.2485714144953,19.5372651020104,0 -99.2486286738348,19.5371508196779,0 -99.2486589807668,19.537090433457,0 -99.2486864842798,19.5370347847496,0 -99.2487146555597,19.5369794412458,0 -99.2487423375592,19.5369248755873,0 -99.2487715417627,19.5368662939802,0 -99.2488001122114,19.5368091269407,0 -99.248829991996,19.5367506497455,0 -99.2488477532668,19.5367158906321,0 -99.2490750745634,19.5368084861787,0 -99.2492526647889,19.5368797553443,0 -99.2489232208805,19.5374947116069,0 -99.2489404966522,19.5388934634045,0 -99.2499515540143,19.5405089001789,0 -99.2497982364809,19.5404682213793,0 -99.2497268910263,19.5404563512669,0 -99.2496653387749,19.5404438674757,0 -99.249588600647,19.5404297741705,0 -99.2494207615878,19.5403911234094,0 -99.2493627534142,19.5402980918197,0 -99.2492933731541,19.5401905445268,0 -99.249257547003,19.5401350128967,0 -99.2492186766032,19.5400747578661,0 -99.2491246416015,19.5399195664879,0 -99.2490878028001,19.5398614796444,0 -99.2490506213513,19.5398026398068,0 -99.2489727598394,19.5396783079087,0 -99.2489242374235,19.5396005225558,0 -99.2488905144545,19.5395459366671,0 -99.2488567723233,19.5394913601747,0 -99.2487892437338,19.5393817108085,0 -99.24872637828,19.5392719932192,0 -99.2486849058312,19.5392060041105,0 -99.2486436746561,19.5391398789708,0 -99.2486027527642,19.5390735779929,0 -99.2485412486496,19.5389731536869,0 -99.2485369451833,19.5388880679064,0 -99.2485360873903,19.5388248122332,0 -99.2485340026217,19.5387615836197,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">11884.20000000000</SimpleData>
+		<SimpleData name="Perimetro">506.01300000000</SimpleData>
+		<SimpleData name="Colonia">Adolfo López Mateos</SimpleData>
+		<SimpleData name="Status">Pendiente de Dictamen de Protección Civil</SimpleData>
+		<SimpleData name="Origen">Propiedad Privada</SimpleData>
+		<SimpleData name="Institucio">IMEVIS</SimpleData>
+		<SimpleData name="Poligono">Lote 04 Ex Hacienda del Pedregal</SimpleData>
+		<SimpleData name="No_Lotes">37</SimpleData>
+		<SimpleData name="Via_de_Reg">SIN DATO</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2706964205685,19.5921206264047,0 -99.2720475499945,19.5910927634602,0 -99.2719525059088,19.592147030408,0 -99.2719108776798,19.592720471715,0 -99.2706964205685,19.5921206264047,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">143495.00000000000</SimpleData>
+		<SimpleData name="Perimetro">1973.42000000000</SimpleData>
+		<SimpleData name="Colonia">Ampliacion 5 de Mayo</SimpleData>
+		<SimpleData name="Status">En riesgo por inestabilidad del suelo</SimpleData>
+		<SimpleData name="Origen">Ejidal</SimpleData>
+		<SimpleData name="Institucio">INSUS</SimpleData>
+		<SimpleData name="Poligono">Ex Relleno Sanitario Ampl. 5 de Mayo</SimpleData>
+		<SimpleData name="No_Lotes">1</SimpleData>
+		<SimpleData name="Via_de_Reg">SIN DATO</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2540873252546,19.5881762277401,0 -99.2531212633721,19.5881121743732,0 -99.2507072697384,19.58710498331,0 -99.2492888811495,19.5865242548401,0 -99.2485478291022,19.5850741140479,0 -99.2477358186675,19.5845394054584,0 -99.2489464090351,19.5841690101694,0 -99.2493417967035,19.58349237971,0 -99.2499206769445,19.5834455151568,0 -99.2500235949005,19.5831358295508,0 -99.250212986458,19.5831491798325,0 -99.2500973399475,19.5841452024856,0 -99.2525581472686,19.5858033997635,0 -99.2528132870066,19.5856398532355,0 -99.253052046158,19.5862493590143,0 -99.2531497493917,19.5862133555926,0 -99.25355814156,19.587308961047,0 -99.2539682450471,19.587561596887,0 -99.2542405758422,19.588202233693,0 -99.2540873252546,19.5881762277401,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">2669.29000000000</SimpleData>
+		<SimpleData name="Perimetro">337.80200000000</SimpleData>
+		<SimpleData name="Colonia">1ro de Septiembre</SimpleData>
+		<SimpleData name="Status">Identificado con zona sin expropiacion</SimpleData>
+		<SimpleData name="Origen">Ejidal</SimpleData>
+		<SimpleData name="Institucio">INSUS</SimpleData>
+		<SimpleData name="Poligono">1ro de Setiembre</SimpleData>
+		<SimpleData name="No_Lotes">16</SimpleData>
+		<SimpleData name="Via_de_Reg">SIN DATO</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2548199173041,19.5926015190965,0 -99.2562688019705,19.5921727459321,0 -99.2563066614606,19.5923086275959,0 -99.2557544108717,19.5925746705295,0 -99.2553345889988,19.592600790911,0 -99.2548199173041,19.5926015190965,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">6861.62000000000</SimpleData>
+		<SimpleData name="Perimetro">553.07300000000</SimpleData>
+		<SimpleData name="Colonia">El Capulin Ampliacion</SimpleData>
+		<SimpleData name="Status">Fuera de expropiacion</SimpleData>
+		<SimpleData name="Origen">Sin antecedente</SimpleData>
+		<SimpleData name="Institucio">SIN DATO</SimpleData>
+		<SimpleData name="Poligono">El Capulin Ampliacion II</SimpleData>
+		<SimpleData name="No_Lotes">22</SimpleData>
+		<SimpleData name="Via_de_Reg">SIN DATO</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2449674920894,19.6009642518499,0 -99.2465524544754,19.5995309175331,0 -99.2467473054058,19.5996891695185,0 -99.2466287577711,19.5997108515316,0 -99.2465001556269,19.5997588485873,0 -99.246175152189,19.6000653459917,0 -99.2461049664444,19.6003667156184,0 -99.2451093836687,19.6013008602702,0 -99.2449674920894,19.6009642518499,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">2032.09000000000</SimpleData>
+		<SimpleData name="Perimetro">362.93000000000</SimpleData>
+		<SimpleData name="Colonia">Prados de Ixtacala 2da Seccion</SimpleData>
+		<SimpleData name="Status">Fuera de Expropiacion</SimpleData>
+		<SimpleData name="Origen">Sin antecedente</SimpleData>
+		<SimpleData name="Institucio">SIN DATO</SimpleData>
+		<SimpleData name="Poligono">Prados de Ixtacala</SimpleData>
+		<SimpleData name="No_Lotes">9</SimpleData>
+		<SimpleData name="Via_de_Reg">SIN DATO</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2450060522695,19.6014040584049,0 -99.2444447296665,19.59994803678,0 -99.2445298891377,19.5999079452037,0 -99.2451093836687,19.6013008602702,0 -99.2450060522695,19.6014040584049,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">44540.90000000000</SimpleData>
+		<SimpleData name="Perimetro">1194.97000000000</SimpleData>
+		<SimpleData name="Colonia">El calvario</SimpleData>
+		<SimpleData name="Status">Sin antecedentes</SimpleData>
+		<SimpleData name="Origen">Propiedad Privada</SimpleData>
+		<SimpleData name="Institucio">IMEVIS</SimpleData>
+		<SimpleData name="Poligono">El Calvario</SimpleData>
+		<SimpleData name="No_Lotes">SIN DATO</SimpleData>
+		<SimpleData name="Via_de_Reg">SIN DATO</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2531184889815,19.5288459313219,0 -99.2531159644235,19.5289480925275,0 -99.2531056086591,19.528998674271,0 -99.2528242793502,19.5289323608986,0 -99.2528171295709,19.5289571175567,0 -99.2528114723375,19.5289682431247,0 -99.2528077070047,19.5289793682532,0 -99.252799399905,19.5289894219445,0 -99.2527520062498,19.5289571826956,0 -99.25270793702,19.5289572443051,0 -99.2526141144756,19.5289411242185,0 -99.2525600029112,19.5289427464563,0 -99.2525068404135,19.5289504932054,0 -99.2523918042962,19.5289552865739,0 -99.2521094334539,19.5290135060794,0 -99.2520121372667,19.5290409389095,0 -99.2518941522668,19.5290683613543,0 -99.2516755775508,19.5291172048704,0 -99.2516469412532,19.5291333464741,0 -99.2515827135966,19.5291716245475,0 -99.2515645857387,19.5291907796906,0 -99.2515986125302,19.5293515053705,0 -99.2518653520396,19.529918964529,0 -99.2518771081114,19.5300358600411,0 -99.2518291888123,19.5300335368057,0 -99.2517283156494,19.5300360673019,0 -99.2515846006469,19.5300601789387,0 -99.25139989921,19.5301022528725,0 -99.2513083085159,19.5301328682862,0 -99.2511706662684,19.5301673954719,0 -99.251095501407,19.5301981512223,0 -99.2509680452725,19.5302609292951,0 -99.2509335055245,19.5301697325955,0 -99.2507249254139,19.5297931562924,0 -99.2503190068221,19.5298237617723,0 -99.2502261773597,19.529841070371,0 -99.249761890866,19.530010612477,0 -99.2495248810627,19.5302172016747,0 -99.2489507927296,19.5295395055406,0 -99.2494366178047,19.5292340864615,0 -99.2500843928561,19.5288821076941,0 -99.2504836867,19.528682651611,0 -99.2509919724737,19.5285792599759,0 -99.2516413533546,19.5286002152563,0 -99.2523234452164,19.5283854752077,0 -99.2529403196554,19.528337072437,0 -99.2531209797677,19.5285532669426,0 -99.2531184889815,19.5288459313219,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">2564.53000000000</SimpleData>
+		<SimpleData name="Perimetro">261.24800000000</SimpleData>
+		<SimpleData name="Colonia">1ro de Septiembre</SimpleData>
+		<SimpleData name="Status">Zona de riesgo</SimpleData>
+		<SimpleData name="Origen">Ejidal</SimpleData>
+		<SimpleData name="Institucio">INSUS</SimpleData>
+		<SimpleData name="Poligono">Mz-12 1ro de Septiembre</SimpleData>
+		<SimpleData name="No_Lotes">5</SimpleData>
+		<SimpleData name="Via_de_Reg">Liberacion de Riesgo</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2544190495606,19.5914333435218,0 -99.2546740849029,19.5923769692945,0 -99.25442593136,19.5924418789469,0 -99.2542299596289,19.591513949046,0 -99.2544190495606,19.5914333435218,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">3406.31000000000</SimpleData>
+		<SimpleData name="Perimetro">284.32800000000</SimpleData>
+		<SimpleData name="Colonia">1ro de Septiembre</SimpleData>
+		<SimpleData name="Status">Zona de riesgo</SimpleData>
+		<SimpleData name="Origen">Ejidal</SimpleData>
+		<SimpleData name="Institucio">INSUS</SimpleData>
+		<SimpleData name="Poligono">Mz-13 1ro de Septiembre</SimpleData>
+		<SimpleData name="No_Lotes">25</SimpleData>
+		<SimpleData name="Via_de_Reg">Liberacion de Riesgo</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.254758818216,19.5923538968242,0 -99.2544908966938,19.5913973758509,0 -99.2547631974294,19.59128939468,0 -99.2550387433903,19.5922803349728,0 -99.254758818216,19.5923538968242,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">864.29900000000</SimpleData>
+		<SimpleData name="Perimetro">117.87200000000</SimpleData>
+		<SimpleData name="Colonia">1ro de Septiembre</SimpleData>
+		<SimpleData name="Status">Zona de riesgo</SimpleData>
+		<SimpleData name="Origen">Ejidal</SimpleData>
+		<SimpleData name="Institucio">INSUS</SimpleData>
+		<SimpleData name="Poligono">Mz-15 1ro de Septiembre</SimpleData>
+		<SimpleData name="No_Lotes">6</SimpleData>
+		<SimpleData name="Via_de_Reg">Liberacion de Riesgo</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2552090181982,19.5911462560751,0 -99.2554934708993,19.5910636015515,0 -99.255560461031,19.5913083509163,0 -99.2552719628043,19.5913852732237,0 -99.2552090181982,19.5911462560751,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">821.34400000000</SimpleData>
+		<SimpleData name="Perimetro">114.84300000000</SimpleData>
+		<SimpleData name="Colonia">1ro de Septiembre</SimpleData>
+		<SimpleData name="Status">Zona de riesgo</SimpleData>
+		<SimpleData name="Origen">Ejidal</SimpleData>
+		<SimpleData name="Institucio">INSUS</SimpleData>
+		<SimpleData name="Poligono">Mz-16 1ro de Septiembre</SimpleData>
+		<SimpleData name="No_Lotes">6</SimpleData>
+		<SimpleData name="Via_de_Reg">Liberacion de Riesgo</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2555732955673,19.5910479471938,0 -99.2558467741054,19.590966502386,0 -99.2559182982439,19.5912059842441,0 -99.2556376175269,19.5912809837213,0 -99.2555732955673,19.5910479471938,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">1944.83000000000</SimpleData>
+		<SimpleData name="Perimetro">236.49000000000</SimpleData>
+		<SimpleData name="Colonia">1ro de Septiembre</SimpleData>
+		<SimpleData name="Status">Zona de riesgo</SimpleData>
+		<SimpleData name="Origen">Ejidal</SimpleData>
+		<SimpleData name="Institucio">INSUS</SimpleData>
+		<SimpleData name="Poligono">Mz-11 1ro de Septiembre</SimpleData>
+		<SimpleData name="No_Lotes">4</SimpleData>
+		<SimpleData name="Via_de_Reg">Liberacion de Riesgo</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2544311102584,19.5925257973231,0 -99.255341730985,19.5922717764187,0 -99.2553823579168,19.5924362221669,0 -99.2548235425425,19.592601518385,0 -99.2546198016328,19.5926725823443,0 -99.2544745091591,19.5926900027413,0 -99.2544311102584,19.5925257973231,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">12024.40000000000</SimpleData>
+		<SimpleData name="Perimetro">904.49000000000</SimpleData>
+		<SimpleData name="Colonia">Lomas de San Lorenzo</SimpleData>
+		<SimpleData name="Status">Sin Antecedente Registral</SimpleData>
+		<SimpleData name="Origen">Sin antecedente</SimpleData>
+		<SimpleData name="Institucio">SIN DATO</SimpleData>
+		<SimpleData name="Poligono">Lomas de San Lorenzo</SimpleData>
+		<SimpleData name="No_Lotes">SIN DATO</SimpleData>
+		<SimpleData name="Via_de_Reg">SIN DATO</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2264081052516,19.5489745301713,0 -99.2255209902483,19.546762980966,0 -99.2254354047386,19.5467969046304,0 -99.224692371055,19.5456066419349,0 -99.2247537978792,19.5455023697838,0 -99.2265596948592,19.5480339108592,0 -99.2267284240889,19.548852512681,0 -99.2266279558426,19.5488921054262,0 -99.2264081052516,19.5489745301713,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">373127.00000000000</SimpleData>
+		<SimpleData name="Perimetro">3124.20000000000</SimpleData>
+		<SimpleData name="Colonia">Peñitas Ampliación</SimpleData>
+		<SimpleData name="Status">En Expropiación</SimpleData>
+		<SimpleData name="Origen">Ejidal</SimpleData>
+		<SimpleData name="Institucio">INSUS</SimpleData>
+		<SimpleData name="Poligono">Peñitas Ampliación</SimpleData>
+		<SimpleData name="No_Lotes">SIN DATO</SimpleData>
+		<SimpleData name="Via_de_Reg">Expropiación</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2173336494966,19.5861722484609,0 -99.2177055447596,19.5919334388515,0 -99.2177014896843,19.5920007268555,0 -99.2178021068254,19.592528551255,0 -99.216869142936,19.5942315109559,0 -99.2155645655704,19.5961355925657,0 -99.2149108757537,19.5968908975362,0 -99.2133777481812,19.5987790202252,0 -99.213209878973,19.5981566258122,0 -99.2118058405754,19.5957671564324,0 -99.2173336494966,19.5861722484609,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">17151.60000000000</SimpleData>
+		<SimpleData name="Perimetro">1340.18000000000</SimpleData>
+		<SimpleData name="Colonia">San Jose el Jaral</SimpleData>
+		<SimpleData name="Status">En Expropiacion</SimpleData>
+		<SimpleData name="Origen">Ejidal</SimpleData>
+		<SimpleData name="Institucio">INSUS</SimpleData>
+		<SimpleData name="Poligono">San Jose el Jaral</SimpleData>
+		<SimpleData name="No_Lotes">SIN DATO</SimpleData>
+		<SimpleData name="Via_de_Reg">Expropiacion</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2133777481812,19.5987790202252,0 -99.214099331163,19.5998163462527,0 -99.2156963367495,19.600635100817,0 -99.2165186605923,19.6016264016197,0 -99.2167641764688,19.6025849191037,0 -99.2165389214721,19.6033803362892,0 -99.2163961677376,19.6030490474473,0 -99.2164705058101,19.602393485428,0 -99.2159865093007,19.6015866867938,0 -99.216016348571,19.6013354147814,0 -99.2159164596904,19.6011645736752,0 -99.2157408300936,19.6009555668985,0 -99.2150715748211,19.6004673952093,0 -99.2148603047585,19.6003992632023,0 -99.2141133146679,19.6002166457282,0 -99.2138057519193,19.6000408866924,0 -99.2137318410264,19.5998417021422,0 -99.2133934579618,19.598999308826,0 -99.2133777481812,19.5987790202252,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">7944.36000000000</SimpleData>
+		<SimpleData name="Perimetro">377.04900000000</SimpleData>
+		<SimpleData name="Colonia">Lomas de Guadalupe</SimpleData>
+		<SimpleData name="Status">Integracion de Expediente</SimpleData>
+		<SimpleData name="Origen">Propiedad Privada</SimpleData>
+		<SimpleData name="Institucio">IMEVIS</SimpleData>
+		<SimpleData name="Poligono">La Pradera</SimpleData>
+		<SimpleData name="No_Lotes">52</SimpleData>
+		<SimpleData name="Via_de_Reg">Juicios de Usucapion</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2414845782666,19.5366204511971,0 -99.2410294908059,19.5367608760943,0 -99.2405081563437,19.5369180766453,0 -99.2403522371332,19.536448593493,0 -99.2407208280662,19.5362853778465,0 -99.2406337231888,19.5361372444692,0 -99.2406393828851,19.5361352986794,0 -99.2406364081893,19.5361317675612,0 -99.2411833816513,19.5358792000297,0 -99.2413381892194,19.536141193747,0 -99.2413742474094,19.536212779341,0 -99.2414845782666,19.5366204511971,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">5426.17000000000</SimpleData>
+		<SimpleData name="Perimetro">307.67100000000</SimpleData>
+		<SimpleData name="Colonia">Barrio Norte</SimpleData>
+		<SimpleData name="Status">Integracion de Expediente</SimpleData>
+		<SimpleData name="Origen">Propiedad Privada</SimpleData>
+		<SimpleData name="Institucio">IMEVIS</SimpleData>
+		<SimpleData name="Poligono">Barrio Norte</SimpleData>
+		<SimpleData name="No_Lotes">23</SimpleData>
+		<SimpleData name="Via_de_Reg">Juicios de Usucapion</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2555976322266,19.5633166920548,0 -99.255606450228,19.5632347597091,0 -99.2556161740295,19.5631497521337,0 -99.255624241351,19.5630633718181,0 -99.2556324429465,19.5629776449315,0 -99.2556546325392,19.5628347089371,0 -99.255663046253,19.5627632246028,0 -99.2556903511575,19.5625948216029,0 -99.2557624274799,19.5626050555237,0 -99.2558375651049,19.562618603924,0 -99.2559125263804,19.5626321205513,0 -99.255987735097,19.562644242958,0 -99.2560636067611,19.5626564719506,0 -99.2561384414833,19.5626683124166,0 -99.2562986643772,19.562695145986,0 -99.2563855392501,19.5627101242821,0 -99.2563685843572,19.5628552476576,0 -99.2562932917852,19.5628446368547,0 -99.2562841689647,19.5629168194168,0 -99.256265968677,19.5630608094005,0 -99.2562457196237,19.5632302725196,0 -99.2562388454008,19.5633158546855,0 -99.2562320762056,19.5634001498693,0 -99.2555976322266,19.5633166920548,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">7328.99000000000</SimpleData>
+		<SimpleData name="Perimetro">374.02900000000</SimpleData>
+		<SimpleData name="Colonia">El Capulin Monte Sol</SimpleData>
+		<SimpleData name="Status">Integracion de Expediente</SimpleData>
+		<SimpleData name="Origen">Propiedad Privada</SimpleData>
+		<SimpleData name="Institucio">IMEVIS</SimpleData>
+		<SimpleData name="Poligono">El Capulin LOTE 01</SimpleData>
+		<SimpleData name="No_Lotes">33</SimpleData>
+		<SimpleData name="Via_de_Reg">Juicios Sumarios</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2411518536864,19.5444501176347,0 -99.2409580271785,19.5443409637613,0 -99.2405844594905,19.5443777809651,0 -99.2404018002509,19.5443829232555,0 -99.2403973133369,19.5441570285481,0 -99.2404042535555,19.5440216356623,0 -99.2404711350356,19.543852390308,0 -99.2404685384614,19.5437683759967,0 -99.2404930404806,19.5436119467346,0 -99.2405079971678,19.5436091154209,0 -99.240498995505,19.5434285770652,0 -99.2405197658232,19.5434258295738,0 -99.2409975014337,19.5432935589169,0 -99.2411518536864,19.5444501176347,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">4392.95000000000</SimpleData>
+		<SimpleData name="Perimetro">305.38000000000</SimpleData>
+		<SimpleData name="Colonia">El Capulin Monte Sol</SimpleData>
+		<SimpleData name="Status">Integracion de Expediente</SimpleData>
+		<SimpleData name="Origen">Propiedad Privada</SimpleData>
+		<SimpleData name="Institucio">IMEVIS</SimpleData>
+		<SimpleData name="Poligono">El Capulin LOTE 03</SimpleData>
+		<SimpleData name="No_Lotes">13</SimpleData>
+		<SimpleData name="Via_de_Reg">Juicios Sumarios</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.239874566191,19.5439919647789,0 -99.2395151276449,19.5438964413748,0 -99.2389779009498,19.5437825173822,0 -99.2388107887844,19.5437379947366,0 -99.2388442271075,19.5436533646291,0 -99.2390535232435,19.5435551249873,0 -99.2398400792152,19.543485689897,0 -99.2400234060348,19.5435352954747,0 -99.239874566191,19.5439919647789,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">30056.50000000000</SimpleData>
+		<SimpleData name="Perimetro">773.21800000000</SimpleData>
+		<SimpleData name="Colonia">Fraccionamiento Sur Cerro Madrid</SimpleData>
+		<SimpleData name="Status">Zona en conflicto legal</SimpleData>
+		<SimpleData name="Origen">Propiedad Privada</SimpleData>
+		<SimpleData name="Institucio">IMEVIS</SimpleData>
+		<SimpleData name="Poligono">Cerro Madrid</SimpleData>
+		<SimpleData name="No_Lotes">SIN DATO</SimpleData>
+		<SimpleData name="Via_de_Reg">SIN DATO</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2465100791535,19.5353627712892,0 -99.2464425654516,19.5352361995631,0 -99.2467138143222,19.5348469692149,0 -99.2468913521167,19.5345922066454,0 -99.2467444257306,19.5344846847542,0 -99.2466782054481,19.5344362222866,0 -99.2468082655416,19.5343463726517,0 -99.2468672197424,19.534312028515,0 -99.247201135201,19.5341154897061,0 -99.2472482620049,19.5341020786529,0 -99.24816706566,19.5341409424546,0 -99.2481820327644,19.5343554287339,0 -99.2484880696151,19.5345363898992,0 -99.2484037404346,19.534821041274,0 -99.2482798883166,19.5352457374229,0 -99.2484563164942,19.5354962317628,0 -99.2482542579815,19.53561600157,0 -99.2481292480959,19.5354452512137,0 -99.2474170774638,19.5361398132821,0 -99.2473141450404,19.5361382023535,0 -99.2471940263523,19.5356425374098,0 -99.247033046814,19.535576691444,0 -99.2465100791535,19.5353627712892,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">1720.81000000000</SimpleData>
+		<SimpleData name="Perimetro">166.78000000000</SimpleData>
+		<SimpleData name="Colonia">Pueblo de San Mateo Tecoloapan</SimpleData>
+		<SimpleData name="Status">SIN DATO</SimpleData>
+		<SimpleData name="Origen">Propiedad Privada</SimpleData>
+		<SimpleData name="Institucio">IMEVIS</SimpleData>
+		<SimpleData name="Poligono">San Mateo Tecoloapan</SimpleData>
+		<SimpleData name="No_Lotes">8</SimpleData>
+		<SimpleData name="Via_de_Reg">Inmatriculación Administrativa</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2274178059133,19.5801709373286,0 -99.2274615192375,19.5798115930061,0 -99.2276613735022,19.5798138422893,0 -99.227720609789,19.5798103300826,0 -99.2278566624277,19.579806605009,0 -99.2278069794612,19.5802042370352,0 -99.2274178059133,19.5801709373286,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">1523.12000000000</SimpleData>
+		<SimpleData name="Perimetro">170.94600000000</SimpleData>
+		<SimpleData name="Colonia">U.A.M (Universidad Autónoma Metropolitana)</SimpleData>
+		<SimpleData name="Status">Lotes no contemplados en lotificacion-sin salida</SimpleData>
+		<SimpleData name="Origen">Ejidal</SimpleData>
+		<SimpleData name="Institucio">INSUS</SimpleData>
+		<SimpleData name="Poligono">U.A.M Sin Lotificar</SimpleData>
+		<SimpleData name="No_Lotes">6</SimpleData>
+		<SimpleData name="Via_de_Reg">Expropiacion</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2540233341918,19.603953328095,0 -99.2538423613651,19.6034285082286,0 -99.2540072970634,19.6033809340543,0 -99.2540679642149,19.6034525809775,0 -99.2540983743184,19.6035386148298,0 -99.2541662478728,19.6035888608909,0 -99.2542758796369,19.603888518059,0 -99.2540233341918,19.603953328095,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">4170.09000000000</SimpleData>
+		<SimpleData name="Perimetro">284.81500000000</SimpleData>
+		<SimpleData name="Colonia">Ampliacion Emiliano Zapata</SimpleData>
+		<SimpleData name="Status">Afectacion por Zona Verde y Equipamiento</SimpleData>
+		<SimpleData name="Origen">Ejidal</SimpleData>
+		<SimpleData name="Institucio">INSUS</SimpleData>
+		<SimpleData name="Poligono">Rancho Seco Mz-104</SimpleData>
+		<SimpleData name="No_Lotes">14</SimpleData>
+		<SimpleData name="Via_de_Reg">Liberacion</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2628812690799,19.6003287849661,0 -99.2626030951094,19.6008132159187,0 -99.262234020333,19.5999291128471,0 -99.262666903953,19.5997421993201,0 -99.2628812690799,19.6003287849661,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">5188.96000000000</SimpleData>
+		<SimpleData name="Perimetro">339.52200000000</SimpleData>
+		<SimpleData name="Colonia">Ampliacion Emiliano Zapata</SimpleData>
+		<SimpleData name="Status">Afectacion por Zona Verde y Equipamiento</SimpleData>
+		<SimpleData name="Origen">Ejidal</SimpleData>
+		<SimpleData name="Institucio">INSUS</SimpleData>
+		<SimpleData name="Poligono">Rancho Seco Mz-119</SimpleData>
+		<SimpleData name="No_Lotes">16</SimpleData>
+		<SimpleData name="Via_de_Reg">Liberacion</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2622236236063,19.5986604151697,0 -99.262666903953,19.5997421993201,0 -99.262325352752,19.5998896762942,0 -99.2618606037082,19.5987902698586,0 -99.2622236236063,19.5986604151697,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Inventario_de_Asentamientos_Irregulares">
+		<SimpleData name="Area">9482.25000000000</SimpleData>
+		<SimpleData name="Perimetro">445.80400000000</SimpleData>
+		<SimpleData name="Colonia">Prados de Ixtacala 1ra Seccion</SimpleData>
+		<SimpleData name="Status">Pendiente de Autorizacion</SimpleData>
+		<SimpleData name="Origen">Ejidal</SimpleData>
+		<SimpleData name="Institucio">INSUS</SimpleData>
+		<SimpleData name="Poligono">Prados de Ixtacala Mz-134 y Mz-135</SimpleData>
+		<SimpleData name="No_Lotes">56</SimpleData>
+		<SimpleData name="Via_de_Reg">Relotificacion</SimpleData>
+		<SimpleData name="Status_Gen">Irregular</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2406013419269,19.5974181480108,0 -99.2404371923464,19.5969736301729,0 -99.2407305976687,19.5967924747264,0 -99.2414789077014,19.5961128931868,0 -99.2415378681494,19.5960611678527,0 -99.2419449689864,19.5965428908183,0 -99.2407390285521,19.5973720558878,0 -99.2406013419269,19.5974181480108,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>
