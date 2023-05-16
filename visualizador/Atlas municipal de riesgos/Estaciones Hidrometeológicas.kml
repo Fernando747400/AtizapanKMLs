@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ESTACIONES_HIDROMETEOLOGICAS" id="ESTACIONES_HIDROMETEOLOGICAS">
+	<SimpleField name="OID_" type="float"></SimpleField>
+	<SimpleField name="Estacion" type="float"></SimpleField>
+	<SimpleField name="temp_media" type="float"></SimpleField>
+	<SimpleField name="Precip_med" type="float"></SimpleField>
+	<SimpleField name="est" type="string"></SimpleField>
+</Schema>
+<Folder><name>ESTACIONES_HIDROMETEOLOGICAS</name>
+  <Placemark>
+	<name>15013</name>
+	<ExtendedData><SchemaData schemaUrl="#ESTACIONES_HIDROMETEOLOGICAS">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="Estacion">15013.000000</SimpleData>
+		<SimpleData name="temp_media">16.500000</SimpleData>
+		<SimpleData name="Precip_med">18.700000</SimpleData>
+		<SimpleData name="est">15013</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.2394000000553,19.5342000000456,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15047</name>
+	<ExtendedData><SchemaData schemaUrl="#ESTACIONES_HIDROMETEOLOGICAS">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="Estacion">15047.000000</SimpleData>
+		<SimpleData name="temp_media">16.500000</SimpleData>
+		<SimpleData name="Precip_med">18.700000</SimpleData>
+		<SimpleData name="est">15047</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.2157999998884,19.5628000003072,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15059</name>
+	<ExtendedData><SchemaData schemaUrl="#ESTACIONES_HIDROMETEOLOGICAS">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="Estacion">15059.000000</SimpleData>
+		<SimpleData name="temp_media">17.100000</SimpleData>
+		<SimpleData name="Precip_med">17.700000</SimpleData>
+		<SimpleData name="est">15059</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.2208000002247,19.4775000000104,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15073</name>
+	<ExtendedData><SchemaData schemaUrl="#ESTACIONES_HIDROMETEOLOGICAS">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="Estacion">15073.000000</SimpleData>
+		<SimpleData name="temp_media">16.200000</SimpleData>
+		<SimpleData name="Precip_med">16.700000</SimpleData>
+		<SimpleData name="est">15073</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.2821999996187,19.623299999628,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15075</name>
+	<ExtendedData><SchemaData schemaUrl="#ESTACIONES_HIDROMETEOLOGICAS">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="Estacion">15075.000000</SimpleData>
+		<SimpleData name="temp_media">15.000000</SimpleData>
+		<SimpleData name="Precip_med">18.000000</SimpleData>
+		<SimpleData name="est">15075</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.2782999999276,19.581099999554,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15095</name>
+	<ExtendedData><SchemaData schemaUrl="#ESTACIONES_HIDROMETEOLOGICAS">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="Estacion">15095.000000</SimpleData>
+		<SimpleData name="temp_media">13.800000</SimpleData>
+		<SimpleData name="Precip_med">21.900000</SimpleData>
+		<SimpleData name="est">15095</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.3678000001931,19.495299999893,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15098</name>
+	<ExtendedData><SchemaData schemaUrl="#ESTACIONES_HIDROMETEOLOGICAS">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="Estacion">15098.000000</SimpleData>
+		<SimpleData name="temp_media">16.100000</SimpleData>
+		<SimpleData name="Precip_med">16.300000</SimpleData>
+		<SimpleData name="est">15098</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.192799999617,19.6217000002241,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15100</name>
+	<ExtendedData><SchemaData schemaUrl="#ESTACIONES_HIDROMETEOLOGICAS">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="Estacion">15100.000000</SimpleData>
+		<SimpleData name="temp_media">16.500000</SimpleData>
+		<SimpleData name="Precip_med">12.800000</SimpleData>
+		<SimpleData name="est">15100</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.2374999997271,19.5707999998717,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15114</name>
+	<ExtendedData><SchemaData schemaUrl="#ESTACIONES_HIDROMETEOLOGICAS">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="Estacion">15114.000000</SimpleData>
+		<SimpleData name="temp_media">13.200000</SimpleData>
+		<SimpleData name="Precip_med">21.600000</SimpleData>
+		<SimpleData name="est">15114</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.4139000001317,19.5580999998373,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15127</name>
+	<ExtendedData><SchemaData schemaUrl="#ESTACIONES_HIDROMETEOLOGICAS">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="Estacion">15127.000000</SimpleData>
+		<SimpleData name="temp_media">16.700000</SimpleData>
+		<SimpleData name="Precip_med">17.500000</SimpleData>
+		<SimpleData name="est">15127</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.2455999997845,19.4655999999068,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15153</name>
+	<ExtendedData><SchemaData schemaUrl="#ESTACIONES_HIDROMETEOLOGICAS">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="Estacion">15153.000000</SimpleData>
+		<SimpleData name="temp_media">15.300000</SimpleData>
+		<SimpleData name="Precip_med">19.900000</SimpleData>
+		<SimpleData name="est">15153</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.2869000003693,19.5721999997849,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15318</name>
+	<ExtendedData><SchemaData schemaUrl="#ESTACIONES_HIDROMETEOLOGICAS">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="Estacion">15318.000000</SimpleData>
+		<SimpleData name="temp_media">12.200000</SimpleData>
+		<SimpleData name="Precip_med">18.600000</SimpleData>
+		<SimpleData name="est">15318</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.3968999996681,19.5389000000761,0</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
