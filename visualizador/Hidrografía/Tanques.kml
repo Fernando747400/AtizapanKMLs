@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Tanques" id="Tanques">
+	<SimpleField name="FolderPath" type="string"></SimpleField>
+</Schema>
+<Folder><name>Tanques</name>
+  <Placemark>
+	<name>Tanque El Zapote (Fuera de servicio)</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES FUERA DE SERVICIO</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.2418946019999,19.5348042800001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque San Juan Capistrano (Fuera de servicio)</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES FUERA DE SERVICIO</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.240741599,19.54148423,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Emiliano Zapata (fuera de servicio)</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES FUERA DE SERVICIO</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.262779184,19.6080689770001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Villasol (fuera de servicio)</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES FUERA DE SERVICIO</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.243430554,19.54203189,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Rebombeo López Mateos 1</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUE REBOMBEO</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.273407821,19.585990402,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Rebombeo Sayavedra 4</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUE REBOMBEO</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.328879896,19.561326158,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Rebombeo Cerrada de Arboleda</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUE REBOMBEO</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.254629392,19.5226680440001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Rebombeo Cantil</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUE REBOMBEO</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.251764851,19.519337363,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Rebombeo Capistrano</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUE REBOMBEO</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.2427831749999,19.5425840230001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Rebombeo Superficial Alamedas II</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUE REBOMBEO</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.249190491,19.549777852,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Rebombeo Alamedas III</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUE REBOMBEO</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.2511343259999,19.5492148610001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Rebombeo Colosio</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUE REBOMBEO</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.268807147,19.594582491,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Rebombeo Intermedio San Lorenzo I</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUE REBOMBEO</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.22705404,19.5489846620001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Rebombeo Real de Atizapán</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUE REBOMBEO</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.235670726,19.5614267170001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Rebombeo Lázaro Cárdenas parte alta</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUE REBOMBEO</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.2331255569999,19.5549956240001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Rebombeo Lomas de Tepalcapa</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUE REBOMBEO</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.236388619,19.5895491,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Rebombeo Atlaco</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUE REBOMBEO</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.220526435,19.5577587230001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Rebombeo Fuentes de Satélite 2</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUE REBOMBEO</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.262395263,19.5213555990001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Rebombeo superficial Tepalcapa</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUE REBOMBEO</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.242848758,19.5927486640001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Rebombeo Real de Atizapan</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUE REBOMBEO</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.235660491,19.561427043,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Rebombeo Sayavedra II (rancho)</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUE REBOMBEO</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.316027213,19.5752209360001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Las Colonias</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.2305355779999,19.5571407370001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Alamedas IV</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.252334154,19.548372741,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Comanches</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.260068801,19.550593926,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Lomas de Atizapán III</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.26955602,19.5517819450001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Morelos</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.245843835,19.536778074,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque El Pedregal</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.2555420099999,19.575651115,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Fuentes de Satélite 3</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.263351045,19.522998961,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Zona Industrial México Nuevo</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.2664458899999,19.5735477860001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Zona Industrial México parte alta</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.2727657629999,19.5727521200001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque México Nuevo II</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.271103916,19.5596147580001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque México Nuevo III</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.276626992,19.555910225,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque ADATIZ México Nuevo</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.2764546559999,19.5554767100001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Rebombeo Sayavedra III (Sherwood)</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.321374448,19.569644693,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Sayavedra 4</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.32891792,19.5612718670001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Hacienda Valle Escondido</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.315795158,19.5637714440001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Maestro Los Reales</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.322998986,19.557170709,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque de Almacenamiento Prado Largo</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.3070292149999,19.55634909,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Superficial Lomas de Valle Escondido</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.3129795789999,19.5522541350001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Elevado La Esfera Lomas de Valle Escondido</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.31398827,19.55132157,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Zaragoza</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.2632798609999,19.549649419,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Viejo Madín</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.2642091019999,19.534872444,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Nuevo Madín</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.272180205,19.52490175,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Lomas de Atizapán II (no existe)</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.260059819,19.550937348,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque de regularización superficial Bosque Esmeralda</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.286419401,19.5461259030001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Las Águilas Av. Uno</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.252374327,19.5803186910001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Superficial Fracc. Villas de la Cañada</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.24792288,19.543706679,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Ampliación Demetrio Vallejo San Martín</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.251716098,19.543240543,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Superficial El Calvario</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.251571503,19.529892965,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Elevado El Calvario</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.251752661,19.529928861,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Atizapán I, Depto Electromecánico</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.2491174629999,19.570508982,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Atizapán II</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.253743962,19.57817499,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque López Mateos Parte Alta</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.2754497719999,19.5924578020001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Elevado Real del  Pedregal</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.280071285,19.5906432780001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Atizapán III</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.2556161799999,19.58640509,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque elevado Hogares I</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.2575123,19.5915535010001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Superficial Hogares I</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.257731454,19.591453781,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Hogares III</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.266527351,19.59408884,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque La Reserva</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.2377609169999,19.563023538,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque elevado Real de Atizapán</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.235680036,19.561273075,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Golondrinas</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.228617806,19.5560225770001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque vidriado fusionado al acero San Lorenzo</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.228836739,19.555787336,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque San Lorenzo Parte Alta</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.228893721,19.5556336330001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque de Acero Vidriado Homex</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.2315701799999,19.5539673980001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Tarimoro</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.233305231,19.5804889560001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque elevado Tepalcapa</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.242896679,19.592911266,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Villas de la Hacienda</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.231328203,19.5914986280001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Xochimanga I</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.214702056,19.5725413660001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Xochimanga II</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.212987549,19.5665427800001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Quetzal</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.223932506,19.5596884660001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Pichón</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.223525183,19.561586758,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque El Jaral II</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.2183027029999,19.594630372,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque San José El Jaral</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.2190390009999,19.5930131550001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Margarita Maza II</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.224636865,19.5904544430001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Margarita Maza I</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.230979942,19.587640412,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Las Peñitas</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.223620786,19.582084288,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque II Las Peñitas</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.221326329,19.5836259120001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque III Las Peñitas</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.214790831,19.59108295,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Elevado El Campanario</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.232998256,19.5882110700001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Superficial Lomas de San Miguel</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.2331247769999,19.588335219,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Mayorazgos</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.2245933029999,19.558070619,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Santa Rosalía</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.232733444,19.5847560980001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque El Cabezón</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.237806481,19.582090001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque San Martín Parte Alta</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.2481807299999,19.537777997,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque Lomas de Capistrano</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.2467227609999,19.544349955,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque El Chaparral</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.246324113,19.5391993600001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque elevado Lomas de Valle escondido</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.313113787,19.552294897,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque V. Bonfil</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.241326734,19.5871414260001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>El Cerrito</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.2312932199999,19.584695777,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanque superfical Lago Esmeralda</name>
+	<ExtendedData><SchemaData schemaUrl="#Tanques">
+		<SimpleData name="FolderPath">TANQUES DE AGUA POTABLE.kmz/TANQUES DE AGUA POTABLE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.286492042,19.545948093,0</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
