@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="04_FALLAS" id="04_FALLAS">
+	<SimpleField name="Id" type="float"></SimpleField>
+</Schema>
+<Folder><name>04_FALLAS</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#04_FALLAS">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-99.2762551712738,19.562058511501 -99.275904963735,19.563708928483 -99.2755623213502,19.5652698549029 -99.2750578756169,19.5676969051288 -99.2741631982787,19.5707997222804 -99.2728925661017,19.5765722946806 -99.2718744740526,19.581177027619</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#04_FALLAS">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-99.3265974646268,19.5522488381294 -99.3281322169754,19.5539025635286 -99.3287151849219,19.554533120695 -99.3295598935789,19.5554254185723 -99.3307496240818,19.5566746356004 -99.3320940195502,19.5581023122038</coordinates></LineString>
+  </Placemark>
+</Folder>
+</Document></kml>
