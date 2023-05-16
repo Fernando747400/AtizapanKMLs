@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="04_RIESGO_DESBORDAMIENTO_EMBALSE" id="04_RIESGO_DESBORDAMIENTO_EMBALSE">
+	<SimpleField name="OBJECTID_1" type="float"></SimpleField>
+	<SimpleField name="OBJECTID" type="float"></SimpleField>
+	<SimpleField name="Shape_Leng" type="float"></SimpleField>
+	<SimpleField name="T" type="string"></SimpleField>
+	<SimpleField name="ORIG_FID" type="float"></SimpleField>
+</Schema>
+<Folder><name>04_RIESGO_DESBORDAMIENTO_EMBALSE</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#04_RIESGO_DESBORDAMIENTO_EMBALSE">
+		<SimpleData name="OBJECTID_1">1</SimpleData>
+		<SimpleData name="OBJECTID">1</SimpleData>
+		<SimpleData name="Shape_Leng">603.63961570500</SimpleData>
+		<SimpleData name="T">D</SimpleData>
+		<SimpleData name="ORIG_FID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.2610156515772,19.527694703893,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#04_RIESGO_DESBORDAMIENTO_EMBALSE">
+		<SimpleData name="OBJECTID_1">2</SimpleData>
+		<SimpleData name="OBJECTID">2</SimpleData>
+		<SimpleData name="Shape_Leng">1300.69571355000</SimpleData>
+		<SimpleData name="ORIG_FID">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.2610154147888,19.5276536473288,0</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
