@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ESTACIONES_CLIMATOLOGICAS" id="ESTACIONES_CLIMATOLOGICAS">
+	<SimpleField name="T_MIN" type="float"></SimpleField>
+	<SimpleField name="T_MAX" type="float"></SimpleField>
+</Schema>
+<Folder><name>ESTACIONES_CLIMATOLOGICAS</name>
+  <Placemark>
+	<name>15013</name>
+	<ExtendedData><SchemaData schemaUrl="#ESTACIONES_CLIMATOLOGICAS">
+		<SimpleData name="T_MIN">4.300</SimpleData>
+		<SimpleData name="T_MAX">27.400</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.2394,19.5342,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15019</name>
+	<ExtendedData><SchemaData schemaUrl="#ESTACIONES_CLIMATOLOGICAS">
+		<SimpleData name="T_MIN">3.400</SimpleData>
+		<SimpleData name="T_MAX">27.200</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.3547,19.5956,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15047</name>
+	<ExtendedData><SchemaData schemaUrl="#ESTACIONES_CLIMATOLOGICAS">
+		<SimpleData name="T_MIN">3.900</SimpleData>
+		<SimpleData name="T_MAX">27.500</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.2158,19.5628,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15059</name>
+	<ExtendedData><SchemaData schemaUrl="#ESTACIONES_CLIMATOLOGICAS">
+		<SimpleData name="T_MIN">5.300</SimpleData>
+		<SimpleData name="T_MAX">27.600</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.2208,19.4775,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15073</name>
+	<ExtendedData><SchemaData schemaUrl="#ESTACIONES_CLIMATOLOGICAS">
+		<SimpleData name="T_MIN">4.100</SimpleData>
+		<SimpleData name="T_MAX">26.800</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.2822,19.6233,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15074</name>
+	<ExtendedData><SchemaData schemaUrl="#ESTACIONES_CLIMATOLOGICAS">
+		<SimpleData name="T_MIN">3.100</SimpleData>
+		<SimpleData name="T_MAX">26.400</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.3017,19.695,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15075</name>
+	<ExtendedData><SchemaData schemaUrl="#ESTACIONES_CLIMATOLOGICAS">
+		<SimpleData name="T_MIN">2.300</SimpleData>
+		<SimpleData name="T_MAX">26.500</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.2783,19.5811,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15077</name>
+	<ExtendedData><SchemaData schemaUrl="#ESTACIONES_CLIMATOLOGICAS">
+		<SimpleData name="T_MIN">3.200</SimpleData>
+		<SimpleData name="T_MAX">26.200</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.2836,19.4528,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15081</name>
+	<ExtendedData><SchemaData schemaUrl="#ESTACIONES_CLIMATOLOGICAS">
+		<SimpleData name="T_MIN">3.100</SimpleData>
+		<SimpleData name="T_MAX">26.400</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.2192,19.7044,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15095</name>
+	<ExtendedData><SchemaData schemaUrl="#ESTACIONES_CLIMATOLOGICAS">
+		<SimpleData name="T_MIN">4.400</SimpleData>
+		<SimpleData name="T_MAX">22.400</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.3678,19.4953,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15098</name>
+	<ExtendedData><SchemaData schemaUrl="#ESTACIONES_CLIMATOLOGICAS">
+		<SimpleData name="T_MIN">3.800</SimpleData>
+		<SimpleData name="T_MAX">26.200</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1928,19.6217,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15100</name>
+	<ExtendedData><SchemaData schemaUrl="#ESTACIONES_CLIMATOLOGICAS">
+		<SimpleData name="T_MIN">3.900</SimpleData>
+		<SimpleData name="T_MAX">27.500</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.2375,19.5708,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15114</name>
+	<ExtendedData><SchemaData schemaUrl="#ESTACIONES_CLIMATOLOGICAS">
+		<SimpleData name="T_MIN">2.600</SimpleData>
+		<SimpleData name="T_MAX">22.300</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.4139,19.5581,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15127</name>
+	<ExtendedData><SchemaData schemaUrl="#ESTACIONES_CLIMATOLOGICAS">
+		<SimpleData name="T_MIN">3.800</SimpleData>
+		<SimpleData name="T_MAX">27.700</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.2456,19.4656,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15153</name>
+	<ExtendedData><SchemaData schemaUrl="#ESTACIONES_CLIMATOLOGICAS">
+		<SimpleData name="T_MIN">2.500</SimpleData>
+		<SimpleData name="T_MAX">26.500</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.2869,19.5722,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15154</name>
+	<ExtendedData><SchemaData schemaUrl="#ESTACIONES_CLIMATOLOGICAS">
+		<SimpleData name="T_MIN">4.000</SimpleData>
+		<SimpleData name="T_MAX">27.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.1728,19.5153,0</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
