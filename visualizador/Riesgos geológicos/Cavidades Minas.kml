@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="04_CAVIDADES_MINAS" id="04_CAVIDADES_MINAS">
+	<SimpleField name="OID_" type="float"></SimpleField>
+	<SimpleField name="FolderPath" type="string"></SimpleField>
+	<SimpleField name="SymbolID" type="float"></SimpleField>
+	<SimpleField name="AltMode" type="float"></SimpleField>
+	<SimpleField name="Base" type="float"></SimpleField>
+	<SimpleField name="Clamped" type="float"></SimpleField>
+	<SimpleField name="Extruded" type="float"></SimpleField>
+	<SimpleField name="Snippet" type="string"></SimpleField>
+	<SimpleField name="PopupInfo" type="string"></SimpleField>
+	<SimpleField name="Shape_Leng" type="float"></SimpleField>
+	<SimpleField name="Shape_Area" type="float"></SimpleField>
+	<SimpleField name="TEMA" type="string"></SimpleField>
+	<SimpleField name="ETIQUETA" type="string"></SimpleField>
+</Schema>
+<Folder><name>04_CAVIDADES_MINAS</name>
+  <Placemark>
+	<name>CS01</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#04_CAVIDADES_MINAS">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="FolderPath">ATLAS A ZARAGOZA 2019/Atlas de Atizapán de Zaragoza/Geológicos/CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="SymbolID">2</SimpleData>
+		<SimpleData name="AltMode">0</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="Clamped">-1</SimpleData>
+		<SimpleData name="Extruded">0</SimpleData>
+		<SimpleData name="PopupInfo">Colonia: Adolfo López Mateos Ampliación
+Número de calles afectadas: 2
+Calles afectadas: Pachuca, Chetumal
+Perimetro: 0.51 km 
+Área Héctareas: 1.06
+Población aproximada: 303
+Vivienda Total habitada: 77
+Centros de Salud y Hospitales: 0
+Centros de tra</SimpleData>
+		<SimpleData name="Shape_Leng">0.00419439302</SimpleData>
+		<SimpleData name="Shape_Area">0.00000068034</SimpleData>
+		<SimpleData name="TEMA">CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="ETIQUETA">ZM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2663287669999,19.590287339,0 -99.2673522959999,19.591296877,0 -99.2663855549999,19.591412023,0 -99.2664269689999,19.590915254,0 -99.265873496,19.5908554150001,0 -99.2663287669999,19.590287339,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>CS002</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#04_CAVIDADES_MINAS">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="FolderPath">ATLAS A ZARAGOZA 2019/Atlas de Atizapán de Zaragoza/Geológicos/CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="SymbolID">2</SimpleData>
+		<SimpleData name="AltMode">0</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="Clamped">-1</SimpleData>
+		<SimpleData name="Extruded">0</SimpleData>
+		<SimpleData name="PopupInfo">Colonia: Adolfo López Mateos Ampliación
+Número de calles afectadas: 8
+Calles afectadas: Chiapas, 4a Cda de Chiapas, Tapachula, 1a cerrada Chiapas, 2da Cerrada de Chiapas, 3a Cerrada de Chiapas. Guadalajara, Priv. de S. Miguel.
+Población aproximada: 1</SimpleData>
+		<SimpleData name="Shape_Leng">0.00691789129</SimpleData>
+		<SimpleData name="Shape_Area">0.00000319918</SimpleData>
+		<SimpleData name="TEMA">CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="ETIQUETA">ZM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.270346524,19.5920680180001,0 -99.2704263039999,19.592353245,0 -99.2687118519999,19.593600683,0 -99.268592029,19.593566228,0 -99.2685133509999,19.5932827820001,0 -99.2684606449999,19.593147574,0 -99.268421167,19.593036887,0 -99.2683682619999,19.592938822,0 -99.268355656,19.592802954,0 -99.2683170129999,19.592630007,0 -99.2683046579999,19.5924818710001,0 -99.2683055749999,19.592284728,0 -99.2683196309999,19.592063291,0 -99.268373653,19.591817237,0 -99.268454639,19.5915956470001,0 -99.268588348,19.591423271,0 -99.2687214249999,19.591312501,0 -99.268919929,19.591250524,0 -99.2690250269999,19.59123804,0 -99.269181131,19.591250473,0 -99.2693367019999,19.591299992,0 -99.2695057619999,19.59136198,0 -99.2696754839999,19.591411829,0 -99.269780204,19.59146137,0 -99.2698588439999,19.591559926,0 -99.269924481,19.591633984,0 -99.2700033579999,19.591745143,0 -99.270121906,19.5918320910001,0 -99.2702538949999,19.59193156,0 -99.2703067749999,19.591981273,0 -99.270346524,19.5920680180001,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>CS008</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#04_CAVIDADES_MINAS">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="FolderPath">ATLAS A ZARAGOZA 2019/Atlas de Atizapán de Zaragoza/Geológicos/CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="SymbolID">2</SimpleData>
+		<SimpleData name="AltMode">0</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="Clamped">-1</SimpleData>
+		<SimpleData name="Extruded">0</SimpleData>
+		<SimpleData name="PopupInfo">Colonia: Bellavista
+Número de calles afectadas: 1
+Calles afectadas: Calle S/N
+Perímetro: 0.73 km
+Área Hectáreas: 2.74
+Población aproximada: 270
+Vivienda total habitada: 142
+Centros de salud y hospitales: 0 
+Centros de trabajo y educativos: 0</SimpleData>
+		<SimpleData name="Shape_Leng">0.00539586518</SimpleData>
+		<SimpleData name="Shape_Area">0.00000175531</SimpleData>
+		<SimpleData name="TEMA">CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="ETIQUETA">ZM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.250214762,19.5316052090001,0 -99.2506959679999,19.530604883,0 -99.2519951399999,19.531205435,0 -99.2517272259999,19.5323451560001,0 -99.250214762,19.5316052090001,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>CS03</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#04_CAVIDADES_MINAS">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="FolderPath">ATLAS A ZARAGOZA 2019/Atlas de Atizapán de Zaragoza/Geológicos/CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="SymbolID">2</SimpleData>
+		<SimpleData name="AltMode">0</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="Clamped">-1</SimpleData>
+		<SimpleData name="Extruded">0</SimpleData>
+		<SimpleData name="PopupInfo">Colonia: Adolfo López Mateos
+Número de calles afectadas: 1
+Calles afectadas: Cda. de Avenida Central
+Perimetro: 0.87 km
+Area Hectáreas: 3.00
+Población aproximada: 573
+Vivienda total habitada: 134
+Centros de Sauld y hospitales: 0
+Centros de trabajo y</SimpleData>
+		<SimpleData name="Shape_Leng">0.00388848968</SimpleData>
+		<SimpleData name="Shape_Area">0.00000084748</SimpleData>
+		<SimpleData name="TEMA">CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="ETIQUETA">ZM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2719204429999,19.592054522,0 -99.271937274,19.592305535,0 -99.2719379259999,19.592355803,0 -99.2719388839999,19.592431253,0 -99.271939628,19.592494135,0 -99.2719540629999,19.592569828,0 -99.27194081,19.5926446500001,0 -99.271913999,19.592694379,0 -99.2718872139999,19.592744128,0 -99.2718354899999,19.5928457520001,0 -99.271837948,19.5929609340001,0 -99.2718395899999,19.593037896,0 -99.2718274319999,19.593101991,0 -99.2717609869999,19.593165383,0 -99.2716525179999,19.593201235,0 -99.271584353,19.593199493,0 -99.2715161879999,19.593185115,0 -99.2714617949999,19.593171242,0 -99.271407277,19.593144592,0 -99.271311617,19.593066137,0 -99.2712703009999,19.5930016450001,0 -99.2712696229999,19.5929507220001,0 -99.2712687759999,19.592887146,0 -99.271281382,19.592823883,0 -99.2712938009999,19.592748019,0 -99.271253044,19.592697091,0 -99.2711722289999,19.592658197,0 -99.271171501,19.592558011,0 -99.271157922,19.592508055,0 -99.2711310919999,19.5924705080001,0 -99.2710907839999,19.592395547,0 -99.2711436109999,19.5923087140001,0 -99.2712231089999,19.592234488,0 -99.2712497409999,19.592234624,0 -99.271356186,19.592210297,0 -99.271409141,19.592136028,0 -99.2714354969999,19.592086427,0 -99.2714350589999,19.592036594,0 -99.2714346709999,19.591974485,0 -99.2714210449999,19.5919247680001,0 -99.271420661,19.5918627230001,0 -99.2714469719999,19.591813209,0 -99.2714733559999,19.591776105,0 -99.2715395919999,19.5917267450001,0 -99.27167352,19.591739977,0 -99.271727566,19.591765291,0 -99.2718228849999,19.591840952,0 -99.2718781469999,19.591928951,0 -99.2719204429999,19.592054522,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>CS04</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#04_CAVIDADES_MINAS">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="FolderPath">ATLAS A ZARAGOZA 2019/Atlas de Atizapán de Zaragoza/Geológicos/CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="SymbolID">2</SimpleData>
+		<SimpleData name="AltMode">0</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="Clamped">-1</SimpleData>
+		<SimpleData name="Extruded">0</SimpleData>
+		<SimpleData name="PopupInfo">Colonia: Lomas de Montemaria
+Numero de calles afectadas: 7
+Calles afectadas: Mariano Abasolo, Montealban, Monte Real, Montevideo, José Ma. Morelos y Pavón. Monte Maria
+Perimetro: 0.98 km
+Area Hectareas: 5.55
+Población aproximada: 963
+Vivienda total ha</SimpleData>
+		<SimpleData name="Shape_Leng">0.00831236221</SimpleData>
+		<SimpleData name="Shape_Area">0.00000447669</SimpleData>
+		<SimpleData name="TEMA">CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="ETIQUETA">ZM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2706666649999,19.598379163,0 -99.2702407729999,19.598766545,0 -99.270136839,19.598840688,0 -99.2700316309999,19.598896955,0 -99.2699169219999,19.598953426,0 -99.269748135,19.599029127,0 -99.269622746,19.599050986,0 -99.2695150969999,19.5990726040001,0 -99.2694246769999,19.5990751090001,0 -99.269270626,19.599079378,0 -99.2691436199999,19.59909216,0 -99.269061686,19.5990944370001,0 -99.2689257649999,19.599163299,0 -99.2685951569999,19.599142282,0 -99.268502986,19.599096762,0 -99.2683190769999,19.5990248140001,0 -99.2682369809999,19.598849653,0 -99.26816447,19.598712989,0 -99.2680650179999,19.598586824,0 -99.2679487219999,19.598406403,0 -99.2678513399999,19.5982450590001,0 -99.2678195009999,19.598002895,0 -99.2678201149999,19.5979673520001,0 -99.2678620839999,19.597589768,0 -99.2678915389999,19.597383708,0 -99.2679393879999,19.5971036380001,0 -99.2679842269999,19.597002854,0 -99.2680200139999,19.59691109,0 -99.2680899749999,19.596820044,0 -99.2681680569999,19.596729721,0 -99.268254197,19.596664304,0 -99.26852798,19.5965744260001,0 -99.2706666649999,19.598379163,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>CS-05</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#04_CAVIDADES_MINAS">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="FolderPath">ATLAS A ZARAGOZA 2019/Atlas de Atizapán de Zaragoza/Geológicos/CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="SymbolID">2</SimpleData>
+		<SimpleData name="AltMode">0</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="Clamped">-1</SimpleData>
+		<SimpleData name="Extruded">0</SimpleData>
+		<SimpleData name="PopupInfo">Colonia: Ex Hacienda del Pedregal
+Número de calles afectadas: 1
+Calles afectadas: Cda de Hacienda de Guadalupe
+Perimetro: 0.96 km
+Área Hectareas: 4.39
+Población aproximada: 956
+Vivienda total habitada: 240
+Centros de salud y hospitales: 0
+Centros de t</SimpleData>
+		<SimpleData name="Shape_Leng">0.00776000840</SimpleData>
+		<SimpleData name="Shape_Area">0.00000310014</SimpleData>
+		<SimpleData name="TEMA">CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="ETIQUETA">ZM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2724771789999,19.5946672,0 -99.272602437,19.594678303,0 -99.2704075619999,19.596514266,0 -99.2702611609999,19.596461773,0 -99.269980434,19.596188849,0 -99.269900412,19.596060579,0 -99.2698733509999,19.5959468820001,0 -99.269859737,19.59587145,0 -99.2698458349999,19.595746369,0 -99.2698450269999,19.5956220840001,0 -99.2698831259999,19.595474392,0 -99.269921615,19.595376892,0 -99.2699471929999,19.595303803,0 -99.2699855599999,19.595206488,0 -99.27006276,19.595097573,0 -99.2701918659999,19.594965178,0 -99.2702821829999,19.594868842,0 -99.270386181,19.594809298,0 -99.270503434,19.59476184,0 -99.2705685109999,19.5947259590001,0 -99.2706593679999,19.5946537880001,0 -99.2707376979999,19.594617949,0 -99.270802523,19.594557663,0 -99.270840578,19.594472927,0 -99.270878806,19.594400401,0 -99.270943129,19.594315945,0 -99.270993753,19.594207323,0 -99.2710449049999,19.5941350140001,0 -99.2711897139999,19.5941232,0 -99.2712702079999,19.5941958810001,0 -99.2713110019999,19.5942565440001,0 -99.2713383979999,19.5943051450001,0 -99.2713528079999,19.594365919,0 -99.2714341279999,19.594451459,0 -99.2715813609999,19.594488808,0 -99.2717550839999,19.594489738,0 -99.271858508,19.594513841,0 -99.271935136,19.5945256300001,0 -99.272011659,19.594537403,0 -99.2721254039999,19.594560917,0 -99.2722139559999,19.5946088580001,0 -99.2723015029999,19.594608082,0 -99.272426856,19.59464338,0 -99.2724771789999,19.5946672,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>CS06</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#04_CAVIDADES_MINAS">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="FolderPath">ATLAS A ZARAGOZA 2019/Atlas de Atizapán de Zaragoza/Geológicos/CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="SymbolID">2</SimpleData>
+		<SimpleData name="AltMode">0</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="Clamped">-1</SimpleData>
+		<SimpleData name="Extruded">0</SimpleData>
+		<SimpleData name="PopupInfo">Colonia: Dr. Cristobal Higuera
+Número de calles afectadas: 11
+Calles afectadas: Ignacio Zaragoza, Emiliano Zapata, Juan Aldama, Aldama, Felipe Ángeles, Ruiz Cortines, 1ra cerrada de Ruiz Cortines, 2da Cerrada de Ruiz Cortines, Guadalupe Victoria, Cda d</SimpleData>
+		<SimpleData name="Shape_Leng">0.01012478912</SimpleData>
+		<SimpleData name="Shape_Area">0.00000488008</SimpleData>
+		<SimpleData name="TEMA">CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="ETIQUETA">ZM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2473301219999,19.5851640590001,0 -99.2475109099999,19.58556008,0 -99.2475341509999,19.585666489,0 -99.247452106,19.585839572,0 -99.2473457469999,19.5859688460001,0 -99.247256194,19.586045571,0 -99.2471888459999,19.58610585,0 -99.2470939739999,19.586145813,0 -99.246998897,19.5861749040001,0 -99.2468885599999,19.586210545,0 -99.2468092499999,19.5862347820001,0 -99.2467686899999,19.586237514,0 -99.2467443399999,19.586239154,0 -99.2467021139999,19.5862224250001,0 -99.2466416559999,19.586189539,0 -99.245673518,19.584894847,0 -99.2456000029999,19.584895794,0 -99.2455336669999,19.584928689,0 -99.245451873,19.5849720090001,0 -99.2454143249999,19.585001707,0 -99.245361637,19.5850250980001,0 -99.2454442919999,19.5849895900001,0 -99.245406842,19.5850026520001,0 -99.2453766569999,19.585023193,0 -99.2453466049999,19.585027003,0 -99.2452716329999,19.5850197340001,0 -99.245234533,19.584999322,0 -99.2451991349999,19.584941003,0 -99.2451804189999,19.58485935,0 -99.2450579039999,19.584564125,0 -99.244769224,19.5842977660001,0 -99.24467057,19.584209763,0 -99.2446343509999,19.584145739,0 -99.2445744029999,19.584052999,0 -99.244522406,19.583961369,0 -99.244490193,19.5838842900001,0 -99.2444588279999,19.583802274,0 -99.2444282959999,19.5836996460001,0 -99.244389588,19.583575606,0 -99.244381966,19.583472513,0 -99.2443851259999,19.583389953,0 -99.2444017059999,19.583302091,0 -99.244442567,19.583221016,0 -99.244523594,19.5831049870001,0 -99.244636288,19.583015875,0 -99.2447521659999,19.582944771,0 -99.2448465849999,19.582902866,0 -99.2451149779999,19.5828804220001,0 -99.2451452509999,19.5828801110001,0 -99.2451937169999,19.582879613,0 -99.2452364259999,19.5828681130001,0 -99.245296996,19.582867649,0 -99.2453513839999,19.582878427,0 -99.2454361759999,19.582917039,0 -99.2455779219999,19.5831164950001,0 -99.245596757,19.583133957,0 -99.245761917,19.58324816,0 -99.2458599639999,19.583340998,0 -99.2459130779999,19.58339129,0 -99.2459677909999,19.583467336,0 -99.2460651149999,19.583591307,0 -99.2461576109999,19.583705457,0 -99.246267319,19.583843265,0 -99.2464328739999,19.5840461390001,0 -99.246612595,19.584263579,0 -99.246688551,19.584379676,0 -99.246745854,19.584443493,0 -99.2468186189999,19.5845088080001,0 -99.2468977169999,19.584558869,0 -99.2469375919999,19.584584106,0 -99.2469990169999,19.5846644530001,0 -99.247078045,19.584761475,0 -99.247092437,19.5848172930001,0 -99.2471134909999,19.58486565,0 -99.247163953,19.584906687,0 -99.247247793,19.5850230230001,0 -99.247317164,19.585128822,0 -99.2473301219999,19.5851640590001,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>CS07</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#04_CAVIDADES_MINAS">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="FolderPath">ATLAS A ZARAGOZA 2019/Atlas de Atizapán de Zaragoza/Geológicos/CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="SymbolID">2</SimpleData>
+		<SimpleData name="AltMode">0</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="Clamped">-1</SimpleData>
+		<SimpleData name="Extruded">0</SimpleData>
+		<SimpleData name="PopupInfo">Colonia: México Nuevo
+Número de calles afectads: 1
+Calles afectadas: Cto. Dr Gustavo Baz
+Perimetro: 0.61 km
+Área Hectáreas: 2.57
+Población aproximada: 76
+Vivienda total habitada: 21
+Centros de Salud y hospitales: 0
+Centros de trabajo y educatvos: 0</SimpleData>
+		<SimpleData name="Shape_Leng">0.00537729120</SimpleData>
+		<SimpleData name="Shape_Area">0.00000205228</SimpleData>
+		<SimpleData name="TEMA">CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="ETIQUETA">ZM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2620014319999,19.570188495,0 -99.2622032209999,19.570405361,0 -99.2621993379999,19.5704849840001,0 -99.2622088039999,19.5705535480001,0 -99.2622447579999,19.570599596,0 -99.2623171689999,19.570680304,0 -99.2623633649999,19.570783887,0 -99.2623588179999,19.570864168,0 -99.262300387,19.5710022370001,0 -99.262247029,19.5710483600001,0 -99.262179385,19.571117799,0 -99.2620740009999,19.57117578,0 -99.2619968179999,19.57118731,0 -99.2619058859999,19.571210518,0 -99.2617899039999,19.571222036,0 -99.2616342919999,19.5712452540001,0 -99.2615296869999,19.5712686090001,0 -99.2614126319999,19.571292036,0 -99.261296858,19.5713037510001,0 -99.261143459,19.5713036700001,0 -99.2610045869999,19.571280007,0 -99.2609050889999,19.571244581,0 -99.2607692439999,19.571185602,0 -99.260658101,19.5711384570001,0 -99.260603604,19.5710328690001,0 -99.2605493029999,19.5709276580001,0 -99.2605068669999,19.570834469,0 -99.260438584,19.570741424,0 -99.2603719359999,19.570613734,0 -99.2603819619999,19.570475174,0 -99.2604411229999,19.570360442,0 -99.2605221699999,19.570292106,0 -99.2606006069999,19.570258252,0 -99.2607049589999,19.570213213,0 -99.2608090519999,19.570168285,0 -99.2608758319999,19.570111834,0 -99.2609279429999,19.570043223,0 -99.2610283179999,19.5699281070001,0 -99.261166432,19.5698713510001,0 -99.2612166589999,19.569871784,0 -99.261354092,19.569884314,0 -99.261856649,19.570062543,0 -99.2619287779999,19.570142688,0 -99.2620014319999,19.570188495,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>CS09</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#04_CAVIDADES_MINAS">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="FolderPath">ATLAS A ZARAGOZA 2019/Atlas de Atizapán de Zaragoza/Geológicos/CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="SymbolID">2</SimpleData>
+		<SimpleData name="AltMode">0</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="Clamped">-1</SimpleData>
+		<SimpleData name="Extruded">0</SimpleData>
+		<SimpleData name="PopupInfo">Colonia: Atizapan 2000
+Número de calles afectadas: 12
+Calles afectadas: Saturno, Vicente Guerrero, Atomo, Mariano Matamoros, Neutron, Nicolás Bravo, Proton, Bldv. Ignacio Zaragoza, Mariano Abasolo, Cosmos, Universo, Luz
+Perímetro: 1.02 km
+Área Hectá</SimpleData>
+		<SimpleData name="Shape_Leng">0.00861837877</SimpleData>
+		<SimpleData name="Shape_Area">0.00000337583</SimpleData>
+		<SimpleData name="TEMA">CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="ETIQUETA">ZM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2492948229999,19.594791007,0 -99.24723321,19.597205712,0 -99.2471299469999,19.5940517170001,0 -99.2492948229999,19.594791007,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>CS10</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#04_CAVIDADES_MINAS">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="FolderPath">ATLAS A ZARAGOZA 2019/Atlas de Atizapán de Zaragoza/Geológicos/CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="SymbolID">2</SimpleData>
+		<SimpleData name="AltMode">0</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="Clamped">-1</SimpleData>
+		<SimpleData name="Extruded">0</SimpleData>
+		<SimpleData name="PopupInfo">Colonia: Atizapán 2000
+Número de calles afectadas:17
+Calles afectadas: Francisco Jose Mujica, Doroteo Arango, Felipe Angeles, Gral. Cardenas del Rio, Gral. Zapata, Luis Cabrera, Fernando Pineda Mendez, Nuez, Capulín, Tejocote, Avellana, Datil, Cerezo.</SimpleData>
+		<SimpleData name="Shape_Leng">0.01136024012</SimpleData>
+		<SimpleData name="Shape_Area">0.00000567298</SimpleData>
+		<SimpleData name="TEMA">CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="ETIQUETA">ZM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2444931649999,19.595941,0 -99.24483071,19.5956373540001,0 -99.246376083,19.599290664,0 -99.2462506889999,19.5991788960001,0 -99.2460737379999,19.599333571,0 -99.245530898,19.599671124,0 -99.2452298049999,19.599868979,0 -99.2449383329999,19.6000292620001,0 -99.2448152569999,19.600094413,0 -99.2447222,19.60013426,0 -99.244597378,19.600150673,0 -99.2444698559999,19.5992259490001,0 -99.2444318279999,19.5991103640001,0 -99.2442950429999,19.598672299,0 -99.2442709059999,19.598499458,0 -99.2442560329999,19.59835208,0 -99.2442505019999,19.598209163,0 -99.2442439439999,19.5981170740001,0 -99.244209562,19.5980554110001,0 -99.2441768519999,19.597954765,0 -99.244170603,19.597876018,0 -99.2441319899999,19.597720817,0 -99.2441100559999,19.597593418,0 -99.2441060779999,19.597466886,0 -99.244118787,19.597359652,0 -99.244129339,19.5973066710001,0 -99.244140756,19.597228032,0 -99.244169227,19.5971417,0 -99.244187525,19.5970989510001,0 -99.2440698299999,19.59729819,0 -99.244072019,19.597245749,0 -99.244060559,19.597116572,0 -99.2440641379999,19.597025261,0 -99.2440666899999,19.5969596890001,0 -99.244052863,19.596887064,0 -99.2440552239999,19.59683038,0 -99.2440590149999,19.596741831,0 -99.2440889159999,19.596614641,0 -99.2441418579999,19.5965048890001,0 -99.2441770559999,19.596420161,0 -99.2442279039999,19.596328841,0 -99.2442935459999,19.596246022,0 -99.244373657,19.5961719310001,0 -99.2444216159999,19.59610586,0 -99.244461378,19.596033463,0 -99.244485136,19.595976333,0 -99.2444931649999,19.595941,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>CS11</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#04_CAVIDADES_MINAS">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="FolderPath">ATLAS A ZARAGOZA 2019/Atlas de Atizapán de Zaragoza/Geológicos/CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="SymbolID">2</SimpleData>
+		<SimpleData name="AltMode">0</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="Clamped">-1</SimpleData>
+		<SimpleData name="Extruded">0</SimpleData>
+		<SimpleData name="PopupInfo">Colonia: México Nuevo
+Número de calles afectadas: 1
+Calles afectadas: Cda Adolfo Mantregi
+Perímetro: 0.74 km
+Área Hectáreas: 4.21
+Población aproximada: 76
+Vivienda total habitada: 21
+Centros de salud y hospitales: 0 
+Centros de trabajo y educativos</SimpleData>
+		<SimpleData name="Shape_Leng">0.00543897155</SimpleData>
+		<SimpleData name="Shape_Area">0.00000220580</SimpleData>
+		<SimpleData name="TEMA">CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="ETIQUETA">ZM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2615028819999,19.574314674,0 -99.2612941899999,19.574333797,0 -99.2611762279999,19.574302781,0 -99.261068579,19.57419049,0 -99.2609821729999,19.574060182,0 -99.2608952739999,19.573859602,0 -99.2609021869999,19.573644,0 -99.2609041749999,19.573360908,0 -99.2609763519999,19.573126952,0 -99.261180563,19.572948812,0 -99.2614526889999,19.572909403,0 -99.261747632,19.572917141,0 -99.2621959429999,19.573072663,0 -99.26250172,19.573228848,0 -99.2625920029999,19.573329958,0 -99.262708494,19.573486782,0 -99.26278359,19.573681359,0 -99.262758289,19.57384361,0 -99.2626695879999,19.573996679,0 -99.262567948,19.574127471,0 -99.262416113,19.574236247,0 -99.262189274,19.574334389,0 -99.2617779059999,19.5743727060001,0 -99.2615028819999,19.574314674,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>CS12</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#04_CAVIDADES_MINAS">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="FolderPath">ATLAS A ZARAGOZA 2019/Atlas de Atizapán de Zaragoza/Geológicos/CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="SymbolID">2</SimpleData>
+		<SimpleData name="AltMode">-1</SimpleData>
+		<SimpleData name="Base">10.00000000000</SimpleData>
+		<SimpleData name="Clamped">0</SimpleData>
+		<SimpleData name="Extruded">0</SimpleData>
+		<SimpleData name="PopupInfo">Colonia: El Chaparral Ampliación
+Numero de calles afectadas: 10
+Calles afectadas: Arbolitos, Encinos, Orquídea, Amapola, Jazmin, Noche Buena, Lirio, Bugambilia, Gardenias, Adn. Roble, Margaritas
+Perímetro: 0.95 km
+Área Hectáreas: 5.20
+Población apr</SimpleData>
+		<SimpleData name="Shape_Leng">0.00691471129</SimpleData>
+		<SimpleData name="Shape_Area">0.00000279917</SimpleData>
+		<SimpleData name="TEMA">CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="ETIQUETA">ZM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2463021559999,19.53911183,0 -99.246911122,19.539558979,0 -99.246964013,19.539608016,0 -99.247141061,19.53978305,0 -99.2472224939999,19.5398376470001,0 -99.247395768,19.53987339,0 -99.2476034039999,19.539959066,0 -99.2477317939999,19.539997987,0 -99.2479868289999,19.540119776,0 -99.2481747689999,19.540249549,0 -99.2482386619999,19.54033631,0 -99.2482443379999,19.5403855210001,0 -99.248229693,19.540455111,0 -99.2482329409999,19.5405399680001,0 -99.2481770689999,19.540592024,0 -99.2480516739999,19.540638619,0 -99.2479441119999,19.5407142120001,0 -99.2478238629999,19.540743028,0 -99.2477095149999,19.540817016,0 -99.2475998099999,19.5407982130001,0 -99.2474758499999,19.540799709,0 -99.2472921709999,19.540788302,0 -99.2471086249999,19.540772159,0 -99.2469259439999,19.5407941170001,0 -99.246785275,19.540793545,0 -99.2466676389999,19.540782286,0 -99.246512099,19.540767893,0 -99.2461789019999,19.540729454,0 -99.2460914789999,19.54072176,0 -99.2459515819999,19.5406738930001,0 -99.2457990629999,19.540528496,0 -99.245692589,19.540356429,0 -99.245616919,19.540159367,0 -99.2455659769999,19.53999306,0 -99.245660082,19.539717109,0 -99.2456684849999,19.5397007170001,0 -99.245696255,19.5396445530001,0 -99.2458040049999,19.53944807,0 -99.2460909429999,19.539194903,0 -99.2462789049999,19.539115907,0 -99.2463021559999,19.53911183,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>CS13</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#04_CAVIDADES_MINAS">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="FolderPath">ATLAS A ZARAGOZA 2019/Atlas de Atizapán de Zaragoza/Geológicos/CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="SymbolID">2</SimpleData>
+		<SimpleData name="AltMode">-1</SimpleData>
+		<SimpleData name="Base">20.00000000000</SimpleData>
+		<SimpleData name="Clamped">0</SimpleData>
+		<SimpleData name="Extruded">0</SimpleData>
+		<SimpleData name="PopupInfo">Colonia: El chaparral
+Número de calles afectadas: 6
+Calles afectadas: Cda Golondrinas, Golondrinas, Tucán, Pelicanos, Perdiz,Calles S/N
+Perímetro: 0.43 km
+Área Hectáreas: 0.94
+Población aproximada: 669
+Vivienda total habitada: 200
+Centros de salud</SimpleData>
+		<SimpleData name="Shape_Leng">0.00626229591</SimpleData>
+		<SimpleData name="Shape_Area">0.00000204920</SimpleData>
+		<SimpleData name="TEMA">CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="ETIQUETA">ZM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2447880939999,19.538581029,0 -99.24507061,19.539758399,0 -99.244876848,19.540395827,0 -99.244423645,19.5407409800001,0 -99.243893707,19.540683341,0 -99.2439148119999,19.5390456850001,0 -99.2440276029999,19.5389125340001,0 -99.2436921059999,19.5388125850001,0 -99.2447880939999,19.538581029,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>CS14</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#04_CAVIDADES_MINAS">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="FolderPath">ATLAS A ZARAGOZA 2019/Atlas de Atizapán de Zaragoza/Geológicos/CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="SymbolID">2</SimpleData>
+		<SimpleData name="AltMode">-1</SimpleData>
+		<SimpleData name="Base">10.00000000000</SimpleData>
+		<SimpleData name="Clamped">0</SimpleData>
+		<SimpleData name="Extruded">0</SimpleData>
+		<SimpleData name="PopupInfo">Colonia: La Ermita
+Numero de calles afectadas: 1
+Calles afectadas: Del Pinzon
+Perímetro: 0.31 km
+Área Hectáreas: 0.36
+Población aproximada: 266
+Vivienda total habitada: 102
+Centros de salud y hospitales: 0 
+Centros de trabajo y educativos: 0</SimpleData>
+		<SimpleData name="Shape_Leng">0.00220624298</SimpleData>
+		<SimpleData name="Shape_Area">0.00000015839</SimpleData>
+		<SimpleData name="TEMA">CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="ETIQUETA">ZM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2424601329999,19.549104597,0 -99.2423698049999,19.549266585,0 -99.2422847019999,19.549099006,0 -99.2422932279999,19.549082907,0 -99.2423085,19.549055922,0 -99.2423780079999,19.548938856,0 -99.2424367729999,19.548895587,0 -99.2424440929999,19.548899744,0 -99.242518659,19.548739681,0 -99.2425658179999,19.548681418,0 -99.242623558,19.548605915,0 -99.242663662,19.548555874,0 -99.2426862559999,19.548485794,0 -99.242696101,19.548449432,0 -99.242714246,19.548435245,0 -99.242763654,19.5483953500001,0 -99.2428020579999,19.548367086,0 -99.2428443799999,19.548442326,0 -99.2428704449999,19.548450288,0 -99.242878793,19.548497714,0 -99.2428447279999,19.548633195,0 -99.2424601329999,19.549104597,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>CS15</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#04_CAVIDADES_MINAS">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="FolderPath">ATLAS A ZARAGOZA 2019/Atlas de Atizapán de Zaragoza/Geológicos/CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="SymbolID">2</SimpleData>
+		<SimpleData name="AltMode">-1</SimpleData>
+		<SimpleData name="Base">10.00000000000</SimpleData>
+		<SimpleData name="Clamped">0</SimpleData>
+		<SimpleData name="Extruded">0</SimpleData>
+		<SimpleData name="PopupInfo">Colonia: La Ermita
+Número de calles afectadas: 3
+Calles afectadas: San Francisco de Asis, Adolfo López Mateos, Paseo de las Alamedas
+Perímetro: 0.40 km
+Área Hectáreas: 0.74
+Población aproximada:193
+Vivienda total habitada: 69
+Centros de salud y hos</SimpleData>
+		<SimpleData name="Shape_Leng">0.00322936141</SimpleData>
+		<SimpleData name="Shape_Area">0.00000047974</SimpleData>
+		<SimpleData name="TEMA">CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="ETIQUETA">ZM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2410179869999,19.550194643,0 -99.240522723,19.5509060520001,0 -99.2399624079999,19.550748104,0 -99.240925443,19.5497859330001,0 -99.2410179869999,19.550194643,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>CS16</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#04_CAVIDADES_MINAS">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="FolderPath">ATLAS A ZARAGOZA 2019/Atlas de Atizapán de Zaragoza/Geológicos/CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="SymbolID">2</SimpleData>
+		<SimpleData name="AltMode">0</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="Clamped">-1</SimpleData>
+		<SimpleData name="Extruded">0</SimpleData>
+		<SimpleData name="PopupInfo">Colonia: La Ladera
+Número de calles afectadas: 6
+Calles afectadas: Rio Calacoaya, Rio Blanco, Rio los remedios, Rio Tehuantepec, Palomas, Golondrinas
+Perímetro: 0.73 km
+Área Hectáreas: 2.79
+Población aproximada: 1218
+Vivienda total habitada: 340
+Cen</SimpleData>
+		<SimpleData name="Shape_Leng">0.00624749968</SimpleData>
+		<SimpleData name="Shape_Area">0.00000205761</SimpleData>
+		<SimpleData name="TEMA">CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="ETIQUETA">ZM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2385168,19.6024722270001,0 -99.2383085389999,19.601421165,0 -99.240463458,19.601093889,0 -99.2406147289999,19.601902254,0 -99.2385168,19.6024722270001,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>CS17</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#04_CAVIDADES_MINAS">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="FolderPath">ATLAS A ZARAGOZA 2019/Atlas de Atizapán de Zaragoza/Geológicos/CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="SymbolID">2</SimpleData>
+		<SimpleData name="AltMode">0</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="Clamped">-1</SimpleData>
+		<SimpleData name="Extruded">0</SimpleData>
+		<SimpleData name="PopupInfo">Colonia: Las Águilas
+Número de calles afectadas: 6
+Calles afectadas: Concor, Calandria, Pelicanos, Colorines, Cda Colorines, Av. De los Cisnes
+Perímetro: 0.45 km
+Área Hectáreas: 1.41
+Población aproximada: 969
+Vivienda total habitada: 239
+Centros de</SimpleData>
+		<SimpleData name="Shape_Leng">0.00377751687</SimpleData>
+		<SimpleData name="Shape_Area">0.00000094920</SimpleData>
+		<SimpleData name="TEMA">CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="ETIQUETA">ZM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2491696919999,19.582067239,0 -99.2494584279999,19.5825123380001,0 -99.2485914969999,19.583141617,0 -99.248184058,19.582925667,0 -99.2481683109999,19.582895645,0 -99.2481524769999,19.582872127,0 -99.2481482,19.582835174,0 -99.2481500689999,19.582779633,0 -99.2481631409999,19.58271188,0 -99.2482025459999,19.582649014,0 -99.2482092329999,19.582596277,0 -99.248210837,19.582533518,0 -99.2482545069999,19.5824458810001,0 -99.248271994,19.582338414,0 -99.2482370899999,19.582308829,0 -99.248579223,19.5820094900001,0 -99.2491696919999,19.582067239,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>CS18</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#04_CAVIDADES_MINAS">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="FolderPath">ATLAS A ZARAGOZA 2019/Atlas de Atizapán de Zaragoza/Geológicos/CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="SymbolID">2</SimpleData>
+		<SimpleData name="AltMode">0</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="Clamped">-1</SimpleData>
+		<SimpleData name="Extruded">0</SimpleData>
+		<SimpleData name="PopupInfo">Colonia: Las Flores
+Número de calles afectadas: 0
+Calles afectadas: /
+Perímetro: 0.73 km
+Área Hectáreas: 2.74
+Población aproximada: 270
+Vivienda total habitada: 142
+Centros de salud y hospitales: 0 
+Centros de trabajo y educativos:</SimpleData>
+		<SimpleData name="Shape_Leng">0.00217703956</SimpleData>
+		<SimpleData name="Shape_Area">0.00000033509</SimpleData>
+		<SimpleData name="TEMA">CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="ETIQUETA">ZM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2470367819999,19.544733819,0 -99.2468610699999,19.544731158,0 -99.2468467189999,19.544712705,0 -99.2468219169999,19.544694054,0 -99.246797262,19.5446725890001,0 -99.2467789439999,19.544636971,0 -99.2467602659999,19.544589681,0 -99.2467413799999,19.544531458,0 -99.2467376969999,19.544441227,0 -99.2467545139999,19.5443574120001,0 -99.2467853799999,19.544298554,0 -99.2469186009999,19.54421005,0 -99.247086172,19.544114209,0 -99.2472280589999,19.544084062,0 -99.247389905,19.5441066430001,0 -99.2474700219999,19.544216426,0 -99.24747175,19.5443691940001,0 -99.24732923,19.544511008,0 -99.247100522,19.544698828,0 -99.2470367819999,19.544733819,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>CS19</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#04_CAVIDADES_MINAS">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="FolderPath">ATLAS A ZARAGOZA 2019/Atlas de Atizapán de Zaragoza/Geológicos/CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="SymbolID">2</SimpleData>
+		<SimpleData name="AltMode">-1</SimpleData>
+		<SimpleData name="Base">10.00000000000</SimpleData>
+		<SimpleData name="Clamped">0</SimpleData>
+		<SimpleData name="Extruded">0</SimpleData>
+		<SimpleData name="PopupInfo">Colonia: El Chaparral
+Número de calles afectadas: 1
+Calles afectadas: Loma Larga
+Perímetro: 0.80 km
+Área Hectáreas: 4.21
+Población aproximada: 2188
+Vivienda total habitada: 485
+Centros de salud y hospitales: 0 
+Centros de trabajo y educativos: 0</SimpleData>
+		<SimpleData name="Shape_Leng">0.00645522581</SimpleData>
+		<SimpleData name="Shape_Area">0.00000286987</SimpleData>
+		<SimpleData name="TEMA">CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="ETIQUETA">ZM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.249651913,19.5401332800001,0 -99.2494232979999,19.539799761,0 -99.2494205119999,19.539734199,0 -99.2494043189999,19.539603895,0 -99.2493950849999,19.5394,0 -99.249404542,19.53917444,0 -99.2493821139999,19.538767016,0 -99.24945139,19.538267134,0 -99.249857551,19.537840835,0 -99.2505202179999,19.5378066420001,0 -99.2510519989999,19.538439498,0 -99.25067685,19.539707876,0 -99.249651913,19.5401332800001,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>CS20</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#04_CAVIDADES_MINAS">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="FolderPath">ATLAS A ZARAGOZA 2019/Atlas de Atizapán de Zaragoza/Geológicos/CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="SymbolID">2</SimpleData>
+		<SimpleData name="AltMode">-1</SimpleData>
+		<SimpleData name="Base">15.00000000000</SimpleData>
+		<SimpleData name="Clamped">0</SimpleData>
+		<SimpleData name="Extruded">0</SimpleData>
+		<SimpleData name="PopupInfo">Colonia: San Martín de Porres
+Número de calles afectadas: 4
+Calles afectadas: Ignacio Zaragoza, Av S. Martín, R. Jaramillo, Efraín Calderon
+Perímetro: 0.80 km
+Área Hectáreas: 1.52
+Población aproximada: 2188
+Vivienda total habitada: 485
+Centros de</SimpleData>
+		<SimpleData name="Shape_Leng">0.00320473802</SimpleData>
+		<SimpleData name="Shape_Area">0.00000070276</SimpleData>
+		<SimpleData name="TEMA">CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="ETIQUETA">ZM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2522011929999,19.542742129,0 -99.2520238119999,19.542558441,0 -99.2520471559999,19.542533534,0 -99.2519792199999,19.542531763,0 -99.251975955,19.542263843,0 -99.251953181,19.5420971720001,0 -99.251966996,19.542035196,0 -99.2521303439999,19.541882259,0 -99.252443783,19.5417560430001,0 -99.2526143849999,19.541804601,0 -99.252749866,19.541823218,0 -99.2528571189999,19.541887574,0 -99.252971034,19.542036235,0 -99.2529205389999,19.542050936,0 -99.252897917,19.542331631,0 -99.252748453,19.542503127,0 -99.2524000809999,19.54266937,0 -99.2522011929999,19.542742129,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>CS21</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#04_CAVIDADES_MINAS">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="FolderPath">ATLAS A ZARAGOZA 2019/Atlas de Atizapán de Zaragoza/Geológicos/CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="SymbolID">2</SimpleData>
+		<SimpleData name="AltMode">-1</SimpleData>
+		<SimpleData name="Base">15.00000000000</SimpleData>
+		<SimpleData name="Clamped">0</SimpleData>
+		<SimpleData name="Extruded">0</SimpleData>
+		<SimpleData name="PopupInfo">Colonia: Lomas de Guadalupe
+Número de calles afectadas: 7
+Calles afectadas: Cerrada Morelos, Cds. Jose de la Peña, Cda. Doroteo Arango, Rodolfo Fierro, Tomas Urbina, Av. Sagitario, Morelos.
+Perímetro: 0.62 km
+Área Hectáreas: 2.22
+Población aproxima</SimpleData>
+		<SimpleData name="Shape_Leng">0.00484183444</SimpleData>
+		<SimpleData name="Shape_Area">0.00000121107</SimpleData>
+		<SimpleData name="TEMA">CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="ETIQUETA">ZM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2455650619999,19.536770222,0 -99.2452908159999,19.537074063,0 -99.24510467,19.537007799,0 -99.2450989089999,19.537001697,0 -99.2450582229999,19.5369838710001,0 -99.24502863,19.536993053,0 -99.2449628849999,19.536957365,0 -99.2448847429999,19.536970781,0 -99.2447765479999,19.537000021,0 -99.2447464309999,19.537031227,0 -99.2447070279999,19.537017801,0 -99.2442020679999,19.5364256600001,0 -99.243748634,19.536018207,0 -99.244009276,19.535647181,0 -99.244977502,19.536104457,0 -99.2455650619999,19.536770222,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>CS22</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#04_CAVIDADES_MINAS">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="FolderPath">ATLAS A ZARAGOZA 2019/Atlas de Atizapán de Zaragoza/Geológicos/CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="SymbolID">2</SimpleData>
+		<SimpleData name="AltMode">-1</SimpleData>
+		<SimpleData name="Base">10.00000000000</SimpleData>
+		<SimpleData name="Clamped">0</SimpleData>
+		<SimpleData name="Extruded">0</SimpleData>
+		<SimpleData name="PopupInfo">Colonia: Calacoaya
+Número de calles afectadas: 3
+Calles afectadas: Flores Magon, Independencia, Cda. Leopoldo Sosa
+Perímetro: 0.53 km
+Área Hectáreas: 1.93
+Población aproximada: 1510
+Vivienda total habitada: 488
+Centros de salud y hospitales: 0 
+Cent</SimpleData>
+		<SimpleData name="Shape_Leng">0.00427016445</SimpleData>
+		<SimpleData name="Shape_Area">0.00000129158</SimpleData>
+		<SimpleData name="TEMA">CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="ETIQUETA">ZM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.245483171,19.533881143,0 -99.2455629559999,19.534015477,0 -99.245581766,19.534045156,0 -99.2456271169999,19.534112547,0 -99.2456457629999,19.5341630230001,0 -99.245638419,19.534289271,0 -99.2456254619999,19.5343672110001,0 -99.2456631949999,19.534518236,0 -99.2456788429999,19.5347408690001,0 -99.2455650589999,19.53498106,0 -99.2454031299999,19.535114556,0 -99.2453490289999,19.535163475,0 -99.2452661329999,19.535116009,0 -99.245095371,19.5351098410001,0 -99.244902973,19.535109339,0 -99.2447677599999,19.534975955,0 -99.2446954759999,19.534610761,0 -99.244600539,19.534338609,0 -99.2445698159999,19.534064807,0 -99.2445878889999,19.5339168940001,0 -99.2446319239999,19.533779834,0 -99.244946563,19.533664361,0 -99.2452542239999,19.5337076430001,0 -99.245483171,19.533881143,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>CS23</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#04_CAVIDADES_MINAS">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="FolderPath">ATLAS A ZARAGOZA 2019/Atlas de Atizapán de Zaragoza/Geológicos/CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="SymbolID">2</SimpleData>
+		<SimpleData name="AltMode">-1</SimpleData>
+		<SimpleData name="Base">15.00000000000</SimpleData>
+		<SimpleData name="Clamped">0</SimpleData>
+		<SimpleData name="Extruded">0</SimpleData>
+		<SimpleData name="PopupInfo">Colonia: México Nuevo
+Número de calles afectadas: 4
+Calles afectadas: Esfuerzo Campesino, Freternidad, Pioneros del cooperativismo, Democracia
+Perímetro: 1.00 km
+Área Hectáreas: 7.33 
+Población aproximada: 1724
+Vivienda total habitada: 521
+Centros</SimpleData>
+		<SimpleData name="Shape_Leng">0.00659697910</SimpleData>
+		<SimpleData name="Shape_Area">0.00000312495</SimpleData>
+		<SimpleData name="TEMA">CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="ETIQUETA">ZM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.275060882,19.555931561,0 -99.2750004109999,19.555886952,0 -99.274932553,19.555802706,0 -99.274810501,19.555686804,0 -99.2745831759999,19.55549965,0 -99.2742517019999,19.5551028,0 -99.2741018439999,19.5546347690001,0 -99.2740128389999,19.554116997,0 -99.2741823309999,19.5538469520001,0 -99.2744516649999,19.5537471480001,0 -99.2747899349999,19.553778308,0 -99.2752455759999,19.553933287,0 -99.275602743,19.554049735,0 -99.2758653169999,19.5543139800001,0 -99.2759780359999,19.554531591,0 -99.2759635009999,19.554941813,0 -99.2758466429999,19.5554622870001,0 -99.275537054,19.5559484070001,0 -99.275060882,19.555931561,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>CS24</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#04_CAVIDADES_MINAS">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="FolderPath">ATLAS A ZARAGOZA 2019/Atlas de Atizapán de Zaragoza/Geológicos/CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="SymbolID">2</SimpleData>
+		<SimpleData name="AltMode">0</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="Clamped">-1</SimpleData>
+		<SimpleData name="Extruded">0</SimpleData>
+		<SimpleData name="PopupInfo">Colonia: Lomas de San Miguel
+Número de calles afectadas: 6
+Calles afectadas: Nardos, Cerezos, Manzana, Jazmin, Mirto, Geranio
+Perímetro: 0.68 km
+Área Hectáreas: 2.58 
+Población aproximada: 1437
+Vivienda total habitada: 405
+Centros de salud y hospita</SimpleData>
+		<SimpleData name="Shape_Leng">0.00523661475</SimpleData>
+		<SimpleData name="Shape_Area">0.00000143730</SimpleData>
+		<SimpleData name="TEMA">CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="ETIQUETA">ZM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2342406219999,19.591647631,0 -99.2347259309999,19.590718221,0 -99.2354059449999,19.591238024,0 -99.2352872499999,19.592092321,0 -99.2348335599999,19.5921022580001,0 -99.2346410639999,19.592708036,0 -99.2342472329999,19.5926254880001,0 -99.2342406219999,19.591647631,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>CS25</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#04_CAVIDADES_MINAS">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="FolderPath">ATLAS A ZARAGOZA 2019/Atlas de Atizapán de Zaragoza/Geológicos/CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="SymbolID">2</SimpleData>
+		<SimpleData name="AltMode">0</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="Clamped">-1</SimpleData>
+		<SimpleData name="Extruded">0</SimpleData>
+		<SimpleData name="PopupInfo">Colonia: San Antonio Pocitos
+Número de calles afectadas: 11
+Calles afectadas: Prol. Olímpica, Enrique Barrera, Cañada, Minas, 1ra Cda Enrique Barrera, 2da Cda Enrique Barrera, 3ra Cda Enrique Barrera, Remo, S. Isidro, Mirador dos, Bugambilias, Fútbol</SimpleData>
+		<SimpleData name="Shape_Leng">0.00647789959</SimpleData>
+		<SimpleData name="Shape_Area">0.00000304808</SimpleData>
+		<SimpleData name="TEMA">CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="ETIQUETA">ZM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2237715159999,19.584802547,0 -99.223586954,19.584764582,0 -99.2233252079999,19.584819933,0 -99.223106864,19.584566403,0 -99.2229344819999,19.584240142,0 -99.222923591,19.5840361730001,0 -99.222980394,19.583756534,0 -99.223036248,19.58364509,0 -99.223262902,19.583445722,0 -99.2234291619999,19.583317526,0 -99.2235737559999,19.583180121,0 -99.223924476,19.583091627,0 -99.2241366149999,19.583052205,0 -99.2246609689999,19.583098803,0 -99.2248787179999,19.583130379,0 -99.224976269,19.5831763510001,0 -99.2250081049999,19.58320053,0 -99.225072062,19.583293224,0 -99.225145007,19.583434605,0 -99.225189431,19.5835273590001,0 -99.2252125899999,19.583623408,0 -99.2252320739999,19.58383429,0 -99.2251711799999,19.58403352,0 -99.224945016,19.584265211,0 -99.2246877589999,19.584439914,0 -99.2241024499999,19.584733416,0 -99.2237715159999,19.584802547,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>CS26</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#04_CAVIDADES_MINAS">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="FolderPath">ATLAS A ZARAGOZA 2019/Atlas de Atizapán de Zaragoza/Geológicos/CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="SymbolID">2</SimpleData>
+		<SimpleData name="AltMode">0</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="Clamped">-1</SimpleData>
+		<SimpleData name="Extruded">0</SimpleData>
+		<SimpleData name="PopupInfo">Colonia: Prados de Ixtacala
+Número de calles afectadas: 4
+Calles afectadas: De Nardos, Crisantemo, Jazmin, Nardos
+Perímetro: 0.35 km
+Área Hectáreas: 0.90 
+Población aproximada: 335
+Vivienda total habitada: 81
+Centros de salud y hospitales: 0 
+Centro</SimpleData>
+		<SimpleData name="Shape_Leng">0.00295570999</SimpleData>
+		<SimpleData name="Shape_Area">0.00000066442</SimpleData>
+		<SimpleData name="TEMA">CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="ETIQUETA">ZM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.242240817,19.593280968,0 -99.2422295849999,19.593270273,0 -99.242196381,19.593286747,0 -99.2421685959999,19.59329239,0 -99.2421408499999,19.593308865,0 -99.2421129939999,19.5933145270001,0 -99.2420795089999,19.593314822,0 -99.2420515699999,19.593304226,0 -99.2419901709999,19.5932722900001,0 -99.2419456439999,19.593234897,0 -99.2418903369999,19.593160189,0 -99.241851942,19.593096371,0 -99.2418361429999,19.59300627,0 -99.2418372479999,19.592885593,0 -99.2418601249999,19.592766358,0 -99.2418934949999,19.592638763,0 -99.2419478469999,19.5925528600001,0 -99.2420338849999,19.592417874,0 -99.2421509909999,19.5923337610001,0 -99.2422467039999,19.592328809,0 -99.2423751189999,19.592353485,0 -99.2424889009999,19.59242286,0 -99.2425770129999,19.592522623,0 -99.2426379989999,19.592597912,0 -99.2426946129999,19.592698993,0 -99.2427151699999,19.5928321580001,0 -99.242712962,19.592925543,0 -99.242683302,19.5930249350001,0 -99.2426310559999,19.593119905,0 -99.2425559689999,19.5932051820001,0 -99.2422686459999,19.593280902,0 -99.242240817,19.593280968,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>CS27</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#04_CAVIDADES_MINAS">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="FolderPath">ATLAS A ZARAGOZA 2019/Atlas de Atizapán de Zaragoza/Geológicos/CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="SymbolID">2</SimpleData>
+		<SimpleData name="AltMode">0</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="Clamped">-1</SimpleData>
+		<SimpleData name="Extruded">0</SimpleData>
+		<SimpleData name="PopupInfo">Colonia: México 86
+Número de Calles afectadas: 0
+Calles afectadas: S/N
+Perímetro: 0.42 km
+Área Hectáreas: 0.99 
+Población aproximada: 12
+Vivienda total habitada: 2
+Centros de salud y hospitales: 0 
+Centros de trabajo y educativos: 0</SimpleData>
+		<SimpleData name="Shape_Leng">0.00365599115</SimpleData>
+		<SimpleData name="Shape_Area">0.00000074433</SimpleData>
+		<SimpleData name="TEMA">CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="ETIQUETA">ZM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.249125554,19.590024853,0 -99.2493290079999,19.59060061,0 -99.2481181989999,19.590883166,0 -99.2479733699999,19.590277891,0 -99.249125554,19.590024853,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>CS28</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#04_CAVIDADES_MINAS">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="FolderPath">ATLAS A ZARAGOZA 2019/Atlas de Atizapán de Zaragoza/Geológicos/CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="SymbolID">2</SimpleData>
+		<SimpleData name="AltMode">0</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="Clamped">-1</SimpleData>
+		<SimpleData name="Extruded">0</SimpleData>
+		<SimpleData name="PopupInfo">Colonia: Lomas Lindas
+Número de calles afectadas: 8
+Calles afectadas: Golfo de Tonkin, Oceano Ártico
+Perímetro: 0.86 km
+Área Hectáreas:  0.69
+Población aproximada: 2242
+Vivienda total habitada: 179
+Centros de salud y hospitales: 0 
+Centros de traba</SimpleData>
+		<SimpleData name="Shape_Leng">0.00933580257</SimpleData>
+		<SimpleData name="Shape_Area">0.00000433577</SimpleData>
+		<SimpleData name="TEMA">CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="ETIQUETA">ZM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.250695034,19.5719261880001,0 -99.2509951819999,19.572624037,0 -99.2509750789999,19.5729208,0 -99.2512470029999,19.573447448,0 -99.2512499939999,19.573756575,0 -99.251148718,19.574020021,0 -99.2508699219999,19.574038788,0 -99.250612871,19.57390931,0 -99.25034666,19.573766505,0 -99.2501423569999,19.573593907,0 -99.2500104199999,19.573339601,0 -99.2499671479999,19.5732309900001,0 -99.249649241,19.573082873,0 -99.2493834729999,19.572872653,0 -99.249102206,19.572357863,0 -99.2490963129999,19.571903697,0 -99.2495140609999,19.571176353,0 -99.249566551,19.570945368,0 -99.2496258499999,19.57086262,0 -99.2496559089999,19.57081572,0 -99.2497075849999,19.57079309,0 -99.2497492739999,19.570747107,0 -99.2497922809999,19.570684408,0 -99.2498836069999,19.570622744,0 -99.2500445429999,19.570517435,0 -99.2502715789999,19.570327718,0 -99.2504349159999,19.5704184300001,0 -99.25040979,19.570504212,0 -99.2503442609999,19.570614301,0 -99.2504499649999,19.570848512,0 -99.2504787289999,19.571171135,0 -99.250446298,19.571387781,0 -99.2505972259999,19.571682746,0 -99.250695034,19.5719261880001,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>CS29</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#04_CAVIDADES_MINAS">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="FolderPath">ATLAS A ZARAGOZA 2019/Atlas de Atizapán de Zaragoza/Geológicos/CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="SymbolID">2</SimpleData>
+		<SimpleData name="AltMode">0</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="Clamped">-1</SimpleData>
+		<SimpleData name="Extruded">0</SimpleData>
+		<SimpleData name="PopupInfo">Colonia: México 86
+Número de calles afectadas: 4
+Calles afectadas: Holanda, España, Brasil, Bulgaria
+Perímetro: 0.56 km
+Área Hectáreas: 2.08 
+Población aproximada: 510
+Vivienda total habitada: 137
+Centros de salud y hospitales: 0 
+Centros de traba</SimpleData>
+		<SimpleData name="Shape_Leng">0.00470528315</SimpleData>
+		<SimpleData name="Shape_Area">0.00000150377</SimpleData>
+		<SimpleData name="TEMA">CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="ETIQUETA">ZM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2462410199999,19.590937161,0 -99.2473624669999,19.590416438,0 -99.2474777479999,19.5906205470001,0 -99.247486333,19.591005985,0 -99.247481242,19.591259214,0 -99.2474858559999,19.591430062,0 -99.247461184,19.591594474,0 -99.2474310749999,19.591731044,0 -99.247391097,19.591838205,0 -99.247365625,19.591893509,0 -99.247322265,19.591924928,0 -99.247298411,19.591947669,0 -99.2472687589999,19.59196448,0 -99.247234287,19.5919886770001,0 -99.2472038079999,19.591998971,0 -99.2471602689999,19.59197018,0 -99.246918748,19.5919502140001,0 -99.246813355,19.591933089,0 -99.2467554299999,19.591925076,0 -99.2466869819999,19.591918155,0 -99.246613204,19.591911774,0 -99.2465501139999,19.591883329,0 -99.246486932,19.591876643,0 -99.24641963,19.591822794,0 -99.2463795239999,19.591759969,0 -99.246340119,19.5916966930001,0 -99.2463067829999,19.5916271,0 -99.2462847959999,19.591545456,0 -99.2462715879999,19.591502282,0 -99.2462642349999,19.591442508,0 -99.246256219,19.591396968,0 -99.246240824,19.591304784,0 -99.2462240599999,19.591248304,0 -99.2462278199999,19.591179328,0 -99.2462309,19.591122833,0 -99.2462336299999,19.591072734,0 -99.2462417059999,19.591012015,0 -99.246243742,19.590974183,0 -99.2462410199999,19.590937161,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>CS30</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#04_CAVIDADES_MINAS">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="FolderPath">ATLAS A ZARAGOZA 2019/Atlas de Atizapán de Zaragoza/Geológicos/CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="SymbolID">2</SimpleData>
+		<SimpleData name="AltMode">0</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="Clamped">-1</SimpleData>
+		<SimpleData name="Extruded">0</SimpleData>
+		<SimpleData name="PopupInfo">Colonia: México Nuevo
+Número de calles afectadas: 6
+Calles afectadas: Consejo de Vigilancia, Consejo de Administración, Asamblea General, Comisión de conciliación y arbitraje, Veracruz, Comisión de Previsión Social
+Perímetro: 1.07 km
+Área Hectá</SimpleData>
+		<SimpleData name="Shape_Leng">0.00988006126</SimpleData>
+		<SimpleData name="Shape_Area">0.00000562828</SimpleData>
+		<SimpleData name="TEMA">CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="ETIQUETA">ZM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2674174369999,19.560129157,0 -99.2673200559999,19.560580202,0 -99.26728103,19.560933531,0 -99.267027969,19.561398695,0 -99.2665674259999,19.561734167,0 -99.266104129,19.5617464100001,0 -99.2659154299999,19.561704733,0 -99.265809689,19.561715522,0 -99.2652567599999,19.56151452,0 -99.2645632429999,19.5612186430001,0 -99.2638981489999,19.560885628,0 -99.2638018499999,19.560758728,0 -99.2637429309999,19.560642298,0 -99.2637557239999,19.560533704,0 -99.263838337,19.560036052,0 -99.2640320789999,19.559676231,0 -99.2642026079999,19.559553704,0 -99.2644299569999,19.5594311830001,0 -99.2646919369999,19.559285217,0 -99.2650133229999,19.559359965,0 -99.2651768509999,19.5594494850001,0 -99.2654930889999,19.559770721,0 -99.266133057,19.560137178,0 -99.2672961309999,19.5602370020001,0 -99.2674174369999,19.560129157,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>CS31</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#04_CAVIDADES_MINAS">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="FolderPath">ATLAS A ZARAGOZA 2019/Atlas de Atizapán de Zaragoza/Geológicos/CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="SymbolID">2</SimpleData>
+		<SimpleData name="AltMode">-1</SimpleData>
+		<SimpleData name="Base">20.00000000000</SimpleData>
+		<SimpleData name="Clamped">0</SimpleData>
+		<SimpleData name="Extruded">0</SimpleData>
+		<SimpleData name="PopupInfo">Colonia: Las Alamedas
+Número de calles afectadas: 0
+Calles afectadas: S/N
+Perímetro: 1.68 km
+Área Hectáreas: 9.26
+Población aproximada: 2936
+Vivienda total habitada: 743
+Centros de salud y hospitales: 0 
+Centros de trabajo y educativos: 0</SimpleData>
+		<SimpleData name="Shape_Leng">0.00972510540</SimpleData>
+		<SimpleData name="Shape_Area">0.00000367520</SimpleData>
+		<SimpleData name="TEMA">CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="ETIQUETA">ZM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2509634529999,19.549335227,0 -99.2515855759999,19.54979717,0 -99.2505138909999,19.5503159890001,0 -99.2499193009999,19.550857551,0 -99.249454305,19.550600736,0 -99.2494448,19.550289389,0 -99.2490923509999,19.549855336,0 -99.2489256059999,19.549767967,0 -99.2484306409999,19.549431342,0 -99.2480531,19.549154715,0 -99.247934537,19.548810307,0 -99.2480072399999,19.548536939,0 -99.2480980649999,19.548402509,0 -99.2482477349999,19.548354743,0 -99.2483299729999,19.548428361,0 -99.2497079119999,19.548881275,0 -99.2500873589999,19.5493376040001,0 -99.2501326709999,19.549563398,0 -99.2501608259999,19.5496455680001,0 -99.250803595,19.549403993,0 -99.2509634529999,19.549335227,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>CS32</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#04_CAVIDADES_MINAS">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="FolderPath">ATLAS A ZARAGOZA 2019/Atlas de Atizapán de Zaragoza/Geológicos/CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="SymbolID">2</SimpleData>
+		<SimpleData name="AltMode">0</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="Clamped">-1</SimpleData>
+		<SimpleData name="Extruded">0</SimpleData>
+		<SimpleData name="PopupInfo">Colonia: Primero de Septiembre
+Número de calles afectadas: 19
+Calles afectadas: Aldama, Miguel Hidalgo, Emiliano Zapata, Venustiano Carranza, Holanda, Guadalupe Victoria, Francisco I. Madero, Allende, Cardenas, Obregón, Prol. Lázaro Cárdenas, Benito</SimpleData>
+		<SimpleData name="Shape_Leng">0.01261082945</SimpleData>
+		<SimpleData name="Shape_Area">0.00000697532</SimpleData>
+		<SimpleData name="TEMA">CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="ETIQUETA">ZM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2557871229999,19.5904054430001,0 -99.2559170499999,19.590471458,0 -99.2560128199999,19.5905142710001,0 -99.256056292,19.590536144,0 -99.2560793979999,19.590580158,0 -99.2561014889999,19.590646119,0 -99.2561276979999,19.5907229950001,0 -99.25614347,19.590823229,0 -99.2561741659999,19.590912355,0 -99.2561856939999,19.590973435,0 -99.2562020289999,19.591076559,0 -99.2562202289999,19.591243792,0 -99.256220973,19.5913615580001,0 -99.2561921119999,19.591476405,0 -99.256159429,19.591582025,0 -99.2561062389999,19.591657399,0 -99.256030319,19.59172496,0 -99.255892279,19.5917543780001,0 -99.2556524679999,19.591773068,0 -99.2555110579999,19.591757632,0 -99.2553737489999,19.591753906,0 -99.2551532349999,19.591728064,0 -99.254865689,19.5916639160001,0 -99.2546084369999,19.591590258,0 -99.2544328199999,19.591575615,0 -99.254297708,19.5915677620001,0 -99.254204868,19.5915344310001,0 -99.2540549919999,19.5914965310001,0 -99.2537725129999,19.591398306,0 -99.2537185749999,19.591361045,0 -99.2535666409999,19.591292517,0 -99.2535210329999,19.5912456,0 -99.2534487449999,19.591201482,0 -99.2534163639999,19.5911741510001,0 -99.253346568,19.59114038,0 -99.253263122,19.591078176,0 -99.253154066,19.591019857,0 -99.252984649,19.590968825,0 -99.2528632339999,19.5909316,0 -99.2527134679999,19.590936287,0 -99.2524963279999,19.590960988,0 -99.2523145819999,19.5909914150001,0 -99.2521356619999,19.591051313,0 -99.251854984,19.591080712,0 -99.2515314809999,19.591076131,0 -99.2514229509999,19.591008339,0 -99.251394797,19.590971811,0 -99.2513107949999,19.590998786,0 -99.251255336,19.5909261350001,0 -99.2511826019999,19.590836744,0 -99.2511589809999,19.590706431,0 -99.2511516149999,19.590568308,0 -99.251144287,19.590432781,0 -99.251138988,19.590334778,0 -99.2511418379999,19.5902372090001,0 -99.2511617139999,19.5901566410001,0 -99.2511823879999,19.590094051,0 -99.251224807,19.5899958580001,0 -99.2512976499999,19.5898891680001,0 -99.2513751269999,19.589750704,0 -99.2515271129999,19.589479349,0 -99.2515449719999,19.589414554,0 -99.2557871229999,19.5904054430001,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>CS33</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#04_CAVIDADES_MINAS">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="FolderPath">ATLAS A ZARAGOZA 2019/Atlas de Atizapán de Zaragoza/Geológicos/CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="SymbolID">2</SimpleData>
+		<SimpleData name="AltMode">0</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="Clamped">-1</SimpleData>
+		<SimpleData name="Extruded">0</SimpleData>
+		<SimpleData name="PopupInfo">Colonia: Prof. Cristobal Higuera
+Número de calles afectadas: 3
+Calles afectadas: Emliano Zapata, Allende, Cda de Emiliano Zapata, 2da Cda de Emiliano Zapata
+Perímetro: 0.54 km12.24
+Área Hectáreas: 1.51
+Población aproximada: 706
+Vivienda total habita</SimpleData>
+		<SimpleData name="Shape_Leng">0.00338542532</SimpleData>
+		<SimpleData name="Shape_Area">0.00000064032</SimpleData>
+		<SimpleData name="TEMA">CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="ETIQUETA">ZM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.241800519,19.5771412070001,0 -99.241719694,19.577478852,0 -99.24125503,19.577243512,0 -99.2412546319999,19.5772350870001,0 -99.2412413659999,19.5772064380001,0 -99.241239824,19.577173039,0 -99.2412431909999,19.577160328,0 -99.24124242,19.577143747,0 -99.2412369579999,19.577110969,0 -99.2412360099999,19.577090438,0 -99.2412345009999,19.5770577530001,0 -99.241229478,19.577033591,0 -99.2412172359999,19.577022101,0 -99.2411968769999,19.5770029920001,0 -99.241160845,19.576980776,0 -99.2411218769999,19.576982931,0 -99.2410782729999,19.576965185,0 -99.2408559419999,19.576759845,0 -99.2414022739999,19.576231324,0 -99.2416044289999,19.576316483,0 -99.241800519,19.5771412070001,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>CS34</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#04_CAVIDADES_MINAS">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="FolderPath">ATLAS A ZARAGOZA 2019/Atlas de Atizapán de Zaragoza/Geológicos/CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="SymbolID">2</SimpleData>
+		<SimpleData name="AltMode">0</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="Clamped">-1</SimpleData>
+		<SimpleData name="Extruded">0</SimpleData>
+		<SimpleData name="PopupInfo">Colonia: Prof Cristóbal Herrera
+Número de calles afectadas: 9
+Calles afectadas: Maguey, Chabacano, Mango, Sandía, Higo, Toronja, Granada Chica, Fresa, Durazno, Cda Sandia.
+Perímetro: 0.95 km
+Área Hectáreas: 5.76
+Población aproximada: 2074
+Vivienda</SimpleData>
+		<SimpleData name="Shape_Leng">0.00836059092</SimpleData>
+		<SimpleData name="Shape_Area">0.00000445105</SimpleData>
+		<SimpleData name="TEMA">CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="ETIQUETA">ZM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2443680059999,19.579655475,0 -99.24427938,19.577683428,0 -99.2459273009999,19.57762402,0 -99.2460325869999,19.577639836,0 -99.2461311279999,19.580134351,0 -99.2459918809999,19.580179343,0 -99.24591092,19.580233886,0 -99.2458371919999,19.580278068,0 -99.2456697459999,19.580324496,0 -99.2455515009999,19.580341775,0 -99.2454326389999,19.580348231,0 -99.2452879199999,19.580323462,0 -99.2451947069999,19.58027445,0 -99.245068432,19.580217814,0 -99.244884417,19.580146248,0 -99.24467757,19.5800570650001,0 -99.244586575,19.580024525,0 -99.2445192639999,19.580020878,0 -99.244478612,19.579994835,0 -99.2444393649999,19.579948995,0 -99.2443882079999,19.579836318,0 -99.244380934,19.579702658,0 -99.2443680059999,19.579655475,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>CS35</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#04_CAVIDADES_MINAS">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="FolderPath">ATLAS A ZARAGOZA 2019/Atlas de Atizapán de Zaragoza/Geológicos/CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="SymbolID">2</SimpleData>
+		<SimpleData name="AltMode">0</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="Clamped">-1</SimpleData>
+		<SimpleData name="Extruded">0</SimpleData>
+		<SimpleData name="PopupInfo">Colonia: Puerto de chivos
+Número de calles afectadas: 0
+Calles afectadas: S/N
+Perímetro:2.01 km
+Área Hectáreas: 20.04
+Población aproximada: 0
+Vivienda total habitada: 1
+Centros de salud y hospitales: 0 
+Centros de trabajo y educativos: 0</SimpleData>
+		<SimpleData name="Shape_Leng">0.00957622313</SimpleData>
+		<SimpleData name="Shape_Area">0.00000361006</SimpleData>
+		<SimpleData name="TEMA">CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="ETIQUETA">ZM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.279581604,19.590603515,0 -99.279554616,19.590605434,0 -99.2793092399999,19.5908877,0 -99.279091798,19.591086175,0 -99.278932405,19.591047496,0 -99.278874649,19.590893866,0 -99.278854998,19.5907874420001,0 -99.2788818389999,19.590697272,0 -99.278972056,19.590562369,0 -99.2790350969999,19.5905085090001,0 -99.2790598619999,19.590371938,0 -99.279057374,19.590238954,0 -99.2790548609999,19.590106325,0 -99.2790071299999,19.5899241590001,0 -99.2788724709999,19.589796949,0 -99.278774587,19.589729683,0 -99.2786417819999,19.589637141,0 -99.2784387669999,19.589550294,0 -99.278236092,19.589455991,0 -99.2781407359999,19.5893473620001,0 -99.2780454669999,19.589240898,0 -99.277976562,19.5891513,0 -99.2779080879999,19.58905387,0 -99.2778507779999,19.588881599,0 -99.277891878,19.58864965,0 -99.277973558,19.588508263,0 -99.2780865559999,19.588432368,0 -99.2781725739999,19.5883897620001,0 -99.278377145,19.588342796,0 -99.278622065,19.5883887200001,0 -99.2787230639999,19.588433342,0 -99.2788409079999,19.5884699100001,0 -99.2788835459999,19.588524024,0 -99.2789270909999,19.5886339940001,0 -99.278970331,19.588705244,0 -99.279021533,19.588736103,0 -99.2791566939999,19.5887403,0 -99.279241486,19.588761778,0 -99.279385126,19.588774264,0 -99.2795384599999,19.588804982,0 -99.27968279,19.588811649,0 -99.279826934,19.588810252,0 -99.279919711,19.588801007,0 -99.28012289,19.588805716,0 -99.2803279979999,19.588850046,0 -99.2805273979999,19.588919723,0 -99.280555275,19.588952044,0 -99.2805150869999,19.588985322,0 -99.2805777279999,19.5890255730001,0 -99.2806211329999,19.589148933,0 -99.2805315529999,19.589334061,0 -99.2805086009999,19.5894879460001,0 -99.2805218059999,19.5896914350001,0 -99.2804758659999,19.5897871660001,0 -99.280399382,19.589815477,0 -99.2803343859999,19.589895357,0 -99.2802160799999,19.589968785,0 -99.2801124149999,19.589998472,0 -99.280069079,19.590008841,0 -99.280000869,19.590047141,0 -99.279932468,19.5900782030001,0 -99.279828504,19.590118439,0 -99.2797497479999,19.590139435,0 -99.279698775,19.590187626,0 -99.2796484119999,19.590254819,0 -99.2796241539999,19.59031216,0 -99.2796189139999,19.590397523,0 -99.2795951799999,19.590481992,0 -99.2795792689999,19.5905386200001,0 -99.2795719479999,19.59058558,0 -99.279547555,19.5906619730001,0 -99.2795313229999,19.590711359,0 -99.279498195,19.5907931020001,0 -99.279581604,19.590603515,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>CS36</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#04_CAVIDADES_MINAS">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="FolderPath">ATLAS A ZARAGOZA 2019/Atlas de Atizapán de Zaragoza/Geológicos/CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="SymbolID">2</SimpleData>
+		<SimpleData name="AltMode">0</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="Clamped">-1</SimpleData>
+		<SimpleData name="Extruded">0</SimpleData>
+		<SimpleData name="PopupInfo">Colonia: Rinconada Bonfil
+Número de calles afectadas: 15
+Calles afectadas: 18 de Mayo, 12 de diciembre, Av 16 de Septiembre, 5 de Mayo, 20 de noviembre, 24 de febrero, Cda 21 de marzo, 18 de marzo, Cda 16 de Septiembre
+Perímetro:1.62 km
+Área Hectárea</SimpleData>
+		<SimpleData name="Shape_Leng">0.01393518184</SimpleData>
+		<SimpleData name="Shape_Area">0.00001218425</SimpleData>
+		<SimpleData name="TEMA">CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="ETIQUETA">ZM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2414513799999,19.581489411,0 -99.243360926,19.5843928090001,0 -99.2433440139999,19.5844083470001,0 -99.243287809,19.584463094,0 -99.2432380659999,19.584563494,0 -99.2432362859999,19.584594212,0 -99.2432450359999,19.584648443,0 -99.2432123249999,19.58474196,0 -99.2431936,19.584797133,0 -99.243161376,19.584900855,0 -99.243140204,19.584990084,0 -99.242947524,19.58516161,0 -99.2427314619999,19.58533098,0 -99.242627682,19.585435603,0 -99.2425683849999,19.585492156,0 -99.2425299929999,19.585542498,0 -99.2424928709999,19.585683178,0 -99.2424484939999,19.585760302,0 -99.2423747619999,19.5858455900001,0 -99.242373092,19.585995467,0 -99.2423515499999,19.586267014,0 -99.2421086449999,19.586393479,0 -99.242029932,19.586363427,0 -99.2405277229999,19.585871277,0 -99.2391127769999,19.5823795900001,0 -99.2414513799999,19.581489411,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>CS37</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#04_CAVIDADES_MINAS">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="FolderPath">ATLAS A ZARAGOZA 2019/Atlas de Atizapán de Zaragoza/Geológicos/CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="SymbolID">2</SimpleData>
+		<SimpleData name="AltMode">0</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="Clamped">-1</SimpleData>
+		<SimpleData name="Extruded">0</SimpleData>
+		<SimpleData name="PopupInfo">Colonia: Real de Atizapán
+Número de calles afectadas: 6
+Calles afectadas: Real de los encinos, Cda de las colonias, Real de las fuentes, De los Cedros, Real de las lomas, Real de Jacarandas
+Perímetro: 1.36
+Área Hectáreas: 13.44
+Población aproximada</SimpleData>
+		<SimpleData name="Shape_Leng">0.00935988319</SimpleData>
+		<SimpleData name="Shape_Area">0.00000545882</SimpleData>
+		<SimpleData name="TEMA">CAVIDADES Y MINAS</SimpleData>
+		<SimpleData name="ETIQUETA">ZM</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-99.2382064749999,19.560774766,0 -99.2384167799999,19.5605569890001,0 -99.238374832,19.560724983,0 -99.2383328619999,19.560873222,0 -99.2382488149999,19.561051123,0 -99.2381336339999,19.5613376690001,0 -99.2380498559999,19.561535402,0 -99.2379553979999,19.561663842,0 -99.237902956,19.561752797,0 -99.2378505019999,19.561831842,0 -99.2377350559999,19.561910546,0 -99.2376301979999,19.561949606,0 -99.2375882889999,19.562008802,0 -99.2375149439999,19.562156991,0 -99.237431186,19.5621960710001,0 -99.2372638609999,19.5621854230001,0 -99.2371490849999,19.56212552,0 -99.2370035219999,19.562025777,0 -99.2368687579999,19.561926364,0 -99.2368067019999,19.561876781,0 -99.2367550289999,19.5618273480001,0 -99.2366825819999,19.5617681620001,0 -99.236599879,19.561699193,0 -99.236455327,19.561610541,0 -99.2363212759999,19.561580822,0 -99.2362700359999,19.561531711,0 -99.236208579,19.561482629,0 -99.2360856709999,19.561433491,0 -99.2359837709999,19.5613649420001,0 -99.235922863,19.561296581,0 -99.23587166,19.561238081,0 -99.2358409539999,19.561160131,0 -99.2358094799999,19.561082164,0 -99.2357678269999,19.561013922,0 -99.2357254199999,19.560877299,0 -99.235692773,19.560701354,0 -99.235670541,19.560544684,0 -99.2356699949999,19.560495648,0 -99.2356850929999,19.560160406,0 -99.236268737,19.559689442,0 -99.236665127,19.55959793,0 -99.236884849,19.5595669460001,0 -99.237252476,19.559557815,0 -99.237924284,19.55960642,0 -99.2383444599999,19.559714896,0 -99.23841794,19.559784229,0 -99.2384703429999,19.5599229260001,0 -99.2385331789999,19.560091331,0 -99.2384905579999,19.560398557,0 -99.2382800949999,19.560754848,0 -99.2382064749999,19.560774766,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>
