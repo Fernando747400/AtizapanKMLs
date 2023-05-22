@@ -7,7 +7,7 @@
 </Schema>
 <Folder><name>Colonias</name>
   <Placemark>
-	<Style><LineStyle><color>ff0080ff</color></LineStyle><PolyStyle><fill>1</fill><outline>1</outline><color>550080ff</color></PolyStyle></Style>
+	<Style><LineStyle><color>33ffff00</color></LineStyle><PolyStyle><fill>1</fill><outline>1</outline><color>55ffff00</color></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Colonias">
 		<SimpleData name="Nombre">El Chaparral</SimpleData>
 		<SimpleData name="Clasific">Colonia</SimpleData>
